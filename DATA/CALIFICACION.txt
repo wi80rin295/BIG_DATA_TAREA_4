@@ -1,0 +1,5 @@
+db.CALIFICACION.insertOne({ID:1, CALIFICACION:"Mala"})
+db.CALIFICACION.insertOne({ID:2, CALIFICACION:"Regular"})
+db.CALIFICACION.insertOne({ID:3, CALIFICACION:"Aceptable"})
+db.CALIFICACION.insertOne({ID:4, CALIFICACION:"Buena"})
+db.CALIFICACION.insertOne({ID:5, CALIFICACION:"Excelente"})
