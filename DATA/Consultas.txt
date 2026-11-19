@@ -1,11 +1,23 @@
+**************************************************************************************
+****************************CREACION DE COLECCIONES **********************************
+**************************************************************************************
+
+
 //Creación de Colecciones
 db.createCollection("IPS")
 db.createCollection("CALIFICACION")
 db.createCollection("UBICACION")
 db.createCollection("TIPO")
 
+//Mostrar colecciones
+show collections
 
-//Insertar datos
+
+
+**************************************************************************************
+*********************CREAR CAMPOS CON INSERCION DE DOCUMENTOS ************************
+**************************************************************************************
+//Insertar datos uno por uno
 
 db.CALIFICACION.insertOne({ID:1, CALIFICACION:"Mala"})
 db.IPS.insertOne({NIT:838000096, Razon_Social:"E.S.E. HOSPITAL SAN RAFAEL DE LETICIA", Direccion:"Carrera 10 NO. 13-78 Leticia (Amazonas)", Telefono:"3203048903", email:"gerencia@esehospitalsanrafael-leticia-amazonas.gov.co", Activa:0, DANE:91001 ,TIPO:4})
@@ -16,17 +28,29 @@ db.TIPO.insertOne({ID:1, TIPO:"Publica"})
 
 db.UBICACION.insertOne({DANE:21000, Departamento:"PRUEBA", Municipio:"PRUEBA"})
 
+// en la carpeta data estan los 4 archivos para ser importados de manera rapida debido a la gran cantidad de documentos
+
+**************************************************************************************
+******************************LECTURA DE  DOCUMENTOS *********************************
+**************************************************************************************
+
 //Lectura de datos
 
 db["CALIFICACION"].find()
+
 db["UBICACION"].find({DANE:91430})
+
 db["IPS"].find({NIT:901179619})
+
 db["TIPO"].find({ID:3})
 
 //DATO DE PRUEBA LECTURA
 db["UBICACION"].find({DANE:21000})
 db["UBICACION"].find({Departamento:"PRUEBA"})
 
+**************************************************************************************
+******************************ACTUALIZACIÓN DE  DOCUMENTOS ***************************
+**************************************************************************************
 
 //Actualizacion de datos
 
@@ -46,7 +70,12 @@ db.UBICACION.updateOne(
 {Departamento:("PRUEBA")}, //filtro
 {$set: {DANE:21001}}); //campo a actualizar
 
-Borrar o eliminar
+
+**************************************************************************************
+******************************BORRADO DE  DOCUMENTOS *********************************
+**************************************************************************************
+
+//Borrar o eliminar
 
 //Borrar todos los documentos  que cumplan una condicion
 db.TIPO.deleteMany({ TIPO:"Mixta"});
@@ -58,6 +87,9 @@ db.IPS.updateOne(
   { $unset: { CALIFICACION: "" } } // Elimina el campo 'CALIFICACION'
 );
 
+//Borrar toda una coleccion
+
+db.IPS.drop() //Borra toda la colección IPS
 
 
 //DATO DE PRUEBA BORRADO
@@ -68,4 +100,180 @@ db.UBICACION.updateOne(
 );
 
 db.UBICACION.deleteMany({ Departamento:("PRUEBA")});
+
+**************************************************************************************
+******************************CONTAR REGISTROS****************************************
+**************************************************************************************
+
+//Contar registros
+
+// Contar todos las IPS de forma exacta
+db.IPS.countDocuments({})
+
+// Contar Municipios que cumplan una condición
+db.UBICACION.countDocuments({ Departamento: "BOYACÁ" })
+
+//Contar todas las IPS que esten dentro de un departamento
+db.IPS.countDocuments({ DANE: 11001 })
+
+
+**************************************************************************************
+******************************CONTAR REGISTROS****************************************
+**************************************************************************************
+
+
+// 1. IPS activas (1) que sean Públicas (4) o Mixtas (3)
+db.IPS.find({
+  Activa: { $eq: 1 },
+  TIPO: { $in: [3, 4] }
+});
+
+// 2. IPS con calificación mayor o igual a 4 (Buena o Excelente) y que NO sean de Bogotá (11001)
+db.IPS.find({
+  CALIFICACION: { $gte: 4 },
+  DANE: { $ne: 11001 }
+});
+
+// 3. Búsqueda por texto parcial (ej. IPS que contengan "SKIN" sin importar mayúsculas)
+db.IPS.find({
+  Razon_Social: { $regex: "skin", $options: "i" }
+});
+
+// 4. Búsqueda por texto parcial (ej. IPS que contengan "FUNDACION" sin importar mayúsculas)
+db.IPS.find({
+  Razon_Social: { $regex: "FUNDACION", $options: "i" }
+});
+
+
+**************************************************************************************
+******************CONSULTA UNIENDO COLECCIONES JOIN***********************************
+**************************************************************************************
+
+db.IPS.aggregate([
+  // Unir con UBICACION
+  {
+    $lookup: {
+      from: "ubicaciones",
+      localField: "DANE",
+      foreignField: "_id",
+      as: "info_ubicacion"
+    }
+  },
+  // Unir con TIPO
+  {
+    $lookup: {
+      from: "tipos_IPS",
+      localField: "TIPO",
+      foreignField: "_id",
+      as: "info_tipo"
+    }
+  },
+  // Unir con CALIFICACION
+  {
+    $lookup: {
+      from: "calificaciones",
+      localField: "CALIFICACION",
+      foreignField: "_id",
+      as: "info_calificacion"
+    }
+  },
+  // Desempaquetar los arrays resultantes (preservando nulos si algún código no cruza)
+  { $unwind: { path: "$info_ubicacion", preserveNullAndEmptyArrays: true } },
+  { $unwind: { path: "$info_tipo", preserveNullAndEmptyArrays: true } },
+  { $unwind: { path: "$info_calificacion", preserveNullAndEmptyArrays: true } },
+  // Dar formato limpio a la salida
+  {
+    $project: {
+      _id: 0,
+      NIT: 1,
+      Razon_Social: 1,
+      Municipio: "$info_ubicacion.municipio",
+      Departamento: "$info_ubicacion.departamento",
+      Tipo_IPS: "$info_tipo.TIPO",
+      Calificacion: "$info_calificacion.CALIFICACION",
+      Estado: { $cond: [{ $eq: ["$Activa", 1] }, "Activa", "Inactiva"] }
+    }
+  }
+]);
+
+
+**************************************************************************************
+*********************************SUMAR REGISTROS**************************************
+**************************************************************************************
+
+//Contar dos valores distintos y sumarlos (ej. IPS Públicas + IPS Privadas)
+
+db.IPS.aggregate([
+  {
+    $group: {
+      _id: null,
+      total_publicas: { $sum: { $cond: [{ $eq: ["$TIPO", 4] }, 1, 0] } },
+      total_privadas: { $sum: { $cond: [{ $eq: ["$TIPO", 1] }, 1, 0] } }
+    }
+  },
+  {
+    $project: {
+      _id: 0,
+      total_publicas: 1,
+      total_privadas: 1,
+      suma_publicas_y_privadas: { $add: ["$total_publicas", "$total_privadas"] }
+    }
+  }
+]);
+
+
+**************************************************************************************
+*******************************AGRUPAR REGISTROS**************************************
+**************************************************************************************
+
+db.IPS.aggregate([
+  // 1. Filtrar Activa = 1 y CALIFICACION = 4
+  {
+    $match: {
+      Activa: 1,
+      CALIFICACION: 4
+    }
+  },
+
+  // 2. Cruzar con la colección exacta "TIPO"
+  {
+    $lookup: {
+      from: "TIPO",
+      localField: "TIPO",
+      foreignField: "ID",   // <-- Si en db.TIPO.findOne() se llama "_id", cámbialo por "_id"
+      as: "tipo_doc"
+    }
+  },
+  { $unwind: "$tipo_doc" },
+
+  // 3. Agrupar y calcular métricas
+  {
+    $group: {
+      _id: "$tipo_doc.TIPO",
+      total_IPS: { $sum: 1 },
+      total_activas: { $sum: "$Activa" },
+      total_inactivas: { $sum: { $subtract: [1, "$Activa"] } },
+      promedio_calificacion: { $avg: "$CALIFICACION" }
+    }
+  },
+
+  // 4. Proyectar resultados finales
+  {
+    $project: {
+      _id: 0,
+      Tipo_IPS: "$_id",
+      total_IPS: 1,
+      total_activas: 1,
+      total_inactivas: 1,
+      promedio_calificacion: { $round: ["$promedio_calificacion", 4] },
+      porcentaje_activas: {
+        $round: [
+          { $multiply: [{ $divide: ["$total_activas", "$total_IPS"] }, 100] },
+          1
+        ]
+      }
+    }
+  }
+]);
+
 

@@ -1,4 +1,4 @@
 ID,TIPO
-1,"Publica"
-2,"Privada"
+1,"Privada"
 3,"Mixta"
+4,"Publica"
