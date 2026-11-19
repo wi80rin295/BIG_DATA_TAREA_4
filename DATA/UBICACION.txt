@@ -1,1 +1,1120 @@
-db.UBICACION.insertOne({DANE:91263, Departamento:"AMAZONAS", Municipio:"EL ENCANTO"})db.UBICACION.insertOne({DANE:91405, Departamento:"AMAZONAS", Municipio:"LA CHORRERA"})db.UBICACION.insertOne({DANE:91407, Departamento:"AMAZONAS", Municipio:"LA PEDRERA"})db.UBICACION.insertOne({DANE:91430, Departamento:"AMAZONAS", Municipio:"LA VICTORIA"})db.UBICACION.insertOne({DANE:91001, Departamento:"AMAZONAS", Municipio:"LETICIA"})db.UBICACION.insertOne({DANE:91460, Departamento:"AMAZONAS", Municipio:"MIRITI - PARANÁ"})db.UBICACION.insertOne({DANE:91530, Departamento:"AMAZONAS", Municipio:"PUERTO ALEGRIA"})db.UBICACION.insertOne({DANE:91536, Departamento:"AMAZONAS", Municipio:"PUERTO ARICA"})db.UBICACION.insertOne({DANE:91540, Departamento:"AMAZONAS", Municipio:"PUERTO NARIÑO"})db.UBICACION.insertOne({DANE:91669, Departamento:"AMAZONAS", Municipio:"PUERTO SANTANDER"})db.UBICACION.insertOne({DANE:91798, Departamento:"AMAZONAS", Municipio:"TARAPACÁ"})db.UBICACION.insertOne({DANE:05120, Departamento:"ANTIOQUIA", Municipio:"CÁCERES"})db.UBICACION.insertOne({DANE:05154, Departamento:"ANTIOQUIA", Municipio:"CAUCASIA"})db.UBICACION.insertOne({DANE:05250, Departamento:"ANTIOQUIA", Municipio:"EL BAGRE"})db.UBICACION.insertOne({DANE:05495, Departamento:"ANTIOQUIA", Municipio:"NECHÍ"})db.UBICACION.insertOne({DANE:05790, Departamento:"ANTIOQUIA", Municipio:"TARAZÁ"})db.UBICACION.insertOne({DANE:05895, Departamento:"ANTIOQUIA", Municipio:"ZARAGOZA"})db.UBICACION.insertOne({DANE:05142, Departamento:"ANTIOQUIA", Municipio:"CARACOLÍ"})db.UBICACION.insertOne({DANE:05425, Departamento:"ANTIOQUIA", Municipio:"MACEO"})db.UBICACION.insertOne({DANE:05579, Departamento:"ANTIOQUIA", Municipio:"PUERTO BERRiO"})db.UBICACION.insertOne({DANE:05585, Departamento:"ANTIOQUIA", Municipio:"PUERTO NARE"})db.UBICACION.insertOne({DANE:05591, Departamento:"ANTIOQUIA", Municipio:"PUERTO TRIUNFO"})db.UBICACION.insertOne({DANE:05893, Departamento:"ANTIOQUIA", Municipio:"YONDÓ"})db.UBICACION.insertOne({DANE:05031, Departamento:"ANTIOQUIA", Municipio:"AMALFI"})db.UBICACION.insertOne({DANE:05040, Departamento:"ANTIOQUIA", Municipio:"ANORÍ"})db.UBICACION.insertOne({DANE:05190, Departamento:"ANTIOQUIA", Municipio:"CISNEROS"})db.UBICACION.insertOne({DANE:05604, Departamento:"ANTIOQUIA", Municipio:"REMEDIOS"})db.UBICACION.insertOne({DANE:05670, Departamento:"ANTIOQUIA", Municipio:"SAN ROQUE"})db.UBICACION.insertOne({DANE:05690, Departamento:"ANTIOQUIA", Municipio:"SANTO DOMINGO"})db.UBICACION.insertOne({DANE:05736, Departamento:"ANTIOQUIA", Municipio:"SEGOVIA"})db.UBICACION.insertOne({DANE:05858, Departamento:"ANTIOQUIA", Municipio:"VEGACHÍ"})db.UBICACION.insertOne({DANE:05885, Departamento:"ANTIOQUIA", Municipio:"YALÍ"})db.UBICACION.insertOne({DANE:05890, Departamento:"ANTIOQUIA", Municipio:"YOLOMBÓ"})db.UBICACION.insertOne({DANE:05038, Departamento:"ANTIOQUIA", Municipio:"ANGOSTURA"})db.UBICACION.insertOne({DANE:05086, Departamento:"ANTIOQUIA", Municipio:"BELMIRA"})db.UBICACION.insertOne({DANE:05107, Departamento:"ANTIOQUIA", Municipio:"BRICEÑO"})db.UBICACION.insertOne({DANE:05134, Departamento:"ANTIOQUIA", Municipio:"CAMPAMENTO"})db.UBICACION.insertOne({DANE:05150, Departamento:"ANTIOQUIA", Municipio:"CAROLINA"})db.UBICACION.insertOne({DANE:05237, Departamento:"ANTIOQUIA", Municipio:"DON MATiAS"})db.UBICACION.insertOne({DANE:05264, Departamento:"ANTIOQUIA", Municipio:"ENTRERRIOS"})db.UBICACION.insertOne({DANE:05310, Departamento:"ANTIOQUIA", Municipio:"GÓMEZ PLATA"})db.UBICACION.insertOne({DANE:05315, Departamento:"ANTIOQUIA", Municipio:"GUADALUPE"})db.UBICACION.insertOne({DANE:05361, Departamento:"ANTIOQUIA", Municipio:"ITUANGO"})db.UBICACION.insertOne({DANE:05647, Departamento:"ANTIOQUIA", Municipio:"SAN ANDRÉS"})db.UBICACION.insertOne({DANE:05658, Departamento:"ANTIOQUIA", Municipio:"SAN JOSÉ DE LA MONTAÑA"})db.UBICACION.insertOne({DANE:05664, Departamento:"ANTIOQUIA", Municipio:"SAN PEDRO"})db.UBICACION.insertOne({DANE:05686, Departamento:"ANTIOQUIA", Municipio:"SANTA ROSA de osos"})db.UBICACION.insertOne({DANE:05819, Departamento:"ANTIOQUIA", Municipio:"TOLEDO"})db.UBICACION.insertOne({DANE:05854, Departamento:"ANTIOQUIA", Municipio:"VALDIVIA"})db.UBICACION.insertOne({DANE:05887, Departamento:"ANTIOQUIA", Municipio:"YARUMAL"})db.UBICACION.insertOne({DANE:05004, Departamento:"ANTIOQUIA", Municipio:"ABRIAQUÍ"})db.UBICACION.insertOne({DANE:05044, Departamento:"ANTIOQUIA", Municipio:"ANZA"})db.UBICACION.insertOne({DANE:05059, Departamento:"ANTIOQUIA", Municipio:"ARMENIA"})db.UBICACION.insertOne({DANE:05113, Departamento:"ANTIOQUIA", Municipio:"BURITICÁ"})db.UBICACION.insertOne({DANE:05138, Departamento:"ANTIOQUIA", Municipio:"CAÑASGORDAS"})db.UBICACION.insertOne({DANE:05234, Departamento:"ANTIOQUIA", Municipio:"DABEIBA"})db.UBICACION.insertOne({DANE:05240, Departamento:"ANTIOQUIA", Municipio:"EBÉJICO"})db.UBICACION.insertOne({DANE:05284, Departamento:"ANTIOQUIA", Municipio:"FRONTINO"})db.UBICACION.insertOne({DANE:05306, Departamento:"ANTIOQUIA", Municipio:"GIRALDO"})db.UBICACION.insertOne({DANE:05347, Departamento:"ANTIOQUIA", Municipio:"HELICONIA"})db.UBICACION.insertOne({DANE:05411, Departamento:"ANTIOQUIA", Municipio:"LIBORINA"})db.UBICACION.insertOne({DANE:05501, Departamento:"ANTIOQUIA", Municipio:"OLAYA"})db.UBICACION.insertOne({DANE:05543, Departamento:"ANTIOQUIA", Municipio:"PEQUE"})db.UBICACION.insertOne({DANE:05628, Departamento:"ANTIOQUIA", Municipio:"SABANALARGA"})db.UBICACION.insertOne({DANE:05656, Departamento:"ANTIOQUIA", Municipio:"SAN JERÓNIMO"})db.UBICACION.insertOne({DANE:05042, Departamento:"ANTIOQUIA", Municipio:"SANTAFÉ DE ANTIOQUIA"})db.UBICACION.insertOne({DANE:05761, Departamento:"ANTIOQUIA", Municipio:"SOPETRaN"})db.UBICACION.insertOne({DANE:05842, Departamento:"ANTIOQUIA", Municipio:"URAMITA"})db.UBICACION.insertOne({DANE:05002, Departamento:"ANTIOQUIA", Municipio:"ABEJORRAL"})db.UBICACION.insertOne({DANE:05021, Departamento:"ANTIOQUIA", Municipio:"ALEJANDRÍA"})db.UBICACION.insertOne({DANE:05055, Departamento:"ANTIOQUIA", Municipio:"ARGELIA"})db.UBICACION.insertOne({DANE:05148, Departamento:"ANTIOQUIA", Municipio:"CARMEN DE VIBORAL"})db.UBICACION.insertOne({DANE:05197, Departamento:"ANTIOQUIA", Municipio:"COCORNÁ"})db.UBICACION.insertOne({DANE:05206, Departamento:"ANTIOQUIA", Municipio:"CONCEPCIÓN"})db.UBICACION.insertOne({DANE:05313, Departamento:"ANTIOQUIA", Municipio:"GRANADA"})db.UBICACION.insertOne({DANE:05318, Departamento:"ANTIOQUIA", Municipio:"GUARNE"})db.UBICACION.insertOne({DANE:05321, Departamento:"ANTIOQUIA", Municipio:"GUATAPE"})db.UBICACION.insertOne({DANE:05376, Departamento:"ANTIOQUIA", Municipio:"LA CEJA"})db.UBICACION.insertOne({DANE:05400, Departamento:"ANTIOQUIA", Municipio:"LA UNIÓN"})db.UBICACION.insertOne({DANE:05440, Departamento:"ANTIOQUIA", Municipio:"MARINILLA"})db.UBICACION.insertOne({DANE:05483, Departamento:"ANTIOQUIA", Municipio:"NARIÑO"})db.UBICACION.insertOne({DANE:05541, Departamento:"ANTIOQUIA", Municipio:"PEÑOL"})db.UBICACION.insertOne({DANE:05607, Departamento:"ANTIOQUIA", Municipio:"RETIRO"})db.UBICACION.insertOne({DANE:05615, Departamento:"ANTIOQUIA", Municipio:"RIONEGRO"})db.UBICACION.insertOne({DANE:05649, Departamento:"ANTIOQUIA", Municipio:"SAN CARLOS"})db.UBICACION.insertOne({DANE:05652, Departamento:"ANTIOQUIA", Municipio:"SAN FRANCISCO"})db.UBICACION.insertOne({DANE:05660, Departamento:"ANTIOQUIA", Municipio:"SAN LUIS"})db.UBICACION.insertOne({DANE:05667, Departamento:"ANTIOQUIA", Municipio:"SAN RAFAEL"})db.UBICACION.insertOne({DANE:05674, Departamento:"ANTIOQUIA", Municipio:"SAN VICENTE"})db.UBICACION.insertOne({DANE:05697, Departamento:"ANTIOQUIA", Municipio:"SANTUARIO"})db.UBICACION.insertOne({DANE:05756, Departamento:"ANTIOQUIA", Municipio:"SONSON"})db.UBICACION.insertOne({DANE:05030, Departamento:"ANTIOQUIA", Municipio:"AMAGa"})db.UBICACION.insertOne({DANE:05034, Departamento:"ANTIOQUIA", Municipio:"ANDES"})db.UBICACION.insertOne({DANE:05036, Departamento:"ANTIOQUIA", Municipio:"ANGELOPOLIS"})db.UBICACION.insertOne({DANE:05091, Departamento:"ANTIOQUIA", Municipio:"BETANIA"})db.UBICACION.insertOne({DANE:05093, Departamento:"ANTIOQUIA", Municipio:"BETULIA"})db.UBICACION.insertOne({DANE:05125, Departamento:"ANTIOQUIA", Municipio:"CAICEDO"})db.UBICACION.insertOne({DANE:05145, Departamento:"ANTIOQUIA", Municipio:"CARAMANTA"})db.UBICACION.insertOne({DANE:05101, Departamento:"ANTIOQUIA", Municipio:"CIUDAD BOLÍVAR"})db.UBICACION.insertOne({DANE:05209, Departamento:"ANTIOQUIA", Municipio:"CONCORDIA"})db.UBICACION.insertOne({DANE:05282, Departamento:"ANTIOQUIA", Municipio:"FREDONIA"})db.UBICACION.insertOne({DANE:05353, Departamento:"ANTIOQUIA", Municipio:"HISPANIA"})db.UBICACION.insertOne({DANE:05364, Departamento:"ANTIOQUIA", Municipio:"JARDÍN"})db.UBICACION.insertOne({DANE:05368, Departamento:"ANTIOQUIA", Municipio:"JERICÓ"})db.UBICACION.insertOne({DANE:05390, Departamento:"ANTIOQUIA", Municipio:"LA PINTADA"})db.UBICACION.insertOne({DANE:05467, Departamento:"ANTIOQUIA", Municipio:"MONTEBELLO"})db.UBICACION.insertOne({DANE:05576, Departamento:"ANTIOQUIA", Municipio:"PUEBLORRICO"})db.UBICACION.insertOne({DANE:05642, Departamento:"ANTIOQUIA", Municipio:"SALGAR"})db.UBICACION.insertOne({DANE:05679, Departamento:"ANTIOQUIA", Municipio:"SANTA BaRBARA"})db.UBICACION.insertOne({DANE:05789, Departamento:"ANTIOQUIA", Municipio:"TÁMESIS"})db.UBICACION.insertOne({DANE:05792, Departamento:"ANTIOQUIA", Municipio:"TARSO"})db.UBICACION.insertOne({DANE:05809, Departamento:"ANTIOQUIA", Municipio:"TITIRIBÍ"})db.UBICACION.insertOne({DANE:05847, Departamento:"ANTIOQUIA", Municipio:"URRAO"})db.UBICACION.insertOne({DANE:05856, Departamento:"ANTIOQUIA", Municipio:"VALPARAISO"})db.UBICACION.insertOne({DANE:05861, Departamento:"ANTIOQUIA", Municipio:"VENECIA"})db.UBICACION.insertOne({DANE:05045, Departamento:"ANTIOQUIA", Municipio:"APARTADÓ"})db.UBICACION.insertOne({DANE:05051, Departamento:"ANTIOQUIA", Municipio:"ARBOLETES"})db.UBICACION.insertOne({DANE:05147, Departamento:"ANTIOQUIA", Municipio:"CAREPA"})db.UBICACION.insertOne({DANE:05172, Departamento:"ANTIOQUIA", Municipio:"CHIGORODÓ"})db.UBICACION.insertOne({DANE:05475, Departamento:"ANTIOQUIA", Municipio:"MURINDÓ"})db.UBICACION.insertOne({DANE:05480, Departamento:"ANTIOQUIA", Municipio:"MUTATA"})db.UBICACION.insertOne({DANE:05490, Departamento:"ANTIOQUIA", Municipio:"NECOCLÍ"})db.UBICACION.insertOne({DANE:05659, Departamento:"ANTIOQUIA", Municipio:"SAN JUAN DE URABA"})db.UBICACION.insertOne({DANE:05665, Departamento:"ANTIOQUIA", Municipio:"SAN PEDRO DE URABA"})db.UBICACION.insertOne({DANE:05837, Departamento:"ANTIOQUIA", Municipio:"TURBO"})db.UBICACION.insertOne({DANE:05873, Departamento:"ANTIOQUIA", Municipio:"VIGÍA DEL FUERTE"})db.UBICACION.insertOne({DANE:05079, Departamento:"ANTIOQUIA", Municipio:"BARBOSA"})db.UBICACION.insertOne({DANE:05088, Departamento:"ANTIOQUIA", Municipio:"BELLO"})db.UBICACION.insertOne({DANE:05129, Departamento:"ANTIOQUIA", Municipio:"CALDAS"})db.UBICACION.insertOne({DANE:05212, Departamento:"ANTIOQUIA", Municipio:"COPACABANA"})db.UBICACION.insertOne({DANE:05266, Departamento:"ANTIOQUIA", Municipio:"ENVIGADO"})db.UBICACION.insertOne({DANE:05308, Departamento:"ANTIOQUIA", Municipio:"GIRARDOTA"})db.UBICACION.insertOne({DANE:05360, Departamento:"ANTIOQUIA", Municipio:"ITAGUI"})db.UBICACION.insertOne({DANE:05380, Departamento:"ANTIOQUIA", Municipio:"LA ESTRELLA"})db.UBICACION.insertOne({DANE:05001, Departamento:"ANTIOQUIA", Municipio:"MEDELLÍN"})db.UBICACION.insertOne({DANE:05631, Departamento:"ANTIOQUIA", Municipio:"SABANETA"})db.UBICACION.insertOne({DANE:81001, Departamento:"ARAUCA", Municipio:"ARAUCA"})db.UBICACION.insertOne({DANE:81065, Departamento:"ARAUCA", Municipio:"ARAUQUITA"})db.UBICACION.insertOne({DANE:81220, Departamento:"ARAUCA", Municipio:"CRAVO NORTE"})db.UBICACION.insertOne({DANE:81300, Departamento:"ARAUCA", Municipio:"FORTUL"})db.UBICACION.insertOne({DANE:81591, Departamento:"ARAUCA", Municipio:"PUERTO RONDÓN"})db.UBICACION.insertOne({DANE:81736, Departamento:"ARAUCA", Municipio:"SARAVENA"})db.UBICACION.insertOne({DANE:81794, Departamento:"ARAUCA", Municipio:"TAME"})db.UBICACION.insertOne({DANE:88564, Departamento:"ARCHIPIELAGO DE SAN ANDRES", Municipio:"PROVIDENCIA Y SANTA CATALINA"})db.UBICACION.insertOne({DANE:88001, Departamento:"ARCHIPIELAGO DE SAN ANDRES", Municipio:"SAN ANDReS"})db.UBICACION.insertOne({DANE:08001, Departamento:"ATLÁNTICO", Municipio:"BARRANQUILLA"})db.UBICACION.insertOne({DANE:08296, Departamento:"ATLÁNTICO", Municipio:"GALAPA"})db.UBICACION.insertOne({DANE:08433, Departamento:"ATLÁNTICO", Municipio:"MALAMBO"})db.UBICACION.insertOne({DANE:08573, Departamento:"ATLÁNTICO", Municipio:"PUERTO COLOMBIA"})db.UBICACION.insertOne({DANE:08758, Departamento:"ATLÁNTICO", Municipio:"SOLEDAD"})db.UBICACION.insertOne({DANE:08137, Departamento:"ATLÁNTICO", Municipio:"CAMPO DE LA CRUZ"})db.UBICACION.insertOne({DANE:08141, Departamento:"ATLÁNTICO", Municipio:"CANDELARIA"})db.UBICACION.insertOne({DANE:08421, Departamento:"ATLÁNTICO", Municipio:"LURUACO"})db.UBICACION.insertOne({DANE:08436, Departamento:"ATLÁNTICO", Municipio:"MANATi"})db.UBICACION.insertOne({DANE:08606, Departamento:"ATLÁNTICO", Municipio:"REPELON"})db.UBICACION.insertOne({DANE:08675, Departamento:"ATLÁNTICO", Municipio:"SANTA LUCiA"})db.UBICACION.insertOne({DANE:08770, Departamento:"ATLÁNTICO", Municipio:"SUAN"})db.UBICACION.insertOne({DANE:08078, Departamento:"ATLÁNTICO", Municipio:"BARANOA"})db.UBICACION.insertOne({DANE:08520, Departamento:"ATLÁNTICO", Municipio:"PALMAR DE VARELA"})db.UBICACION.insertOne({DANE:08558, Departamento:"ATLÁNTICO", Municipio:"POLONUEVO"})db.UBICACION.insertOne({DANE:08560, Departamento:"ATLÁNTICO", Municipio:"PONEDERA"})db.UBICACION.insertOne({DANE:08634, Departamento:"ATLÁNTICO", Municipio:"Sabanagrande"})db.UBICACION.insertOne({DANE:08638, Departamento:"ATLÁNTICO", Municipio:"SABANALARGA"})db.UBICACION.insertOne({DANE:08685, Departamento:"ATLÁNTICO", Municipio:"Santo Tomas"})db.UBICACION.insertOne({DANE:08372, Departamento:"ATLÁNTICO", Municipio:"JUAN DE ACOSTA"})db.UBICACION.insertOne({DANE:08549, Departamento:"ATLÁNTICO", Municipio:"PIOJÓ"})db.UBICACION.insertOne({DANE:08832, Departamento:"ATLÁNTICO", Municipio:"TUBARA"})db.UBICACION.insertOne({DANE:08849, Departamento:"ATLÁNTICO", Municipio:"USIACURi"})db.UBICACION.insertOne({DANE:11001, Departamento:"BOGOTÁ D.C.", Municipio:"BOGOTA D.C."})db.UBICACION.insertOne({DANE:13188, Departamento:"BOLIVAR", Municipio:"CICUCO"})db.UBICACION.insertOne({DANE:13300, Departamento:"BOLIVAR", Municipio:"HATILLO DE LOBA"})db.UBICACION.insertOne({DANE:13440, Departamento:"BOLIVAR", Municipio:"MARGARITA"})db.UBICACION.insertOne({DANE:13468, Departamento:"BOLIVAR", Municipio:"MOMPÓS"})db.UBICACION.insertOne({DANE:13650, Departamento:"BOLIVAR", Municipio:"SAN FERNANDO"})db.UBICACION.insertOne({DANE:13780, Departamento:"BOLIVAR", Municipio:"TALAIGUA NUEVO"})db.UBICACION.insertOne({DANE:13052, Departamento:"BOLIVAR", Municipio:"ARJONA"})db.UBICACION.insertOne({DANE:13062, Departamento:"BOLIVAR", Municipio:"ARROYOHONDO"})db.UBICACION.insertOne({DANE:13140, Departamento:"BOLIVAR", Municipio:"CALAMAR"})db.UBICACION.insertOne({DANE:13001, Departamento:"BOLIVAR", Municipio:"CARTAGENA"})db.UBICACION.insertOne({DANE:13222, Departamento:"BOLIVAR", Municipio:"CLEMENCIA"})db.UBICACION.insertOne({DANE:13433, Departamento:"BOLIVAR", Municipio:"MAHATES"})db.UBICACION.insertOne({DANE:13620, Departamento:"BOLIVAR", Municipio:"SAN CRISTOBAL"})db.UBICACION.insertOne({DANE:13647, Departamento:"BOLIVAR", Municipio:"SAN ESTANISLAO"})db.UBICACION.insertOne({DANE:13673, Departamento:"BOLIVAR", Municipio:"SANTA CATALINA"})db.UBICACION.insertOne({DANE:13683, Departamento:"BOLIVAR", Municipio:"SANTA ROSA DE LIMA"})db.UBICACION.insertOne({DANE:13760, Departamento:"BOLIVAR", Municipio:"SOPLAVIENTO"})db.UBICACION.insertOne({DANE:13836, Departamento:"BOLIVAR", Municipio:"TURBACO"})db.UBICACION.insertOne({DANE:13838, Departamento:"BOLIVAR", Municipio:"TURBANA"})db.UBICACION.insertOne({DANE:13873, Departamento:"BOLIVAR", Municipio:"VILLANUEVA"})db.UBICACION.insertOne({DANE:13030, Departamento:"BOLIVAR", Municipio:"ALTOS DEL ROSARIO"})db.UBICACION.insertOne({DANE:13074, Departamento:"BOLIVAR", Municipio:"BARRANCO DE LOBA"})db.UBICACION.insertOne({DANE:13268, Departamento:"BOLIVAR", Municipio:"EL PEÑON"})db.UBICACION.insertOne({DANE:13580, Departamento:"BOLIVAR", Municipio:"REGIDOR"})db.UBICACION.insertOne({DANE:13600, Departamento:"BOLIVAR", Municipio:"RÍO VIEJO"})db.UBICACION.insertOne({DANE:13667, Departamento:"BOLIVAR", Municipio:"SAN MARTIN DE LOBA"})db.UBICACION.insertOne({DANE:13042, Departamento:"BOLIVAR", Municipio:"ARENAL"})db.UBICACION.insertOne({DANE:13160, Departamento:"BOLIVAR", Municipio:"CANTAGALLO"})db.UBICACION.insertOne({DANE:13473, Departamento:"BOLIVAR", Municipio:"MORALES"})db.UBICACION.insertOne({DANE:13670, Departamento:"BOLIVAR", Municipio:"SAN PABLO"})db.UBICACION.insertOne({DANE:13688, Departamento:"BOLIVAR", Municipio:"SANTA ROSA DEL SUR"})db.UBICACION.insertOne({DANE:13744, Departamento:"BOLIVAR", Municipio:"SIMITÍ"})db.UBICACION.insertOne({DANE:13006, Departamento:"BOLIVAR", Municipio:"ACHÍ"})db.UBICACION.insertOne({DANE:13430, Departamento:"BOLIVAR", Municipio:"MAGANGUÉ"})db.UBICACION.insertOne({DANE:13458, Departamento:"BOLIVAR", Municipio:"MONTECRISTO"})db.UBICACION.insertOne({DANE:13549, Departamento:"BOLIVAR", Municipio:"PINILLOS"})db.UBICACION.insertOne({DANE:13655, Departamento:"BOLIVAR", Municipio:"SAN JACINTO DEL CAUCA"})db.UBICACION.insertOne({DANE:13810, Departamento:"BOLIVAR", Municipio:"TIQUISIO"})db.UBICACION.insertOne({DANE:13244, Departamento:"BOLIVAR", Municipio:"CARMEN DE BOLÍVAR"})db.UBICACION.insertOne({DANE:13212, Departamento:"BOLIVAR", Municipio:"CÓRDOBA"})db.UBICACION.insertOne({DANE:13248, Departamento:"BOLIVAR", Municipio:"EL GUAMO"})db.UBICACION.insertOne({DANE:13442, Departamento:"BOLIVAR", Municipio:"MARÍA LA BAJA"})db.UBICACION.insertOne({DANE:13654, Departamento:"BOLIVAR", Municipio:"SAN JACINTO"})db.UBICACION.insertOne({DANE:13657, Departamento:"BOLIVAR", Municipio:"SAN JUAN NEPOMUCENO"})db.UBICACION.insertOne({DANE:13894, Departamento:"BOLIVAR", Municipio:"ZAMBRANO"})db.UBICACION.insertOne({DANE:15232, Departamento:"BOYACÁ", Municipio:"CHÍQUIZA"})db.UBICACION.insertOne({DANE:15187, Departamento:"BOYACÁ", Municipio:"CHIVATÁ"})db.UBICACION.insertOne({DANE:15204, Departamento:"BOYACÁ", Municipio:"CÓMBITA"})db.UBICACION.insertOne({DANE:15224, Departamento:"BOYACÁ", Municipio:"CUCAITA"})db.UBICACION.insertOne({DANE:15476, Departamento:"BOYACÁ", Municipio:"MOTAVITA"})db.UBICACION.insertOne({DANE:15500, Departamento:"BOYACÁ", Municipio:"OICATÁ"})db.UBICACION.insertOne({DANE:15646, Departamento:"BOYACÁ", Municipio:"SAMACÁ"})db.UBICACION.insertOne({DANE:15740, Departamento:"BOYACÁ", Municipio:"SIACHOQUE"})db.UBICACION.insertOne({DANE:15762, Departamento:"BOYACÁ", Municipio:"SORA"})db.UBICACION.insertOne({DANE:15764, Departamento:"BOYACÁ", Municipio:"SORACÁ"})db.UBICACION.insertOne({DANE:15763, Departamento:"BOYACÁ", Municipio:"SOTAQUIRÁ"})db.UBICACION.insertOne({DANE:15814, Departamento:"BOYACÁ", Municipio:"TOCA"})db.UBICACION.insertOne({DANE:15001, Departamento:"BOYACÁ", Municipio:"TUNJA"})db.UBICACION.insertOne({DANE:15837, Departamento:"BOYACÁ", Municipio:"TUTA"})db.UBICACION.insertOne({DANE:15861, Departamento:"BOYACÁ", Municipio:"VENTAQUEMADA"})db.UBICACION.insertOne({DANE:15180, Departamento:"BOYACÁ", Municipio:"CHISCAS"})db.UBICACION.insertOne({DANE:15223, Departamento:"BOYACÁ", Municipio:"CUBARÁ"})db.UBICACION.insertOne({DANE:15244, Departamento:"BOYACÁ", Municipio:"EL COCUY"})db.UBICACION.insertOne({DANE:15248, Departamento:"BOYACÁ", Municipio:"EL ESPINO"})db.UBICACION.insertOne({DANE:15317, Departamento:"BOYACÁ", Municipio:"GUACAMAYAS"})db.UBICACION.insertOne({DANE:15332, Departamento:"BOYACÁ", Municipio:"GÜICÁN"})db.UBICACION.insertOne({DANE:15522, Departamento:"BOYACÁ", Municipio:"PANQUEBA"})db.UBICACION.insertOne({DANE:15377, Departamento:"BOYACÁ", Municipio:"LABRANZAGRANDE"})db.UBICACION.insertOne({DANE:15518, Departamento:"BOYACÁ", Municipio:"PAJARITO"})db.UBICACION.insertOne({DANE:15533, Departamento:"BOYACÁ", Municipio:"PAYA"})db.UBICACION.insertOne({DANE:15550, Departamento:"BOYACÁ", Municipio:"PISBA"})db.UBICACION.insertOne({DANE:15090, Departamento:"BOYACÁ", Municipio:"BERBEO"})db.UBICACION.insertOne({DANE:15135, Departamento:"BOYACÁ", Municipio:"CAMPOHERMOSO"})db.UBICACION.insertOne({DANE:15455, Departamento:"BOYACÁ", Municipio:"MIRAFLORES"})db.UBICACION.insertOne({DANE:15514, Departamento:"BOYACÁ", Municipio:"PÁEZ"})db.UBICACION.insertOne({DANE:15660, Departamento:"BOYACÁ", Municipio:"SAN EDUARDO"})db.UBICACION.insertOne({DANE:15897, Departamento:"BOYACÁ", Municipio:"ZETAQUIRA"})db.UBICACION.insertOne({DANE:15104, Departamento:"BOYACÁ", Municipio:"BOYACÁ"})db.UBICACION.insertOne({DANE:15189, Departamento:"BOYACÁ", Municipio:"CIÉNEGA"})db.UBICACION.insertOne({DANE:15367, Departamento:"BOYACÁ", Municipio:"JENESANO"})db.UBICACION.insertOne({DANE:15494, Departamento:"BOYACÁ", Municipio:"NUEVO COLÓN"})db.UBICACION.insertOne({DANE:15599, Departamento:"BOYACÁ", Municipio:"RAMIRIQUÍ"})db.UBICACION.insertOne({DANE:15621, Departamento:"BOYACÁ", Municipio:"RONDÓN"})db.UBICACION.insertOne({DANE:15804, Departamento:"BOYACÁ", Municipio:"TIBANÁ"})db.UBICACION.insertOne({DANE:15835, Departamento:"BOYACÁ", Municipio:"TURMEQUÉ"})db.UBICACION.insertOne({DANE:15842, Departamento:"BOYACÁ", Municipio:"UMBITA"})db.UBICACION.insertOne({DANE:15879, Departamento:"BOYACÁ", Municipio:"VIRACACHÁ"})db.UBICACION.insertOne({DANE:15172, Departamento:"BOYACÁ", Municipio:"CHINAVITA"})db.UBICACION.insertOne({DANE:15299, Departamento:"BOYACÁ", Municipio:"GARAGOA"})db.UBICACION.insertOne({DANE:15425, Departamento:"BOYACÁ", Municipio:"MACANAL"})db.UBICACION.insertOne({DANE:15511, Departamento:"BOYACÁ", Municipio:"PACHAVITA"})db.UBICACION.insertOne({DANE:15667, Departamento:"BOYACÁ", Municipio:"SAN LUIS DE GACENO"})db.UBICACION.insertOne({DANE:15690, Departamento:"BOYACÁ", Municipio:"SANTA MARÍA"})db.UBICACION.insertOne({DANE:15097, Departamento:"BOYACÁ", Municipio:"BOAVITA"})db.UBICACION.insertOne({DANE:15218, Departamento:"BOYACÁ", Municipio:"COVARACHÍA"})db.UBICACION.insertOne({DANE:15403, Departamento:"BOYACÁ", Municipio:"LA UVITA"})db.UBICACION.insertOne({DANE:15673, Departamento:"BOYACÁ", Municipio:"SAN MATEO"})db.UBICACION.insertOne({DANE:15720, Departamento:"BOYACÁ", Municipio:"SATIVANORTE"})db.UBICACION.insertOne({DANE:15723, Departamento:"BOYACÁ", Municipio:"SATIVASUR"})db.UBICACION.insertOne({DANE:15753, Departamento:"BOYACÁ", Municipio:"SOATÁ"})db.UBICACION.insertOne({DANE:15774, Departamento:"BOYACÁ", Municipio:"SUSACÓN"})db.UBICACION.insertOne({DANE:15810, Departamento:"BOYACÁ", Municipio:"TIPACOQUE"})db.UBICACION.insertOne({DANE:15106, Departamento:"BOYACÁ", Municipio:"BRICEÑO"})db.UBICACION.insertOne({DANE:15109, Departamento:"BOYACÁ", Municipio:"BUENAVISTA"})db.UBICACION.insertOne({DANE:15131, Departamento:"BOYACÁ", Municipio:"CALDAS"})db.UBICACION.insertOne({DANE:15176, Departamento:"BOYACÁ", Municipio:"CHIQUINQUIRÁ"})db.UBICACION.insertOne({DANE:15212, Departamento:"BOYACÁ", Municipio:"COPER"})db.UBICACION.insertOne({DANE:15401, Departamento:"BOYACÁ", Municipio:"LA VICTORIA"})db.UBICACION.insertOne({DANE:15442, Departamento:"BOYACÁ", Municipio:"MARIPÍ"})db.UBICACION.insertOne({DANE:15480, Departamento:"BOYACÁ", Municipio:"MUZO"})db.UBICACION.insertOne({DANE:15507, Departamento:"BOYACÁ", Municipio:"OTANCHE"})db.UBICACION.insertOne({DANE:15531, Departamento:"BOYACÁ", Municipio:"PAUNA"})db.UBICACION.insertOne({DANE:15572, Departamento:"BOYACÁ", Municipio:"PUERTO BOYACa"})db.UBICACION.insertOne({DANE:15580, Departamento:"BOYACÁ", Municipio:"QUÍPAMA"})db.UBICACION.insertOne({DANE:15632, Departamento:"BOYACÁ", Municipio:"SABOYÁ"})db.UBICACION.insertOne({DANE:15676, Departamento:"BOYACÁ", Municipio:"SAN MIGUEL DE SEMA"})db.UBICACION.insertOne({DANE:15681, Departamento:"BOYACÁ", Municipio:"SAN PABLO BORBUR"})db.UBICACION.insertOne({DANE:15832, Departamento:"BOYACÁ", Municipio:"TUNUNGUÁ"})db.UBICACION.insertOne({DANE:15022, Departamento:"BOYACÁ", Municipio:"ALMEIDA"})db.UBICACION.insertOne({DANE:15236, Departamento:"BOYACÁ", Municipio:"CHIVOR"})db.UBICACION.insertOne({DANE:15322, Departamento:"BOYACÁ", Municipio:"GUATEQUE"})db.UBICACION.insertOne({DANE:15325, Departamento:"BOYACÁ", Municipio:"GUAYATÁ"})db.UBICACION.insertOne({DANE:15380, Departamento:"BOYACÁ", Municipio:"LA CAPILLA"})db.UBICACION.insertOne({DANE:15761, Departamento:"BOYACÁ", Municipio:"SOMONDOCO"})db.UBICACION.insertOne({DANE:15778, Departamento:"BOYACÁ", Municipio:"SUTATENZA"})db.UBICACION.insertOne({DANE:15798, Departamento:"BOYACÁ", Municipio:"TENZA"})db.UBICACION.insertOne({DANE:15051, Departamento:"BOYACÁ", Municipio:"ARCABUCO"})db.UBICACION.insertOne({DANE:15185, Departamento:"BOYACÁ", Municipio:"CHITARAQUE"})db.UBICACION.insertOne({DANE:15293, Departamento:"BOYACÁ", Municipio:"GACHANTIVÁ"})db.UBICACION.insertOne({DANE:15469, Departamento:"BOYACÁ", Municipio:"MONIQUIRÁ"})db.UBICACION.insertOne({DANE:15600, Departamento:"BOYACÁ", Municipio:"RÁQUIRA"})db.UBICACION.insertOne({DANE:15638, Departamento:"BOYACÁ", Municipio:"SÁCHICA"})db.UBICACION.insertOne({DANE:15664, Departamento:"BOYACÁ", Municipio:"SAN JOSÉ DE PARE"})db.UBICACION.insertOne({DANE:15696, Departamento:"BOYACÁ", Municipio:"SANTA SOFÍA"})db.UBICACION.insertOne({DANE:15686, Departamento:"BOYACÁ", Municipio:"SANTANA"})db.UBICACION.insertOne({DANE:15776, Departamento:"BOYACÁ", Municipio:"SUTAMARCHÁN"})db.UBICACION.insertOne({DANE:15808, Departamento:"BOYACÁ", Municipio:"TINJACÁ"})db.UBICACION.insertOne({DANE:15816, Departamento:"BOYACÁ", Municipio:"TOGÜÍ"})db.UBICACION.insertOne({DANE:15407, Departamento:"BOYACÁ", Municipio:"VILLA DE LEYVA"})db.UBICACION.insertOne({DANE:15047, Departamento:"BOYACÁ", Municipio:"AQUITANIA"})db.UBICACION.insertOne({DANE:15226, Departamento:"BOYACÁ", Municipio:"CUÍTIVA"})db.UBICACION.insertOne({DANE:15272, Departamento:"BOYACÁ", Municipio:"FIRAVITOBA"})db.UBICACION.insertOne({DANE:15296, Departamento:"BOYACÁ", Municipio:"GAMEZA"})db.UBICACION.insertOne({DANE:15362, Departamento:"BOYACÁ", Municipio:"IZA"})db.UBICACION.insertOne({DANE:15464, Departamento:"BOYACÁ", Municipio:"MONGUA"})db.UBICACION.insertOne({DANE:15466, Departamento:"BOYACÁ", Municipio:"MONGUÍ"})db.UBICACION.insertOne({DANE:15491, Departamento:"BOYACÁ", Municipio:"NOBSA"})db.UBICACION.insertOne({DANE:15542, Departamento:"BOYACÁ", Municipio:"PESCA"})db.UBICACION.insertOne({DANE:15759, Departamento:"BOYACÁ", Municipio:"SOGAMOSO"})db.UBICACION.insertOne({DANE:15806, Departamento:"BOYACÁ", Municipio:"TIBASOSA"})db.UBICACION.insertOne({DANE:15820, Departamento:"BOYACÁ", Municipio:"TÓPAGA"})db.UBICACION.insertOne({DANE:15822, Departamento:"BOYACÁ", Municipio:"TOTA"})db.UBICACION.insertOne({DANE:15087, Departamento:"BOYACÁ", Municipio:"BELÉN"})db.UBICACION.insertOne({DANE:15114, Departamento:"BOYACÁ", Municipio:"BUSBANZÁ"})db.UBICACION.insertOne({DANE:15162, Departamento:"BOYACÁ", Municipio:"CERINZA"})db.UBICACION.insertOne({DANE:15215, Departamento:"BOYACÁ", Municipio:"CORRALES"})db.UBICACION.insertOne({DANE:15238, Departamento:"BOYACÁ", Municipio:"DUITAMA"})db.UBICACION.insertOne({DANE:15276, Departamento:"BOYACÁ", Municipio:"FLORESTA"})db.UBICACION.insertOne({DANE:15516, Departamento:"BOYACÁ", Municipio:"PAIPA"})db.UBICACION.insertOne({DANE:15693, Departamento:"BOYACÁ", Municipio:"SAN ROSA VITERBO"})db.UBICACION.insertOne({DANE:15839, Departamento:"BOYACÁ", Municipio:"TUTAZÁ"})db.UBICACION.insertOne({DANE:15092, Departamento:"BOYACÁ", Municipio:"BETÉITIVA"})db.UBICACION.insertOne({DANE:15183, Departamento:"BOYACÁ", Municipio:"CHITA"})db.UBICACION.insertOne({DANE:15368, Departamento:"BOYACÁ", Municipio:"JERICÓ"})db.UBICACION.insertOne({DANE:15537, Departamento:"BOYACÁ", Municipio:"PAZ DE RÍO"})db.UBICACION.insertOne({DANE:15757, Departamento:"BOYACÁ", Municipio:"SOCHA"})db.UBICACION.insertOne({DANE:15755, Departamento:"BOYACÁ", Municipio:"SOCOTÁ"})db.UBICACION.insertOne({DANE:15790, Departamento:"BOYACÁ", Municipio:"TASCO"})db.UBICACION.insertOne({DANE:17272, Departamento:"CALDAS", Municipio:"FILADELFIA"})db.UBICACION.insertOne({DANE:17388, Departamento:"CALDAS", Municipio:"LA MERCED"})db.UBICACION.insertOne({DANE:17442, Departamento:"CALDAS", Municipio:"MARMATO"})db.UBICACION.insertOne({DANE:17614, Departamento:"CALDAS", Municipio:"RIOSUCIO"})db.UBICACION.insertOne({DANE:17777, Departamento:"CALDAS", Municipio:"SUPÍA"})db.UBICACION.insertOne({DANE:17433, Departamento:"CALDAS", Municipio:"MANZANARES"})db.UBICACION.insertOne({DANE:17444, Departamento:"CALDAS", Municipio:"MARQUETALIA"})db.UBICACION.insertOne({DANE:17446, Departamento:"CALDAS", Municipio:"MARULANDA"})db.UBICACION.insertOne({DANE:17541, Departamento:"CALDAS", Municipio:"PENSILVANIA"})db.UBICACION.insertOne({DANE:17042, Departamento:"CALDAS", Municipio:"ANSERMA"})db.UBICACION.insertOne({DANE:17088, Departamento:"CALDAS", Municipio:"BELALCÁZAR"})db.UBICACION.insertOne({DANE:17616, Departamento:"CALDAS", Municipio:"RISARALDA"})db.UBICACION.insertOne({DANE:17665, Departamento:"CALDAS", Municipio:"SAN JOSÉ"})db.UBICACION.insertOne({DANE:17877, Departamento:"CALDAS", Municipio:"VITERBO"})db.UBICACION.insertOne({DANE:17174, Departamento:"CALDAS", Municipio:"CHINCHINa"})db.UBICACION.insertOne({DANE:17001, Departamento:"CALDAS", Municipio:"MANIZALES"})db.UBICACION.insertOne({DANE:17486, Departamento:"CALDAS", Municipio:"NEIRA"})db.UBICACION.insertOne({DANE:17524, Departamento:"CALDAS", Municipio:"PALESTINA"})db.UBICACION.insertOne({DANE:17873, Departamento:"CALDAS", Municipio:"VILLAMARiA"})db.UBICACION.insertOne({DANE:17013, Departamento:"CALDAS", Municipio:"AGUADAS"})db.UBICACION.insertOne({DANE:17050, Departamento:"CALDAS", Municipio:"ARANZAZU"})db.UBICACION.insertOne({DANE:17513, Departamento:"CALDAS", Municipio:"PÁCORA"})db.UBICACION.insertOne({DANE:17653, Departamento:"CALDAS", Municipio:"SALAMINA"})db.UBICACION.insertOne({DANE:17380, Departamento:"CALDAS", Municipio:"LA DORADA"})db.UBICACION.insertOne({DANE:17495, Departamento:"CALDAS", Municipio:"NORCASIA"})db.UBICACION.insertOne({DANE:17662, Departamento:"CALDAS", Municipio:"SAMANÁ"})db.UBICACION.insertOne({DANE:17867, Departamento:"CALDAS", Municipio:"VICTORIA"})db.UBICACION.insertOne({DANE:18029, Departamento:"CAQUETA", Municipio:"ALBANIA"})db.UBICACION.insertOne({DANE:18094, Departamento:"CAQUETA", Municipio:"BELÉN DE LOS ANDAQUIES"})db.UBICACION.insertOne({DANE:18150, Departamento:"CAQUETA", Municipio:"CARTAGENA DEL CHAIRÁ"})db.UBICACION.insertOne({DANE:18205, Departamento:"CAQUETA", Municipio:"CURRILLO"})db.UBICACION.insertOne({DANE:18247, Departamento:"CAQUETA", Municipio:"EL DONCELLO"})db.UBICACION.insertOne({DANE:18256, Departamento:"CAQUETA", Municipio:"EL PAUJIL"})db.UBICACION.insertOne({DANE:18001, Departamento:"CAQUETA", Municipio:"FLORENCIA"})db.UBICACION.insertOne({DANE:18410, Departamento:"CAQUETA", Municipio:"LA MONTAÑITA"})db.UBICACION.insertOne({DANE:18460, Departamento:"CAQUETA", Municipio:"MILaN"})db.UBICACION.insertOne({DANE:18479, Departamento:"CAQUETA", Municipio:"MORELIA"})db.UBICACION.insertOne({DANE:18592, Departamento:"CAQUETA", Municipio:"PUERTO RICO"})db.UBICACION.insertOne({DANE:18610, Departamento:"CAQUETA", Municipio:"SAN JOSE DEL FRAGUA"})db.UBICACION.insertOne({DANE:18753, Departamento:"CAQUETA", Municipio:"SAN VICENTE DEL CAGUÁN"})db.UBICACION.insertOne({DANE:18756, Departamento:"CAQUETA", Municipio:"SOLANO"})db.UBICACION.insertOne({DANE:18785, Departamento:"CAQUETA", Municipio:"SOLITA"})db.UBICACION.insertOne({DANE:18860, Departamento:"CAQUETA", Municipio:"VALPARAISO"})db.UBICACION.insertOne({DANE:85010, Departamento:"CASANARE", Municipio:"AGUAZUL"})db.UBICACION.insertOne({DANE:85015, Departamento:"CASANARE", Municipio:"CHAMEZA"})db.UBICACION.insertOne({DANE:85125, Departamento:"CASANARE", Municipio:"HATO COROZAL"})db.UBICACION.insertOne({DANE:85136, Departamento:"CASANARE", Municipio:"LA SALINA"})db.UBICACION.insertOne({DANE:85139, Departamento:"CASANARE", Municipio:"MANÍ"})db.UBICACION.insertOne({DANE:85162, Departamento:"CASANARE", Municipio:"MONTERREY"})db.UBICACION.insertOne({DANE:85225, Departamento:"CASANARE", Municipio:"NUNCHÍA"})db.UBICACION.insertOne({DANE:85230, Departamento:"CASANARE", Municipio:"OROCUÉ"})db.UBICACION.insertOne({DANE:85250, Departamento:"CASANARE", Municipio:"PAZ DE ARIPORO"})db.UBICACION.insertOne({DANE:85263, Departamento:"CASANARE", Municipio:"PORE"})db.UBICACION.insertOne({DANE:85279, Departamento:"CASANARE", Municipio:"RECETOR"})db.UBICACION.insertOne({DANE:85300, Departamento:"CASANARE", Municipio:"SABANALARGA"})db.UBICACION.insertOne({DANE:85315, Departamento:"CASANARE", Municipio:"SÁCAMA"})db.UBICACION.insertOne({DANE:85325, Departamento:"CASANARE", Municipio:"SAN LUIS DE PALENQUE"})db.UBICACION.insertOne({DANE:85400, Departamento:"CASANARE", Municipio:"TÁMARA"})db.UBICACION.insertOne({DANE:85410, Departamento:"CASANARE", Municipio:"TAURAMENA"})db.UBICACION.insertOne({DANE:85430, Departamento:"CASANARE", Municipio:"TRINIDAD"})db.UBICACION.insertOne({DANE:85440, Departamento:"CASANARE", Municipio:"VILLANUEVA"})db.UBICACION.insertOne({DANE:85001, Departamento:"CASANARE", Municipio:"YOPAL"})db.UBICACION.insertOne({DANE:19130, Departamento:"CAUCA", Municipio:"CAJIBÍO"})db.UBICACION.insertOne({DANE:19256, Departamento:"CAUCA", Municipio:"EL TAMBO"})db.UBICACION.insertOne({DANE:19392, Departamento:"CAUCA", Municipio:"LA SIERRA"})db.UBICACION.insertOne({DANE:19473, Departamento:"CAUCA", Municipio:"MORALES"})db.UBICACION.insertOne({DANE:19548, Departamento:"CAUCA", Municipio:"PIENDAMO"})db.UBICACION.insertOne({DANE:19001, Departamento:"CAUCA", Municipio:"POPAYÁN"})db.UBICACION.insertOne({DANE:19622, Departamento:"CAUCA", Municipio:"ROSAS"})db.UBICACION.insertOne({DANE:19760, Departamento:"CAUCA", Municipio:"SOTARA"})db.UBICACION.insertOne({DANE:19807, Departamento:"CAUCA", Municipio:"TIMBIO"})db.UBICACION.insertOne({DANE:19110, Departamento:"CAUCA", Municipio:"BUENOS AIRES"})db.UBICACION.insertOne({DANE:19142, Departamento:"CAUCA", Municipio:"CALOTO"})db.UBICACION.insertOne({DANE:19212, Departamento:"CAUCA", Municipio:"CORINTO"})db.UBICACION.insertOne({DANE:19455, Departamento:"CAUCA", Municipio:"MIRANDA"})db.UBICACION.insertOne({DANE:19513, Departamento:"CAUCA", Municipio:"PADILLA"})db.UBICACION.insertOne({DANE:19573, Departamento:"CAUCA", Municipio:"PUERTO TEJADA"})db.UBICACION.insertOne({DANE:19698, Departamento:"CAUCA", Municipio:"SANTANDER DE QUILICHAO"})db.UBICACION.insertOne({DANE:19780, Departamento:"CAUCA", Municipio:"SUAREZ"})db.UBICACION.insertOne({DANE:19845, Departamento:"CAUCA", Municipio:"VILLA RICA"})db.UBICACION.insertOne({DANE:19318, Departamento:"CAUCA", Municipio:"GUAPI"})db.UBICACION.insertOne({DANE:19418, Departamento:"CAUCA", Municipio:"LOPEZ"})db.UBICACION.insertOne({DANE:19809, Departamento:"CAUCA", Municipio:"TIMBIQUI"})db.UBICACION.insertOne({DANE:19137, Departamento:"CAUCA", Municipio:"CALDONO"})db.UBICACION.insertOne({DANE:19355, Departamento:"CAUCA", Municipio:"INZÁ"})db.UBICACION.insertOne({DANE:19364, Departamento:"CAUCA", Municipio:"JAMBALO"})db.UBICACION.insertOne({DANE:19517, Departamento:"CAUCA", Municipio:"PAEZ"})db.UBICACION.insertOne({DANE:19585, Departamento:"CAUCA", Municipio:"PURACE"})db.UBICACION.insertOne({DANE:19743, Departamento:"CAUCA", Municipio:"Silvia"})db.UBICACION.insertOne({DANE:19821, Departamento:"CAUCA", Municipio:"TORIBIO"})db.UBICACION.insertOne({DANE:19824, Departamento:"CAUCA", Municipio:"TOTORO"})db.UBICACION.insertOne({DANE:19022, Departamento:"CAUCA", Municipio:"ALMAGUER"})db.UBICACION.insertOne({DANE:19050, Departamento:"CAUCA", Municipio:"ARGELIA"})db.UBICACION.insertOne({DANE:19075, Departamento:"CAUCA", Municipio:"BALBOA"})db.UBICACION.insertOne({DANE:19100, Departamento:"CAUCA", Municipio:"BOLÍVAR"})db.UBICACION.insertOne({DANE:19290, Departamento:"CAUCA", Municipio:"FLORENCIA"})db.UBICACION.insertOne({DANE:19397, Departamento:"CAUCA", Municipio:"LA VEGA"})db.UBICACION.insertOne({DANE:19450, Departamento:"CAUCA", Municipio:"MERCADERES"})db.UBICACION.insertOne({DANE:19532, Departamento:"CAUCA", Municipio:"PATIA"})db.UBICACION.insertOne({DANE:19533, Departamento:"CAUCA", Municipio:"PIAMONTE"})db.UBICACION.insertOne({DANE:19693, Departamento:"CAUCA", Municipio:"SAN SEBASTIAN"})db.UBICACION.insertOne({DANE:19701, Departamento:"CAUCA", Municipio:"SANTA ROSA"})db.UBICACION.insertOne({DANE:19785, Departamento:"CAUCA", Municipio:"SUCRE"})db.UBICACION.insertOne({DANE:20045, Departamento:"CESAR", Municipio:"BECERRIL"})db.UBICACION.insertOne({DANE:20175, Departamento:"CESAR", Municipio:"CHIMICHAGUA"})db.UBICACION.insertOne({DANE:20178, Departamento:"CESAR", Municipio:"CHIRIGUANA"})db.UBICACION.insertOne({DANE:20228, Departamento:"CESAR", Municipio:"CURUMANÍ"})db.UBICACION.insertOne({DANE:20400, Departamento:"CESAR", Municipio:"LA JAGUA DE IBIRICO"})db.UBICACION.insertOne({DANE:20517, Departamento:"CESAR", Municipio:"PAILITAS"})db.UBICACION.insertOne({DANE:20787, Departamento:"CESAR", Municipio:"TAMALAMEQUE"})db.UBICACION.insertOne({DANE:20032, Departamento:"CESAR", Municipio:"ASTREA"})db.UBICACION.insertOne({DANE:20060, Departamento:"CESAR", Municipio:"BOSCONIA"})db.UBICACION.insertOne({DANE:20238, Departamento:"CESAR", Municipio:"EL COPEY"})db.UBICACION.insertOne({DANE:20250, Departamento:"CESAR", Municipio:"EL PASO"})db.UBICACION.insertOne({DANE:20013, Departamento:"CESAR", Municipio:"AGUSTÍN CODAZZI"})db.UBICACION.insertOne({DANE:20621, Departamento:"CESAR", Municipio:"LA PAZ"})db.UBICACION.insertOne({DANE:20443, Departamento:"CESAR", Municipio:"MANAURE"})db.UBICACION.insertOne({DANE:20570, Departamento:"CESAR", Municipio:"PUEBLO BELLO"})db.UBICACION.insertOne({DANE:20750, Departamento:"CESAR", Municipio:"SAN DIEGO"})db.UBICACION.insertOne({DANE:20001, Departamento:"CESAR", Municipio:"VALLEDUPAR"})db.UBICACION.insertOne({DANE:20011, Departamento:"CESAR", Municipio:"AGUACHICA"})db.UBICACION.insertOne({DANE:20295, Departamento:"CESAR", Municipio:"GAMARRA"})db.UBICACION.insertOne({DANE:20310, Departamento:"CESAR", Municipio:"GONZÁLEZ"})db.UBICACION.insertOne({DANE:20383, Departamento:"CESAR", Municipio:"LA GLORIA"})db.UBICACION.insertOne({DANE:20550, Departamento:"CESAR", Municipio:"PELAYA"})db.UBICACION.insertOne({DANE:20614, Departamento:"CESAR", Municipio:"RÍO DE ORO"})db.UBICACION.insertOne({DANE:20710, Departamento:"CESAR", Municipio:"SAN ALBERTO"})db.UBICACION.insertOne({DANE:20770, Departamento:"CESAR", Municipio:"SAN MARTÍN"})db.UBICACION.insertOne({DANE:27050, Departamento:"CHOCO", Municipio:"ATRATO"})db.UBICACION.insertOne({DANE:27073, Departamento:"CHOCO", Municipio:"BAGADÓ"})db.UBICACION.insertOne({DANE:27099, Departamento:"CHOCO", Municipio:"BOJAYA"})db.UBICACION.insertOne({DANE:27245, Departamento:"CHOCO", Municipio:"EL CARMEN DE ATRATO"})db.UBICACION.insertOne({DANE:27413, Departamento:"CHOCO", Municipio:"LLORÓ"})db.UBICACION.insertOne({DANE:27425, Departamento:"CHOCO", Municipio:"MEDIO ATRATO"})db.UBICACION.insertOne({DANE:27001, Departamento:"CHOCO", Municipio:"QUIBDÓ"})db.UBICACION.insertOne({DANE:27600, Departamento:"CHOCO", Municipio:"RIO QUITO"})db.UBICACION.insertOne({DANE:27006, Departamento:"CHOCO", Municipio:"ACANDÍ"})db.UBICACION.insertOne({DANE:27086, Departamento:"CHOCO", Municipio:"BELÉN DE BAJIRA"})db.UBICACION.insertOne({DANE:27150, Departamento:"CHOCO", Municipio:"CARMÉN DEL DARIÉN"})db.UBICACION.insertOne({DANE:27615, Departamento:"CHOCO", Municipio:"RIOSUCIO"})db.UBICACION.insertOne({DANE:27800, Departamento:"CHOCO", Municipio:"UNGUÍA"})db.UBICACION.insertOne({DANE:27075, Departamento:"CHOCO", Municipio:"BAHÍA SOLANO"})db.UBICACION.insertOne({DANE:27372, Departamento:"CHOCO", Municipio:"JURADÓ"})db.UBICACION.insertOne({DANE:27495, Departamento:"CHOCO", Municipio:"NUQUÍ"})db.UBICACION.insertOne({DANE:27025, Departamento:"CHOCO", Municipio:"ALTO BAUDÓ"})db.UBICACION.insertOne({DANE:27077, Departamento:"CHOCO", Municipio:"BAJO BAUDÓ"})db.UBICACION.insertOne({DANE:27250, Departamento:"CHOCO", Municipio:"El Litoral del San Juan"})db.UBICACION.insertOne({DANE:27430, Departamento:"CHOCO", Municipio:"MEDIO BAUDÓ"})db.UBICACION.insertOne({DANE:27135, Departamento:"CHOCO", Municipio:"CANTON DE SAN PABLO"})db.UBICACION.insertOne({DANE:27160, Departamento:"CHOCO", Municipio:"CERTEGUI"})db.UBICACION.insertOne({DANE:27205, Departamento:"CHOCO", Municipio:"CONDOTO"})db.UBICACION.insertOne({DANE:27361, Departamento:"CHOCO", Municipio:"ITSMINA"})db.UBICACION.insertOne({DANE:27450, Departamento:"CHOCO", Municipio:"MEDIO SAN JUAN"})db.UBICACION.insertOne({DANE:27491, Departamento:"CHOCO", Municipio:"NÓVITA"})db.UBICACION.insertOne({DANE:27580, Departamento:"CHOCO", Municipio:"RÍO FRÍO"})db.UBICACION.insertOne({DANE:27660, Departamento:"CHOCO", Municipio:"SAN JOSÉ DEL PALMAR"})db.UBICACION.insertOne({DANE:27745, Departamento:"CHOCO", Municipio:"SIPÍ"})db.UBICACION.insertOne({DANE:27787, Departamento:"CHOCO", Municipio:"TADÓ"})db.UBICACION.insertOne({DANE:27810, Departamento:"CHOCO", Municipio:"UNION PANAMERICANA"})db.UBICACION.insertOne({DANE:23807, Departamento:"CORDOBA", Municipio:"TIERRALTA"})db.UBICACION.insertOne({DANE:23855, Departamento:"CORDOBA", Municipio:"VALENCIA"})db.UBICACION.insertOne({DANE:23168, Departamento:"CORDOBA", Municipio:"CHIMÁ"})db.UBICACION.insertOne({DANE:23300, Departamento:"CORDOBA", Municipio:"COTORRA"})db.UBICACION.insertOne({DANE:23417, Departamento:"CORDOBA", Municipio:"LORICA"})db.UBICACION.insertOne({DANE:23464, Departamento:"CORDOBA", Municipio:"MOMIL"})db.UBICACION.insertOne({DANE:23586, Departamento:"CORDOBA", Municipio:"PURÍSIMA"})db.UBICACION.insertOne({DANE:23001, Departamento:"CORDOBA", Municipio:"MONTERÍA"})db.UBICACION.insertOne({DANE:23090, Departamento:"CORDOBA", Municipio:"CANALETE"})db.UBICACION.insertOne({DANE:23419, Departamento:"CORDOBA", Municipio:"LOS CÓRDOBAS"})db.UBICACION.insertOne({DANE:23500, Departamento:"CORDOBA", Municipio:"MOÑITOS"})db.UBICACION.insertOne({DANE:23574, Departamento:"CORDOBA", Municipio:"PUERTO ESCONDIDO"})db.UBICACION.insertOne({DANE:23672, Departamento:"CORDOBA", Municipio:"SAN ANTERO"})db.UBICACION.insertOne({DANE:23675, Departamento:"CORDOBA", Municipio:"SAN BERNARDO DEL VIENTO"})db.UBICACION.insertOne({DANE:23182, Departamento:"CORDOBA", Municipio:"CHINÚ"})db.UBICACION.insertOne({DANE:23660, Departamento:"CORDOBA", Municipio:"SAHAGÚN"})db.UBICACION.insertOne({DANE:23670, Departamento:"CORDOBA", Municipio:"SAN ANDRÉS SOTAVENTO"})db.UBICACION.insertOne({DANE:23068, Departamento:"CORDOBA", Municipio:"AYAPEL"})db.UBICACION.insertOne({DANE:23079, Departamento:"CORDOBA", Municipio:"BUENAVISTA"})db.UBICACION.insertOne({DANE:23350, Departamento:"CORDOBA", Municipio:"LA APARTADA"})db.UBICACION.insertOne({DANE:23466, Departamento:"CORDOBA", Municipio:"MONTELÍBANO"})db.UBICACION.insertOne({DANE:23555, Departamento:"CORDOBA", Municipio:"PLANETA RICA"})db.UBICACION.insertOne({DANE:23570, Departamento:"CORDOBA", Municipio:"PUEBLO NUEVO"})db.UBICACION.insertOne({DANE:23580, Departamento:"CORDOBA", Municipio:"PUERTO LIBERTADOR"})db.UBICACION.insertOne({DANE:23162, Departamento:"CORDOBA", Municipio:"CERETÉ"})db.UBICACION.insertOne({DANE:23189, Departamento:"CORDOBA", Municipio:"CIÉNAGA DE ORO"})db.UBICACION.insertOne({DANE:23678, Departamento:"CORDOBA", Municipio:"SAN CARLOS"})db.UBICACION.insertOne({DANE:23686, Departamento:"CORDOBA", Municipio:"SAN PELAYO"})db.UBICACION.insertOne({DANE:25183, Departamento:"CUNDINAMARCA", Municipio:"CHOCONTÁ"})db.UBICACION.insertOne({DANE:25426, Departamento:"CUNDINAMARCA", Municipio:"MACHETA"})db.UBICACION.insertOne({DANE:25436, Departamento:"CUNDINAMARCA", Municipio:"MANTA"})db.UBICACION.insertOne({DANE:25736, Departamento:"CUNDINAMARCA", Municipio:"SESQUILÉ"})db.UBICACION.insertOne({DANE:25772, Departamento:"CUNDINAMARCA", Municipio:"SUESCA"})db.UBICACION.insertOne({DANE:25807, Departamento:"CUNDINAMARCA", Municipio:"TIBIRITA"})db.UBICACION.insertOne({DANE:25873, Departamento:"CUNDINAMARCA", Municipio:"VILLAPINZÓN"})db.UBICACION.insertOne({DANE:25001, Departamento:"CUNDINAMARCA", Municipio:"AGUA DE DIOS"})db.UBICACION.insertOne({DANE:25307, Departamento:"CUNDINAMARCA", Municipio:"GIRARDOT"})db.UBICACION.insertOne({DANE:25324, Departamento:"CUNDINAMARCA", Municipio:"GUATAQUÍ"})db.UBICACION.insertOne({DANE:25368, Departamento:"CUNDINAMARCA", Municipio:"JERUSALÉN"})db.UBICACION.insertOne({DANE:25483, Departamento:"CUNDINAMARCA", Municipio:"NARIÑO"})db.UBICACION.insertOne({DANE:25488, Departamento:"CUNDINAMARCA", Municipio:"NILO"})db.UBICACION.insertOne({DANE:25612, Departamento:"CUNDINAMARCA", Municipio:"RICAURTE"})db.UBICACION.insertOne({DANE:25815, Departamento:"CUNDINAMARCA", Municipio:"TOCAIMA"})db.UBICACION.insertOne({DANE:25148, Departamento:"CUNDINAMARCA", Municipio:"CAPARRAPÍ"})db.UBICACION.insertOne({DANE:25320, Departamento:"CUNDINAMARCA", Municipio:"GUADUAS"})db.UBICACION.insertOne({DANE:25572, Departamento:"CUNDINAMARCA", Municipio:"PUERTO SALGAR"})db.UBICACION.insertOne({DANE:25019, Departamento:"CUNDINAMARCA", Municipio:"ALBÁN"})db.UBICACION.insertOne({DANE:25398, Departamento:"CUNDINAMARCA", Municipio:"LA PEÑA"})db.UBICACION.insertOne({DANE:25402, Departamento:"CUNDINAMARCA", Municipio:"LA VEGA"})db.UBICACION.insertOne({DANE:25489, Departamento:"CUNDINAMARCA", Municipio:"NIMAIMA"})db.UBICACION.insertOne({DANE:25491, Departamento:"CUNDINAMARCA", Municipio:"NOCAIMA"})db.UBICACION.insertOne({DANE:25592, Departamento:"CUNDINAMARCA", Municipio:"QUEBRADANE:GRA"})db.UBICACION.insertOne({DANE:25658, Departamento:"CUNDINAMARCA", Municipio:"SAN FRANCISCO"})db.UBICACION.insertOne({DANE:25718, Departamento:"CUNDINAMARCA", Municipio:"SASAIMA"})db.UBICACION.insertOne({DANE:25777, Departamento:"CUNDINAMARCA", Municipio:"SUPATÁ"})db.UBICACION.insertOne({DANE:25851, Departamento:"CUNDINAMARCA", Municipio:"ÚTICA"})db.UBICACION.insertOne({DANE:25862, Departamento:"CUNDINAMARCA", Municipio:"VERGARA"})db.UBICACION.insertOne({DANE:25875, Departamento:"CUNDINAMARCA", Municipio:"VILLETA"})db.UBICACION.insertOne({DANE:25293, Departamento:"CUNDINAMARCA", Municipio:"GACHALA"})db.UBICACION.insertOne({DANE:25297, Departamento:"CUNDINAMARCA", Municipio:"GACHETA"})db.UBICACION.insertOne({DANE:25299, Departamento:"CUNDINAMARCA", Municipio:"GAMA"})db.UBICACION.insertOne({DANE:25322, Departamento:"CUNDINAMARCA", Municipio:"GUASCA"})db.UBICACION.insertOne({DANE:25326, Departamento:"CUNDINAMARCA", Municipio:"GUATAVITA"})db.UBICACION.insertOne({DANE:25372, Departamento:"CUNDINAMARCA", Municipio:"JUNÍN"})db.UBICACION.insertOne({DANE:25377, Departamento:"CUNDINAMARCA", Municipio:"LA CALERA"})db.UBICACION.insertOne({DANE:25839, Departamento:"CUNDINAMARCA", Municipio:"UBALÁ"})db.UBICACION.insertOne({DANE:25086, Departamento:"CUNDINAMARCA", Municipio:"BELTRÁN"})db.UBICACION.insertOne({DANE:25095, Departamento:"CUNDINAMARCA", Municipio:"BITUIMA"})db.UBICACION.insertOne({DANE:25168, Departamento:"CUNDINAMARCA", Municipio:"CHAGUANÍ"})db.UBICACION.insertOne({DANE:25328, Departamento:"CUNDINAMARCA", Municipio:"GUAYABAL DE SIQUIMA"})db.UBICACION.insertOne({DANE:25580, Departamento:"CUNDINAMARCA", Municipio:"PULI"})db.UBICACION.insertOne({DANE:25662, Departamento:"CUNDINAMARCA", Municipio:"SAN JUAN DE RÍO SECO"})db.UBICACION.insertOne({DANE:25867, Departamento:"CUNDINAMARCA", Municipio:"VIANÍ"})db.UBICACION.insertOne({DANE:25438, Departamento:"CUNDINAMARCA", Municipio:"MEDINA"})db.UBICACION.insertOne({DANE:25530, Departamento:"CUNDINAMARCA", Municipio:"PARATEBUENO"})db.UBICACION.insertOne({DANE:25151, Departamento:"CUNDINAMARCA", Municipio:"CAQUEZA"})db.UBICACION.insertOne({DANE:25178, Departamento:"CUNDINAMARCA", Municipio:"CHIPAQUE"})db.UBICACION.insertOne({DANE:25181, Departamento:"CUNDINAMARCA", Municipio:"CHOACHÍ"})db.UBICACION.insertOne({DANE:25279, Departamento:"CUNDINAMARCA", Municipio:"FOMEQUE"})db.UBICACION.insertOne({DANE:25281, Departamento:"CUNDINAMARCA", Municipio:"FOSCA"})db.UBICACION.insertOne({DANE:25335, Departamento:"CUNDINAMARCA", Municipio:"GUAYABETAL"})db.UBICACION.insertOne({DANE:25339, Departamento:"CUNDINAMARCA", Municipio:"GUTIÉRREZ"})db.UBICACION.insertOne({DANE:25594, Departamento:"CUNDINAMARCA", Municipio:"QUETAME"})db.UBICACION.insertOne({DANE:25841, Departamento:"CUNDINAMARCA", Municipio:"UBAQUE"})db.UBICACION.insertOne({DANE:25845, Departamento:"CUNDINAMARCA", Municipio:"UNE"})db.UBICACION.insertOne({DANE:25258, Departamento:"CUNDINAMARCA", Municipio:"EL PEÑÓN"})db.UBICACION.insertOne({DANE:25394, Departamento:"CUNDINAMARCA", Municipio:"LA PALMA"})db.UBICACION.insertOne({DANE:25513, Departamento:"CUNDINAMARCA", Municipio:"PACHO"})db.UBICACION.insertOne({DANE:25518, Departamento:"CUNDINAMARCA", Municipio:"PAIME"})db.UBICACION.insertOne({DANE:25653, Departamento:"CUNDINAMARCA", Municipio:"SAN CAYETANO"})db.UBICACION.insertOne({DANE:25823, Departamento:"CUNDINAMARCA", Municipio:"TOPAIPI"})db.UBICACION.insertOne({DANE:25871, Departamento:"CUNDINAMARCA", Municipio:"VILLAGOMEZ"})db.UBICACION.insertOne({DANE:25885, Departamento:"CUNDINAMARCA", Municipio:"YACOPÍ"})db.UBICACION.insertOne({DANE:25126, Departamento:"CUNDINAMARCA", Municipio:"CAJICÁ"})db.UBICACION.insertOne({DANE:25175, Departamento:"CUNDINAMARCA", Municipio:"CHÍA"})db.UBICACION.insertOne({DANE:25200, Departamento:"CUNDINAMARCA", Municipio:"COGUA"})db.UBICACION.insertOne({DANE:25295, Departamento:"CUNDINAMARCA", Municipio:"GACHANCIPÁ"})db.UBICACION.insertOne({DANE:25486, Departamento:"CUNDINAMARCA", Municipio:"NEMOCoN"})db.UBICACION.insertOne({DANE:25758, Departamento:"CUNDINAMARCA", Municipio:"SOPÓ"})db.UBICACION.insertOne({DANE:25785, Departamento:"CUNDINAMARCA", Municipio:"TABIO"})db.UBICACION.insertOne({DANE:25817, Departamento:"CUNDINAMARCA", Municipio:"TOCANCIPÁ"})db.UBICACION.insertOne({DANE:25899, Departamento:"CUNDINAMARCA", Municipio:"ZIPAQUIRÁ"})db.UBICACION.insertOne({DANE:25099, Departamento:"CUNDINAMARCA", Municipio:"BOJACÁ"})db.UBICACION.insertOne({DANE:25214, Departamento:"CUNDINAMARCA", Municipio:"COTA"})db.UBICACION.insertOne({DANE:25260, Departamento:"CUNDINAMARCA", Municipio:"EL ROSAL"})db.UBICACION.insertOne({DANE:25269, Departamento:"CUNDINAMARCA", Municipio:"FACATATIVÁ"})db.UBICACION.insertOne({DANE:25286, Departamento:"CUNDINAMARCA", Municipio:"FUNZA"})db.UBICACION.insertOne({DANE:25430, Departamento:"CUNDINAMARCA", Municipio:"MADRID"})db.UBICACION.insertOne({DANE:25473, Departamento:"CUNDINAMARCA", Municipio:"MOSQUERA"})db.UBICACION.insertOne({DANE:25769, Departamento:"CUNDINAMARCA", Municipio:"SUBACHOQUE"})db.UBICACION.insertOne({DANE:25799, Departamento:"CUNDINAMARCA", Municipio:"TENJO"})db.UBICACION.insertOne({DANE:25898, Departamento:"CUNDINAMARCA", Municipio:"ZIPACoN"})db.UBICACION.insertOne({DANE:25740, Departamento:"CUNDINAMARCA", Municipio:"SIBATÉ"})db.UBICACION.insertOne({DANE:25754, Departamento:"CUNDINAMARCA", Municipio:"SOACHA"})db.UBICACION.insertOne({DANE:25053, Departamento:"CUNDINAMARCA", Municipio:"ARBELÁEZ"})db.UBICACION.insertOne({DANE:25120, Departamento:"CUNDINAMARCA", Municipio:"CABRERA"})db.UBICACION.insertOne({DANE:25290, Departamento:"CUNDINAMARCA", Municipio:"FUSAGASUGÁ"})db.UBICACION.insertOne({DANE:25312, Departamento:"CUNDINAMARCA", Municipio:"GRANADA"})db.UBICACION.insertOne({DANE:25524, Departamento:"CUNDINAMARCA", Municipio:"PANDI"})db.UBICACION.insertOne({DANE:25535, Departamento:"CUNDINAMARCA", Municipio:"PASCA"})db.UBICACION.insertOne({DANE:25649, Departamento:"CUNDINAMARCA", Municipio:"SAN BERNARDO"})db.UBICACION.insertOne({DANE:25743, Departamento:"CUNDINAMARCA", Municipio:"SILVANIA"})db.UBICACION.insertOne({DANE:25805, Departamento:"CUNDINAMARCA", Municipio:"TIBACUY"})db.UBICACION.insertOne({DANE:25506, Departamento:"CUNDINAMARCA", Municipio:"VENECIA"})db.UBICACION.insertOne({DANE:25035, Departamento:"CUNDINAMARCA", Municipio:"ANAPOIMA"})db.UBICACION.insertOne({DANE:25040, Departamento:"CUNDINAMARCA", Municipio:"ANOLAIMA"})db.UBICACION.insertOne({DANE:25599, Departamento:"CUNDINAMARCA", Municipio:"APULO"})db.UBICACION.insertOne({DANE:25123, Departamento:"CUNDINAMARCA", Municipio:"CACHIPAY"})db.UBICACION.insertOne({DANE:25245, Departamento:"CUNDINAMARCA", Municipio:"EL COLEGIO"})db.UBICACION.insertOne({DANE:25386, Departamento:"CUNDINAMARCA", Municipio:"LA MESA"})db.UBICACION.insertOne({DANE:25596, Departamento:"CUNDINAMARCA", Municipio:"QUIPILE"})db.UBICACION.insertOne({DANE:25645, Departamento:"CUNDINAMARCA", Municipio:"SAN ANTONIO DE TEQUENDAMA"})db.UBICACION.insertOne({DANE:25797, Departamento:"CUNDINAMARCA", Municipio:"TENA"})db.UBICACION.insertOne({DANE:25878, Departamento:"CUNDINAMARCA", Municipio:"VIOTÁ"})db.UBICACION.insertOne({DANE:25154, Departamento:"CUNDINAMARCA", Municipio:"CARMEN DE CARUPA"})db.UBICACION.insertOne({DANE:25224, Departamento:"CUNDINAMARCA", Municipio:"CUCUNUBÁ"})db.UBICACION.insertOne({DANE:25288, Departamento:"CUNDINAMARCA", Municipio:"FÚQUENE"})db.UBICACION.insertOne({DANE:25317, Departamento:"CUNDINAMARCA", Municipio:"GUACHETÁ"})db.UBICACION.insertOne({DANE:25407, Departamento:"CUNDINAMARCA", Municipio:"LENGUAZAQUE"})db.UBICACION.insertOne({DANE:25745, Departamento:"CUNDINAMARCA", Municipio:"SIMIJACA"})db.UBICACION.insertOne({DANE:25779, Departamento:"CUNDINAMARCA", Municipio:"SUSA"})db.UBICACION.insertOne({DANE:25781, Departamento:"CUNDINAMARCA", Municipio:"SUTATAUSA"})db.UBICACION.insertOne({DANE:25793, Departamento:"CUNDINAMARCA", Municipio:"TAUSA"})db.UBICACION.insertOne({DANE:25843, Departamento:"CUNDINAMARCA", Municipio:"UBATE"})db.UBICACION.insertOne({DANE:94343, Departamento:"GUAINIA", Municipio:"BARRANCO MINA"})db.UBICACION.insertOne({DANE:94886, Departamento:"GUAINIA", Municipio:"CACAHUAL"})db.UBICACION.insertOne({DANE:94001, Departamento:"GUAINIA", Municipio:"INÍRIDA"})db.UBICACION.insertOne({DANE:94885, Departamento:"GUAINIA", Municipio:"LA GUADALUPE"})db.UBICACION.insertOne({DANE:94663, Departamento:"GUAINIA", Municipio:"MAPIRIPaN"})db.UBICACION.insertOne({DANE:94888, Departamento:"GUAINIA", Municipio:"MORICHAL"})db.UBICACION.insertOne({DANE:94887, Departamento:"GUAINIA", Municipio:"PANA PANA"})db.UBICACION.insertOne({DANE:94884, Departamento:"GUAINIA", Municipio:"PUERTO COLOMBIA"})db.UBICACION.insertOne({DANE:94883, Departamento:"GUAINIA", Municipio:"SAN FELIPE"})db.UBICACION.insertOne({DANE:95015, Departamento:"GUAVIARE", Municipio:"CALAMAR"})db.UBICACION.insertOne({DANE:95025, Departamento:"GUAVIARE", Municipio:"EL RETORNO"})db.UBICACION.insertOne({DANE:95200, Departamento:"GUAVIARE", Municipio:"MIRAFLORES"})db.UBICACION.insertOne({DANE:95001, Departamento:"GUAVIARE", Municipio:"SAN JOSÉ DEL GUAVIARE"})db.UBICACION.insertOne({DANE:41013, Departamento:"HUILA", Municipio:"AGRADO"})db.UBICACION.insertOne({DANE:41026, Departamento:"HUILA", Municipio:"ALTAMIRA"})db.UBICACION.insertOne({DANE:41298, Departamento:"HUILA", Municipio:"GARZÓN"})db.UBICACION.insertOne({DANE:41306, Departamento:"HUILA", Municipio:"GIGANTE"})db.UBICACION.insertOne({DANE:41319, Departamento:"HUILA", Municipio:"GUADALUPE"})db.UBICACION.insertOne({DANE:41548, Departamento:"HUILA", Municipio:"PITAL"})db.UBICACION.insertOne({DANE:41770, Departamento:"HUILA", Municipio:"SUAZA"})db.UBICACION.insertOne({DANE:41791, Departamento:"HUILA", Municipio:"TARQUI"})db.UBICACION.insertOne({DANE:41016, Departamento:"HUILA", Municipio:"AIPE"})db.UBICACION.insertOne({DANE:41020, Departamento:"HUILA", Municipio:"ALGECIRAS"})db.UBICACION.insertOne({DANE:41078, Departamento:"HUILA", Municipio:"BARAYA"})db.UBICACION.insertOne({DANE:41132, Departamento:"HUILA", Municipio:"CAMPOALEGRE"})db.UBICACION.insertOne({DANE:41206, Departamento:"HUILA", Municipio:"COLOMBIA"})db.UBICACION.insertOne({DANE:41349, Departamento:"HUILA", Municipio:"HOBO"})db.UBICACION.insertOne({DANE:41357, Departamento:"HUILA", Municipio:"IQUIRA"})db.UBICACION.insertOne({DANE:41001, Departamento:"HUILA", Municipio:"NEIVA"})db.UBICACION.insertOne({DANE:41524, Departamento:"HUILA", Municipio:"PALERMO"})db.UBICACION.insertOne({DANE:41615, Departamento:"HUILA", Municipio:"RIVERA"})db.UBICACION.insertOne({DANE:41676, Departamento:"HUILA", Municipio:"SANTA MARÍA"})db.UBICACION.insertOne({DANE:41799, Departamento:"HUILA", Municipio:"TELLO"})db.UBICACION.insertOne({DANE:41801, Departamento:"HUILA", Municipio:"TERUEL"})db.UBICACION.insertOne({DANE:41872, Departamento:"HUILA", Municipio:"VILLAVIEJA"})db.UBICACION.insertOne({DANE:41885, Departamento:"HUILA", Municipio:"YAGUARÁ"})db.UBICACION.insertOne({DANE:41378, Departamento:"HUILA", Municipio:"LA ARGENTINA"})db.UBICACION.insertOne({DANE:41396, Departamento:"HUILA", Municipio:"LA PLATA"})db.UBICACION.insertOne({DANE:41483, Departamento:"HUILA", Municipio:"NÁTAGA"})db.UBICACION.insertOne({DANE:41518, Departamento:"HUILA", Municipio:"PAICOL"})db.UBICACION.insertOne({DANE:41797, Departamento:"HUILA", Municipio:"TESALIA"})db.UBICACION.insertOne({DANE:41006, Departamento:"HUILA", Municipio:"ACEVEDO"})db.UBICACION.insertOne({DANE:41244, Departamento:"HUILA", Municipio:"ELÍAS"})db.UBICACION.insertOne({DANE:41359, Departamento:"HUILA", Municipio:"ISNOS"})db.UBICACION.insertOne({DANE:41503, Departamento:"HUILA", Municipio:"OPORAPA"})db.UBICACION.insertOne({DANE:41530, Departamento:"HUILA", Municipio:"PALESTINA"})db.UBICACION.insertOne({DANE:41551, Departamento:"HUILA", Municipio:"PITALITO"})db.UBICACION.insertOne({DANE:41660, Departamento:"HUILA", Municipio:"SALADOBLANCO"})db.UBICACION.insertOne({DANE:41668, Departamento:"HUILA", Municipio:"SAN AGUSTÍN"})db.UBICACION.insertOne({DANE:41807, Departamento:"HUILA", Municipio:"TIMANÁ"})db.UBICACION.insertOne({DANE:44035, Departamento:"LA GUAJIRA", Municipio:"ALBANIA"})db.UBICACION.insertOne({DANE:44090, Departamento:"LA GUAJIRA", Municipio:"DIBULLA"})db.UBICACION.insertOne({DANE:44430, Departamento:"LA GUAJIRA", Municipio:"MAICAO"})db.UBICACION.insertOne({DANE:44560, Departamento:"LA GUAJIRA", Municipio:"MANAURE"})db.UBICACION.insertOne({DANE:44001, Departamento:"LA GUAJIRA", Municipio:"RIOHACHA"})db.UBICACION.insertOne({DANE:44847, Departamento:"LA GUAJIRA", Municipio:"URIBIA"})db.UBICACION.insertOne({DANE:44078, Departamento:"LA GUAJIRA", Municipio:"BARRANCAS"})db.UBICACION.insertOne({DANE:44098, Departamento:"LA GUAJIRA", Municipio:"DISTRACCION"})db.UBICACION.insertOne({DANE:44110, Departamento:"LA GUAJIRA", Municipio:"EL MOLINO"})db.UBICACION.insertOne({DANE:44279, Departamento:"LA GUAJIRA", Municipio:"FONSECA"})db.UBICACION.insertOne({DANE:44378, Departamento:"LA GUAJIRA", Municipio:"HATONUEVO"})db.UBICACION.insertOne({DANE:44420, Departamento:"LA GUAJIRA", Municipio:"LA JAGUA DEL PILAR"})db.UBICACION.insertOne({DANE:44650, Departamento:"LA GUAJIRA", Municipio:"SAN JUAN DEL CESAR"})db.UBICACION.insertOne({DANE:44855, Departamento:"LA GUAJIRA", Municipio:"URUMITA"})db.UBICACION.insertOne({DANE:44874, Departamento:"LA GUAJIRA", Municipio:"VILLANUEVA"})db.UBICACION.insertOne({DANE:47058, Departamento:"MAGDALENA", Municipio:"ARIGUANÍ"})db.UBICACION.insertOne({DANE:47170, Departamento:"MAGDALENA", Municipio:"CHIBOLO"})db.UBICACION.insertOne({DANE:47460, Departamento:"MAGDALENA", Municipio:"NUEVA GRANADA"})db.UBICACION.insertOne({DANE:47555, Departamento:"MAGDALENA", Municipio:"PLATO"})db.UBICACION.insertOne({DANE:47660, Departamento:"MAGDALENA", Municipio:"SABANAS DE SAN ANGEL"})db.UBICACION.insertOne({DANE:47798, Departamento:"MAGDALENA", Municipio:"TENERIFE"})db.UBICACION.insertOne({DANE:47030, Departamento:"MAGDALENA", Municipio:"ALGARROBO"})db.UBICACION.insertOne({DANE:47053, Departamento:"MAGDALENA", Municipio:"ARACATACA"})db.UBICACION.insertOne({DANE:47189, Departamento:"MAGDALENA", Municipio:"CIÉNAGA"})db.UBICACION.insertOne({DANE:47268, Departamento:"MAGDALENA", Municipio:"EL RETEN"})db.UBICACION.insertOne({DANE:47288, Departamento:"MAGDALENA", Municipio:"FUNDACION"})db.UBICACION.insertOne({DANE:47570, Departamento:"MAGDALENA", Municipio:"PUEBLO VIEJO"})db.UBICACION.insertOne({DANE:47980, Departamento:"MAGDALENA", Municipio:"ZONA BANANERA"})db.UBICACION.insertOne({DANE:47161, Departamento:"MAGDALENA", Municipio:"CERRO SAN ANTONIO"})db.UBICACION.insertOne({DANE:47205, Departamento:"MAGDALENA", Municipio:"CONCORDIA"})db.UBICACION.insertOne({DANE:47258, Departamento:"MAGDALENA", Municipio:"EL PIÑON"})db.UBICACION.insertOne({DANE:47541, Departamento:"MAGDALENA", Municipio:"PEDRAZA"})db.UBICACION.insertOne({DANE:47551, Departamento:"MAGDALENA", Municipio:"PIVIJAY"})db.UBICACION.insertOne({DANE:47605, Departamento:"MAGDALENA", Municipio:"REMOLINO"})db.UBICACION.insertOne({DANE:47675, Departamento:"MAGDALENA", Municipio:"SALAMINA"})db.UBICACION.insertOne({DANE:47745, Departamento:"MAGDALENA", Municipio:"SITIONUEVO"})db.UBICACION.insertOne({DANE:47960, Departamento:"MAGDALENA", Municipio:"ZAPAYAN"})db.UBICACION.insertOne({DANE:47001, Departamento:"MAGDALENA", Municipio:"SANTA MARTA"})db.UBICACION.insertOne({DANE:47245, Departamento:"MAGDALENA", Municipio:"EL BANCO"})db.UBICACION.insertOne({DANE:47318, Departamento:"MAGDALENA", Municipio:"GUAMAL"})db.UBICACION.insertOne({DANE:47545, Departamento:"MAGDALENA", Municipio:"PIJIÑO DEL CARMEN"})db.UBICACION.insertOne({DANE:47692, Departamento:"MAGDALENA", Municipio:"SAN SEBASTIAN DE BUENAVISTA"})db.UBICACION.insertOne({DANE:47703, Departamento:"MAGDALENA", Municipio:"SAN ZENON"})db.UBICACION.insertOne({DANE:47707, Departamento:"MAGDALENA", Municipio:"SANTA ANA"})db.UBICACION.insertOne({DANE:47720, Departamento:"MAGDALENA", Municipio:"SANTA BARBARA DE PINTO"})db.UBICACION.insertOne({DANE:50251, Departamento:"META", Municipio:"EL CASTILLO"})db.UBICACION.insertOne({DANE:50270, Departamento:"META", Municipio:"EL DORADO"})db.UBICACION.insertOne({DANE:50287, Departamento:"META", Municipio:"FUENTE DE ORO"})db.UBICACION.insertOne({DANE:50313, Departamento:"META", Municipio:"GRANADA"})db.UBICACION.insertOne({DANE:50350, Departamento:"META", Municipio:"LA MACARENA"})db.UBICACION.insertOne({DANE:50370, Departamento:"META", Municipio:"LA URIBE"})db.UBICACION.insertOne({DANE:50400, Departamento:"META", Municipio:"LEJANÍAS"})db.UBICACION.insertOne({DANE:50325, Departamento:"META", Municipio:"MAPIRIPaN"})db.UBICACION.insertOne({DANE:50330, Departamento:"META", Municipio:"MESETAS"})db.UBICACION.insertOne({DANE:50450, Departamento:"META", Municipio:"PUERTO CONCORDIA"})db.UBICACION.insertOne({DANE:50577, Departamento:"META", Municipio:"PUERTO LLERAS"})db.UBICACION.insertOne({DANE:50590, Departamento:"META", Municipio:"PUERTO RICO"})db.UBICACION.insertOne({DANE:50683, Departamento:"META", Municipio:"SAN JUAN DE ARAMA"})db.UBICACION.insertOne({DANE:50711, Departamento:"META", Municipio:"VISTA HERMOSA"})db.UBICACION.insertOne({DANE:50001, Departamento:"META", Municipio:"VILLAVICENCIO"})db.UBICACION.insertOne({DANE:50006, Departamento:"META", Municipio:"ACACiAS"})db.UBICACION.insertOne({DANE:50110, Departamento:"META", Municipio:"BARRANCA DE UPIA"})db.UBICACION.insertOne({DANE:50150, Departamento:"META", Municipio:"CASTILLA LA NUEVA"})db.UBICACION.insertOne({DANE:50226, Departamento:"META", Municipio:"CUMARAL"})db.UBICACION.insertOne({DANE:50245, Departamento:"META", Municipio:"EL CALVARIO"})db.UBICACION.insertOne({DANE:50318, Departamento:"META", Municipio:"GUAMAL"})db.UBICACION.insertOne({DANE:50606, Departamento:"META", Municipio:"RESTREPO"})db.UBICACION.insertOne({DANE:50680, Departamento:"META", Municipio:"SAN CARLOS GUAROA"})db.UBICACION.insertOne({DANE:50686, Departamento:"META", Municipio:"SAN JUANITO"})db.UBICACION.insertOne({DANE:50223, Departamento:"META", Municipio:"SAN LUIS DE CUBARRAL"})db.UBICACION.insertOne({DANE:50689, Departamento:"META", Municipio:"SAN MARTÍN"})db.UBICACION.insertOne({DANE:50124, Departamento:"META", Municipio:"CABUYARO"})db.UBICACION.insertOne({DANE:50568, Departamento:"META", Municipio:"PUERTO GAITÁN"})db.UBICACION.insertOne({DANE:50573, Departamento:"META", Municipio:"PUERTO LoPEZ"})db.UBICACION.insertOne({DANE:52240, Departamento:"NARIÑO", Municipio:"CHACHAGUI"})db.UBICACION.insertOne({DANE:52207, Departamento:"NARIÑO", Municipio:"CONSACA"})db.UBICACION.insertOne({DANE:52254, Departamento:"NARIÑO", Municipio:"EL PEÑOL"})db.UBICACION.insertOne({DANE:52260, Departamento:"NARIÑO", Municipio:"EL TAMBO"})db.UBICACION.insertOne({DANE:52381, Departamento:"NARIÑO", Municipio:"LA FLORIDA"})db.UBICACION.insertOne({DANE:52480, Departamento:"NARIÑO", Municipio:"NARIÑO"})db.UBICACION.insertOne({DANE:52001, Departamento:"NARIÑO", Municipio:"PASTO"})db.UBICACION.insertOne({DANE:52683, Departamento:"NARIÑO", Municipio:"SANDONÁ"})db.UBICACION.insertOne({DANE:52788, Departamento:"NARIÑO", Municipio:"TANGUA"})db.UBICACION.insertOne({DANE:52885, Departamento:"NARIÑO", Municipio:"YACUANQUER"})db.UBICACION.insertOne({DANE:52036, Departamento:"NARIÑO", Municipio:"ANCUYA"})db.UBICACION.insertOne({DANE:52320, Departamento:"NARIÑO", Municipio:"GUAITARILLA"})db.UBICACION.insertOne({DANE:52385, Departamento:"NARIÑO", Municipio:"LA LLANADA"})db.UBICACION.insertOne({DANE:52411, Departamento:"NARIÑO", Municipio:"LINARES"})db.UBICACION.insertOne({DANE:52418, Departamento:"NARIÑO", Municipio:"LOS ANDES"})db.UBICACION.insertOne({DANE:52435, Departamento:"NARIÑO", Municipio:"MALLAMA"})db.UBICACION.insertOne({DANE:52506, Departamento:"NARIÑO", Municipio:"OSPINA"})db.UBICACION.insertOne({DANE:52565, Departamento:"NARIÑO", Municipio:"PROVIDENCIA"})db.UBICACION.insertOne({DANE:52612, Departamento:"NARIÑO", Municipio:"RICAURTE"})db.UBICACION.insertOne({DANE:52678, Departamento:"NARIÑO", Municipio:"SAMANIEGO"})db.UBICACION.insertOne({DANE:52699, Departamento:"NARIÑO", Municipio:"SANTA CRUZ"})db.UBICACION.insertOne({DANE:52720, Departamento:"NARIÑO", Municipio:"SAPUYES"})db.UBICACION.insertOne({DANE:52838, Departamento:"NARIÑO", Municipio:"TUQUERRES"})db.UBICACION.insertOne({DANE:52079, Departamento:"NARIÑO", Municipio:"BARBACOAS"})db.UBICACION.insertOne({DANE:52250, Departamento:"NARIÑO", Municipio:"EL CHARCO"})db.UBICACION.insertOne({DANE:52520, Departamento:"NARIÑO", Municipio:"FRANCISCO PIZARRO"})db.UBICACION.insertOne({DANE:52390, Departamento:"NARIÑO", Municipio:"LA TOLA"})db.UBICACION.insertOne({DANE:52427, Departamento:"NARIÑO", Municipio:"Magui"})db.UBICACION.insertOne({DANE:52473, Departamento:"NARIÑO", Municipio:"MOSQUERA"})db.UBICACION.insertOne({DANE:52490, Departamento:"NARIÑO", Municipio:"OLAYA HERRERA"})db.UBICACION.insertOne({DANE:52621, Departamento:"NARIÑO", Municipio:"ROBERTO PAYAN"})db.UBICACION.insertOne({DANE:52696, Departamento:"NARIÑO", Municipio:"SANTA BaRBARA"})db.UBICACION.insertOne({DANE:52835, Departamento:"NARIÑO", Municipio:"TUMACO"})db.UBICACION.insertOne({DANE:52019, Departamento:"NARIÑO", Municipio:"ALBAN"})db.UBICACION.insertOne({DANE:52051, Departamento:"NARIÑO", Municipio:"ARBOLEDA"})db.UBICACION.insertOne({DANE:52083, Departamento:"NARIÑO", Municipio:"BELEN"})db.UBICACION.insertOne({DANE:52110, Departamento:"NARIÑO", Municipio:"BUESACO"})db.UBICACION.insertOne({DANE:52203, Departamento:"NARIÑO", Municipio:"COLON"})db.UBICACION.insertOne({DANE:52233, Departamento:"NARIÑO", Municipio:"CUMBITARA"})db.UBICACION.insertOne({DANE:52256, Departamento:"NARIÑO", Municipio:"EL ROSARIO"})db.UBICACION.insertOne({DANE:52258, Departamento:"NARIÑO", Municipio:"El Tablon de Gomez"})db.UBICACION.insertOne({DANE:52378, Departamento:"NARIÑO", Municipio:"LA CRUZ"})db.UBICACION.insertOne({DANE:52399, Departamento:"NARIÑO", Municipio:"LA UNION"})db.UBICACION.insertOne({DANE:52405, Departamento:"NARIÑO", Municipio:"LEIVA"})db.UBICACION.insertOne({DANE:52540, Departamento:"NARIÑO", Municipio:"POLICARPA"})db.UBICACION.insertOne({DANE:52685, Departamento:"NARIÑO", Municipio:"SAN BERNARDO"})db.UBICACION.insertOne({DANE:52687, Departamento:"NARIÑO", Municipio:"SAN LORENZO"})db.UBICACION.insertOne({DANE:52693, Departamento:"NARIÑO", Municipio:"SAN PABLO"})db.UBICACION.insertOne({DANE:52694, Departamento:"NARIÑO", Municipio:"SAN PEDRO DE CARTAGO"})db.UBICACION.insertOne({DANE:52786, Departamento:"NARIÑO", Municipio:"TAMINANGO"})db.UBICACION.insertOne({DANE:52022, Departamento:"NARIÑO", Municipio:"ALDANA"})db.UBICACION.insertOne({DANE:52210, Departamento:"NARIÑO", Municipio:"CONTADERO"})db.UBICACION.insertOne({DANE:52215, Departamento:"NARIÑO", Municipio:"CÓRDOBA"})db.UBICACION.insertOne({DANE:52224, Departamento:"NARIÑO", Municipio:"CUASPUD"})db.UBICACION.insertOne({DANE:52227, Departamento:"NARIÑO", Municipio:"CUMBAL"})db.UBICACION.insertOne({DANE:52287, Departamento:"NARIÑO", Municipio:"FUNES"})db.UBICACION.insertOne({DANE:52317, Departamento:"NARIÑO", Municipio:"GUACHUCAL"})db.UBICACION.insertOne({DANE:52323, Departamento:"NARIÑO", Municipio:"GUALMATAN"})db.UBICACION.insertOne({DANE:52352, Departamento:"NARIÑO", Municipio:"ILES"})db.UBICACION.insertOne({DANE:52354, Departamento:"NARIÑO", Municipio:"IMUES"})db.UBICACION.insertOne({DANE:52356, Departamento:"NARIÑO", Municipio:"IPIALES"})db.UBICACION.insertOne({DANE:52560, Departamento:"NARIÑO", Municipio:"POTOSÍ"})db.UBICACION.insertOne({DANE:52573, Departamento:"NARIÑO", Municipio:"PUERRES"})db.UBICACION.insertOne({DANE:52585, Departamento:"NARIÑO", Municipio:"PUPIALES"})db.UBICACION.insertOne({DANE:54051, Departamento:"NORTE DE SANTANDER", Municipio:"ARBOLEDAS"})db.UBICACION.insertOne({DANE:54223, Departamento:"NORTE DE SANTANDER", Municipio:"CUCUTILLA"})db.UBICACION.insertOne({DANE:54313, Departamento:"NORTE DE SANTANDER", Municipio:"GRAMALOTE"})db.UBICACION.insertOne({DANE:54418, Departamento:"NORTE DE SANTANDER", Municipio:"LOURDES"})db.UBICACION.insertOne({DANE:54660, Departamento:"NORTE DE SANTANDER", Municipio:"SALAZAR"})db.UBICACION.insertOne({DANE:54680, Departamento:"NORTE DE SANTANDER", Municipio:"SANTIAGO"})db.UBICACION.insertOne({DANE:54871, Departamento:"NORTE DE SANTANDER", Municipio:"VILLA CARO"})db.UBICACION.insertOne({DANE:54109, Departamento:"NORTE DE SANTANDER", Municipio:"BUCARASICA"})db.UBICACION.insertOne({DANE:54250, Departamento:"NORTE DE SANTANDER", Municipio:"EL TARRA"})db.UBICACION.insertOne({DANE:54720, Departamento:"NORTE DE SANTANDER", Municipio:"SARDINATA"})db.UBICACION.insertOne({DANE:54810, Departamento:"NORTE DE SANTANDER", Municipio:"TIBÚ"})db.UBICACION.insertOne({DANE:54003, Departamento:"NORTE DE SANTANDER", Municipio:"ABREGO"})db.UBICACION.insertOne({DANE:54128, Departamento:"NORTE DE SANTANDER", Municipio:"CACHIRÁ"})db.UBICACION.insertOne({DANE:54206, Departamento:"NORTE DE SANTANDER", Municipio:"CONVENCIÓN"})db.UBICACION.insertOne({DANE:54245, Departamento:"NORTE DE SANTANDER", Municipio:"EL CARMEN"})db.UBICACION.insertOne({DANE:54344, Departamento:"NORTE DE SANTANDER", Municipio:"HACARÍ"})db.UBICACION.insertOne({DANE:54385, Departamento:"NORTE DE SANTANDER", Municipio:"LA ESPERANZA"})db.UBICACION.insertOne({DANE:54398, Departamento:"NORTE DE SANTANDER", Municipio:"LA PLAYA"})db.UBICACION.insertOne({DANE:54498, Departamento:"NORTE DE SANTANDER", Municipio:"OCAÑA"})db.UBICACION.insertOne({DANE:54670, Departamento:"NORTE DE SANTANDER", Municipio:"SAN CALIXTO"})db.UBICACION.insertOne({DANE:54800, Departamento:"NORTE DE SANTANDER", Municipio:"TEORAMA"})db.UBICACION.insertOne({DANE:54001, Departamento:"NORTE DE SANTANDER", Municipio:"CÚCUTA"})db.UBICACION.insertOne({DANE:54261, Departamento:"NORTE DE SANTANDER", Municipio:"EL ZULIA"})db.UBICACION.insertOne({DANE:54405, Departamento:"NORTE DE SANTANDER", Municipio:"LOS PATIOS"})db.UBICACION.insertOne({DANE:54553, Departamento:"NORTE DE SANTANDER", Municipio:"PUERTO SANTANDER"})db.UBICACION.insertOne({DANE:54673, Departamento:"NORTE DE SANTANDER", Municipio:"SAN CAYETANO"})db.UBICACION.insertOne({DANE:54874, Departamento:"NORTE DE SANTANDER", Municipio:"VILLA DEL ROSARIO"})db.UBICACION.insertOne({DANE:54125, Departamento:"NORTE DE SANTANDER", Municipio:"CÁCOTA"})db.UBICACION.insertOne({DANE:54174, Departamento:"NORTE DE SANTANDER", Municipio:"CHITAGÁ"})db.UBICACION.insertOne({DANE:54480, Departamento:"NORTE DE SANTANDER", Municipio:"MUTISCUA"})db.UBICACION.insertOne({DANE:54518, Departamento:"NORTE DE SANTANDER", Municipio:"PAMPLONA"})db.UBICACION.insertOne({DANE:54520, Departamento:"NORTE DE SANTANDER", Municipio:"PAMPLONITA"})db.UBICACION.insertOne({DANE:54743, Departamento:"NORTE DE SANTANDER", Municipio:"SILOS"})db.UBICACION.insertOne({DANE:54099, Departamento:"NORTE DE SANTANDER", Municipio:"BOCHALEMA"})db.UBICACION.insertOne({DANE:54172, Departamento:"NORTE DE SANTANDER", Municipio:"CHINÁCOTA"})db.UBICACION.insertOne({DANE:54239, Departamento:"NORTE DE SANTANDER", Municipio:"DURANIA"})db.UBICACION.insertOne({DANE:54347, Departamento:"NORTE DE SANTANDER", Municipio:"HERRÁN"})db.UBICACION.insertOne({DANE:54377, Departamento:"NORTE DE SANTANDER", Municipio:"LABATECA"})db.UBICACION.insertOne({DANE:54599, Departamento:"NORTE DE SANTANDER", Municipio:"RAGONVALIA"})db.UBICACION.insertOne({DANE:54820, Departamento:"NORTE DE SANTANDER", Municipio:"TOLEDO"})db.UBICACION.insertOne({DANE:86219, Departamento:"PUTUMAYO", Municipio:"COLÓN"})db.UBICACION.insertOne({DANE:86001, Departamento:"PUTUMAYO", Municipio:"MOCOA"})db.UBICACION.insertOne({DANE:86320, Departamento:"PUTUMAYO", Municipio:"ORITO"})db.UBICACION.insertOne({DANE:86568, Departamento:"PUTUMAYO", Municipio:"PUERTO ASIS"})db.UBICACION.insertOne({DANE:86569, Departamento:"PUTUMAYO", Municipio:"PUERTO CAICEDO"})db.UBICACION.insertOne({DANE:86571, Departamento:"PUTUMAYO", Municipio:"PUERTO GUZMAN"})db.UBICACION.insertOne({DANE:86573, Departamento:"PUTUMAYO", Municipio:"PUERTO LEGUIZAMO"})db.UBICACION.insertOne({DANE:86755, Departamento:"PUTUMAYO", Municipio:"SAN FRANCISCO"})db.UBICACION.insertOne({DANE:86757, Departamento:"PUTUMAYO", Municipio:"SAN MIGUEL"})db.UBICACION.insertOne({DANE:86760, Departamento:"PUTUMAYO", Municipio:"SANTIAGO"})db.UBICACION.insertOne({DANE:86749, Departamento:"PUTUMAYO", Municipio:"SIBUNDOY"})db.UBICACION.insertOne({DANE:86865, Departamento:"PUTUMAYO", Municipio:"VALLE DEL GUAMUEZ"})db.UBICACION.insertOne({DANE:86885, Departamento:"PUTUMAYO", Municipio:"VILLA GARZON"})db.UBICACION.insertOne({DANE:63001, Departamento:"QUINDIO", Municipio:"ARMENIA"})db.UBICACION.insertOne({DANE:63111, Departamento:"QUINDIO", Municipio:"BUENAVISTA"})db.UBICACION.insertOne({DANE:63130, Departamento:"QUINDIO", Municipio:"CALARCA"})db.UBICACION.insertOne({DANE:63212, Departamento:"QUINDIO", Municipio:"CoRDOBA"})db.UBICACION.insertOne({DANE:63302, Departamento:"QUINDIO", Municipio:"GeNOVA"})db.UBICACION.insertOne({DANE:63548, Departamento:"QUINDIO", Municipio:"PIJAO"})db.UBICACION.insertOne({DANE:63272, Departamento:"QUINDIO", Municipio:"FILANDIA"})db.UBICACION.insertOne({DANE:63690, Departamento:"QUINDIO", Municipio:"SALENTO"})db.UBICACION.insertOne({DANE:63190, Departamento:"QUINDIO", Municipio:"CIRCASIA"})db.UBICACION.insertOne({DANE:63401, Departamento:"QUINDIO", Municipio:"LA TEBAIDA"})db.UBICACION.insertOne({DANE:63470, Departamento:"QUINDIO", Municipio:"Montengro"})db.UBICACION.insertOne({DANE:63594, Departamento:"QUINDIO", Municipio:"QUIMBAYA"})db.UBICACION.insertOne({DANE:66170, Departamento:"RISARALDA", Municipio:"DOSQUEBRADAS"})db.UBICACION.insertOne({DANE:66400, Departamento:"RISARALDA", Municipio:"LA VIRGINIA"})db.UBICACION.insertOne({DANE:66440, Departamento:"RISARALDA", Municipio:"MARSELLA"})db.UBICACION.insertOne({DANE:66001, Departamento:"RISARALDA", Municipio:"PEREIRA"})db.UBICACION.insertOne({DANE:66682, Departamento:"RISARALDA", Municipio:"SANTA ROSA DE CABAL"})db.UBICACION.insertOne({DANE:66045, Departamento:"RISARALDA", Municipio:"APÍA"})db.UBICACION.insertOne({DANE:66075, Departamento:"RISARALDA", Municipio:"BALBOA"})db.UBICACION.insertOne({DANE:66088, Departamento:"RISARALDA", Municipio:"BELÉN DE UMBRÍA"})db.UBICACION.insertOne({DANE:66318, Departamento:"RISARALDA", Municipio:"GUÁTICA"})db.UBICACION.insertOne({DANE:66383, Departamento:"RISARALDA", Municipio:"LA CELIA"})db.UBICACION.insertOne({DANE:66594, Departamento:"RISARALDA", Municipio:"QUINCHiA"})db.UBICACION.insertOne({DANE:66687, Departamento:"RISARALDA", Municipio:"SANTUARIO"})db.UBICACION.insertOne({DANE:66456, Departamento:"RISARALDA", Municipio:"MISTRATÓ"})db.UBICACION.insertOne({DANE:66572, Departamento:"RISARALDA", Municipio:"PUEBLO RICO"})db.UBICACION.insertOne({DANE:68176, Departamento:"SANTANDER", Municipio:"CHIMA"})db.UBICACION.insertOne({DANE:68209, Departamento:"SANTANDER", Municipio:"CONFINES"})db.UBICACION.insertOne({DANE:68211, Departamento:"SANTANDER", Municipio:"CONTRATACIÓN"})db.UBICACION.insertOne({DANE:68245, Departamento:"SANTANDER", Municipio:"EL GUACAMAYO"})db.UBICACION.insertOne({DANE:68296, Departamento:"SANTANDER", Municipio:"GALÁN"})db.UBICACION.insertOne({DANE:68298, Departamento:"SANTANDER", Municipio:"GAMBITA"})db.UBICACION.insertOne({DANE:68320, Departamento:"SANTANDER", Municipio:"GUADALUPE"})db.UBICACION.insertOne({DANE:68322, Departamento:"SANTANDER", Municipio:"GUAPOTÁ"})db.UBICACION.insertOne({DANE:68344, Departamento:"SANTANDER", Municipio:"HATO"})db.UBICACION.insertOne({DANE:68500, Departamento:"SANTANDER", Municipio:"OIBA"})db.UBICACION.insertOne({DANE:68522, Departamento:"SANTANDER", Municipio:"PALMAR"})db.UBICACION.insertOne({DANE:68524, Departamento:"SANTANDER", Municipio:"PALMAS DEL SOCORRO"})db.UBICACION.insertOne({DANE:68720, Departamento:"SANTANDER", Municipio:"SANTA HELENA DEL OPÓN"})db.UBICACION.insertOne({DANE:68745, Departamento:"SANTANDER", Municipio:"SIMACOTA"})db.UBICACION.insertOne({DANE:68755, Departamento:"SANTANDER", Municipio:"SOCORRO"})db.UBICACION.insertOne({DANE:68770, Departamento:"SANTANDER", Municipio:"SUAITA"})db.UBICACION.insertOne({DANE:68147, Departamento:"SANTANDER", Municipio:"CAPITANEJO"})db.UBICACION.insertOne({DANE:68152, Departamento:"SANTANDER", Municipio:"CARCASÍ"})db.UBICACION.insertOne({DANE:68160, Departamento:"SANTANDER", Municipio:"CEPITÁ"})db.UBICACION.insertOne({DANE:68162, Departamento:"SANTANDER", Municipio:"CERRITO"})db.UBICACION.insertOne({DANE:68207, Departamento:"SANTANDER", Municipio:"CONCEPCIÓN"})db.UBICACION.insertOne({DANE:68266, Departamento:"SANTANDER", Municipio:"ENCISO"})db.UBICACION.insertOne({DANE:68318, Departamento:"SANTANDER", Municipio:"GUACA"})db.UBICACION.insertOne({DANE:68425, Departamento:"SANTANDER", Municipio:"MACARAVITA"})db.UBICACION.insertOne({DANE:68432, Departamento:"SANTANDER", Municipio:"MÁLAGA"})db.UBICACION.insertOne({DANE:68468, Departamento:"SANTANDER", Municipio:"MOLAGAVITA"})db.UBICACION.insertOne({DANE:68669, Departamento:"SANTANDER", Municipio:"SAN ANDRÉS"})db.UBICACION.insertOne({DANE:68684, Departamento:"SANTANDER", Municipio:"SAN JOSÉ DE MIRANDA"})db.UBICACION.insertOne({DANE:68686, Departamento:"SANTANDER", Municipio:"SAN MIGUEL"})db.UBICACION.insertOne({DANE:68051, Departamento:"SANTANDER", Municipio:"ARATOCA"})db.UBICACION.insertOne({DANE:68079, Departamento:"SANTANDER", Municipio:"BARICHARA"})db.UBICACION.insertOne({DANE:68121, Departamento:"SANTANDER", Municipio:"CABRERA"})db.UBICACION.insertOne({DANE:68167, Departamento:"SANTANDER", Municipio:"CHARALÁ"})db.UBICACION.insertOne({DANE:68217, Departamento:"SANTANDER", Municipio:"COROMORO"})db.UBICACION.insertOne({DANE:68229, Departamento:"SANTANDER", Municipio:"CURITÍ"})db.UBICACION.insertOne({DANE:68264, Departamento:"SANTANDER", Municipio:"ENCINO"})db.UBICACION.insertOne({DANE:68370, Departamento:"SANTANDER", Municipio:"JORDÁN"})db.UBICACION.insertOne({DANE:68464, Departamento:"SANTANDER", Municipio:"MOGOTES"})db.UBICACION.insertOne({DANE:68498, Departamento:"SANTANDER", Municipio:"OCAMONTE"})db.UBICACION.insertOne({DANE:68502, Departamento:"SANTANDER", Municipio:"ONZAGA"})db.UBICACION.insertOne({DANE:68533, Departamento:"SANTANDER", Municipio:"PÁRAMO"})db.UBICACION.insertOne({DANE:68549, Departamento:"SANTANDER", Municipio:"PINCHOTE"})db.UBICACION.insertOne({DANE:68679, Departamento:"SANTANDER", Municipio:"SAN GIL"})db.UBICACION.insertOne({DANE:68682, Departamento:"SANTANDER", Municipio:"SAN JOAQUÍN"})db.UBICACION.insertOne({DANE:68855, Departamento:"SANTANDER", Municipio:"VALLE DE SAN JOSÉ"})db.UBICACION.insertOne({DANE:68872, Departamento:"SANTANDER", Municipio:"VILLANUEVA"})db.UBICACION.insertOne({DANE:68081, Departamento:"SANTANDER", Municipio:"BARRANCABERMEJA"})db.UBICACION.insertOne({DANE:68092, Departamento:"SANTANDER", Municipio:"BETULIA"})db.UBICACION.insertOne({DANE:68235, Departamento:"SANTANDER", Municipio:"EL CARMEN DE CHUCURÍ"})db.UBICACION.insertOne({DANE:68575, Departamento:"SANTANDER", Municipio:"PUERTO WILCHES"})db.UBICACION.insertOne({DANE:68655, Departamento:"SANTANDER", Municipio:"SABANA DE TORRES"})db.UBICACION.insertOne({DANE:68689, Departamento:"SANTANDER", Municipio:"SAN VICENTE DE CHUCURÍ"})db.UBICACION.insertOne({DANE:68895, Departamento:"SANTANDER", Municipio:"ZAPATOCA"})db.UBICACION.insertOne({DANE:68001, Departamento:"SANTANDER", Municipio:"BUCARAMANGA"})db.UBICACION.insertOne({DANE:68132, Departamento:"SANTANDER", Municipio:"CALIFORNIA"})db.UBICACION.insertOne({DANE:68169, Departamento:"SANTANDER", Municipio:"CHARTA"})db.UBICACION.insertOne({DANE:68255, Departamento:"SANTANDER", Municipio:"EL PLAYÓN"})db.UBICACION.insertOne({DANE:68276, Departamento:"SANTANDER", Municipio:"FLORIDABLANCA"})db.UBICACION.insertOne({DANE:68307, Departamento:"SANTANDER", Municipio:"GIRÓN"})db.UBICACION.insertOne({DANE:68406, Departamento:"SANTANDER", Municipio:"LEBRÍJA"})db.UBICACION.insertOne({DANE:68418, Departamento:"SANTANDER", Municipio:"LOS SANTOS"})db.UBICACION.insertOne({DANE:68444, Departamento:"SANTANDER", Municipio:"MATANZA"})db.UBICACION.insertOne({DANE:68547, Departamento:"SANTANDER", Municipio:"PIEDECUESTA"})db.UBICACION.insertOne({DANE:68615, Departamento:"SANTANDER", Municipio:"RIONEGRO"})db.UBICACION.insertOne({DANE:68705, Departamento:"SANTANDER", Municipio:"SANTA BÁRBARA"})db.UBICACION.insertOne({DANE:68780, Departamento:"SANTANDER", Municipio:"SURATA"})db.UBICACION.insertOne({DANE:68820, Departamento:"SANTANDER", Municipio:"TONA"})db.UBICACION.insertOne({DANE:68867, Departamento:"SANTANDER", Municipio:"VETAS"})db.UBICACION.insertOne({DANE:68013, Departamento:"SANTANDER", Municipio:"AGUADA"})db.UBICACION.insertOne({DANE:68020, Departamento:"SANTANDER", Municipio:"ALBANIA"})db.UBICACION.insertOne({DANE:68077, Departamento:"SANTANDER", Municipio:"BARBOSA"})db.UBICACION.insertOne({DANE:68101, Departamento:"SANTANDER", Municipio:"BOLÍVAR"})db.UBICACION.insertOne({DANE:68179, Departamento:"SANTANDER", Municipio:"CHIPATÁ"})db.UBICACION.insertOne({DANE:68190, Departamento:"SANTANDER", Municipio:"CIMITARRA"})db.UBICACION.insertOne({DANE:68250, Departamento:"SANTANDER", Municipio:"EL PEÑÓN"})db.UBICACION.insertOne({DANE:68271, Departamento:"SANTANDER", Municipio:"FLORIÁN"})db.UBICACION.insertOne({DANE:68324, Departamento:"SANTANDER", Municipio:"GUAVATÁ"})db.UBICACION.insertOne({DANE:68327, Departamento:"SANTANDER", Municipio:"GuEPSA"})db.UBICACION.insertOne({DANE:68368, Departamento:"SANTANDER", Municipio:"JESÚS MARÍA"})db.UBICACION.insertOne({DANE:68377, Departamento:"SANTANDER", Municipio:"LA BELLEZA"})db.UBICACION.insertOne({DANE:68397, Departamento:"SANTANDER", Municipio:"LA PAZ"})db.UBICACION.insertOne({DANE:68385, Departamento:"SANTANDER", Municipio:"LANDÁZURI"})db.UBICACION.insertOne({DANE:68572, Departamento:"SANTANDER", Municipio:"PUENTE NACIONAL"})db.UBICACION.insertOne({DANE:68573, Departamento:"SANTANDER", Municipio:"PUERTO PARRA"})db.UBICACION.insertOne({DANE:68673, Departamento:"SANTANDER", Municipio:"SAN BENITO"})db.UBICACION.insertOne({DANE:68773, Departamento:"SANTANDER", Municipio:"SUCRE"})db.UBICACION.insertOne({DANE:68861, Departamento:"SANTANDER", Municipio:"VÉLEZ"})db.UBICACION.insertOne({DANE:70265, Departamento:"SUCRE", Municipio:"GUARANDA"})db.UBICACION.insertOne({DANE:70429, Departamento:"SUCRE", Municipio:"MAJAGUAL"})db.UBICACION.insertOne({DANE:70771, Departamento:"SUCRE", Municipio:"SUCRE"})db.UBICACION.insertOne({DANE:70230, Departamento:"SUCRE", Municipio:"CHALÁN"})db.UBICACION.insertOne({DANE:70204, Departamento:"SUCRE", Municipio:"COLOSO"})db.UBICACION.insertOne({DANE:70473, Departamento:"SUCRE", Municipio:"MORROA"})db.UBICACION.insertOne({DANE:70508, Departamento:"SUCRE", Municipio:"OVEJAS"})db.UBICACION.insertOne({DANE:70001, Departamento:"SUCRE", Municipio:"SINCELEJO"})db.UBICACION.insertOne({DANE:70221, Departamento:"SUCRE", Municipio:"COVEÑAS"})db.UBICACION.insertOne({DANE:70523, Departamento:"SUCRE", Municipio:"PALMITO"})db.UBICACION.insertOne({DANE:70713, Departamento:"SUCRE", Municipio:"SAN ONOFRE"})db.UBICACION.insertOne({DANE:70820, Departamento:"SUCRE", Municipio:"SANTIAGO DE TOLÚ"})db.UBICACION.insertOne({DANE:70823, Departamento:"SUCRE", Municipio:"TOLÚ VIEJO"})db.UBICACION.insertOne({DANE:70110, Departamento:"SUCRE", Municipio:"BUENAVISTA"})db.UBICACION.insertOne({DANE:70215, Departamento:"SUCRE", Municipio:"COROZAL"})db.UBICACION.insertOne({DANE:70233, Departamento:"SUCRE", Municipio:"EL ROBLE"})db.UBICACION.insertOne({DANE:70235, Departamento:"SUCRE", Municipio:"GALERAS"})db.UBICACION.insertOne({DANE:70418, Departamento:"SUCRE", Municipio:"LOS PALMITOS"})db.UBICACION.insertOne({DANE:70670, Departamento:"SUCRE", Municipio:"SAMPUÉS"})db.UBICACION.insertOne({DANE:70702, Departamento:"SUCRE", Municipio:"SAN JUAN BETULIA"})db.UBICACION.insertOne({DANE:70717, Departamento:"SUCRE", Municipio:"SAN PEDRO"})db.UBICACION.insertOne({DANE:70742, Departamento:"SUCRE", Municipio:"SINCÉ"})db.UBICACION.insertOne({DANE:70124, Departamento:"SUCRE", Municipio:"CAIMITO"})db.UBICACION.insertOne({DANE:70400, Departamento:"SUCRE", Municipio:"LA UNIÓN"})db.UBICACION.insertOne({DANE:70678, Departamento:"SUCRE", Municipio:"SAN BENITO ABAD"})db.UBICACION.insertOne({DANE:70708, Departamento:"SUCRE", Municipio:"SAN MARCOS"})db.UBICACION.insertOne({DANE:73030, Departamento:"TOLIMA", Municipio:"AMBALEMA"})db.UBICACION.insertOne({DANE:73055, Departamento:"TOLIMA", Municipio:"ARMERO"})db.UBICACION.insertOne({DANE:73270, Departamento:"TOLIMA", Municipio:"FALAN"})db.UBICACION.insertOne({DANE:73283, Departamento:"TOLIMA", Municipio:"FRESNO"})db.UBICACION.insertOne({DANE:73349, Departamento:"TOLIMA", Municipio:"HONDA"})db.UBICACION.insertOne({DANE:73443, Departamento:"TOLIMA", Municipio:"MARIQUITA"})db.UBICACION.insertOne({DANE:73520, Departamento:"TOLIMA", Municipio:"PALOCABILDO"})db.UBICACION.insertOne({DANE:73148, Departamento:"TOLIMA", Municipio:"CARMEN DE APICALÁ"})db.UBICACION.insertOne({DANE:73226, Departamento:"TOLIMA", Municipio:"CUNDAY"})db.UBICACION.insertOne({DANE:73352, Departamento:"TOLIMA", Municipio:"ICONONZO"})db.UBICACION.insertOne({DANE:73449, Departamento:"TOLIMA", Municipio:"MELGAR"})db.UBICACION.insertOne({DANE:73873, Departamento:"TOLIMA", Municipio:"VILLARRICA"})db.UBICACION.insertOne({DANE:73067, Departamento:"TOLIMA", Municipio:"ATACO"})db.UBICACION.insertOne({DANE:73168, Departamento:"TOLIMA", Municipio:"CHAPARRAL"})db.UBICACION.insertOne({DANE:73217, Departamento:"TOLIMA", Municipio:"COYAIMA"})db.UBICACION.insertOne({DANE:73483, Departamento:"TOLIMA", Municipio:"NATAGAIMA"})db.UBICACION.insertOne({DANE:73504, Departamento:"TOLIMA", Municipio:"ORTEGA"})db.UBICACION.insertOne({DANE:73555, Departamento:"TOLIMA", Municipio:"PLANADAS"})db.UBICACION.insertOne({DANE:73616, Departamento:"TOLIMA", Municipio:"RIOBLANCO"})db.UBICACION.insertOne({DANE:73622, Departamento:"TOLIMA", Municipio:"RONCESVALLES"})db.UBICACION.insertOne({DANE:73675, Departamento:"TOLIMA", Municipio:"SAN ANTONIO"})db.UBICACION.insertOne({DANE:73026, Departamento:"TOLIMA", Municipio:"ALVARADO"})db.UBICACION.insertOne({DANE:73043, Departamento:"TOLIMA", Municipio:"ANZOÁTEGUI"})db.UBICACION.insertOne({DANE:73124, Departamento:"TOLIMA", Municipio:"CAJAMARCA"})db.UBICACION.insertOne({DANE:73200, Departamento:"TOLIMA", Municipio:"COELLO"})db.UBICACION.insertOne({DANE:73268, Departamento:"TOLIMA", Municipio:"ESPINAL"})db.UBICACION.insertOne({DANE:73275, Departamento:"TOLIMA", Municipio:"FLANDES"})db.UBICACION.insertOne({DANE:73001, Departamento:"TOLIMA", Municipio:"IBAGUe"})db.UBICACION.insertOne({DANE:73547, Departamento:"TOLIMA", Municipio:"PIEDRAS"})db.UBICACION.insertOne({DANE:73624, Departamento:"TOLIMA", Municipio:"ROVIRA"})db.UBICACION.insertOne({DANE:73678, Departamento:"TOLIMA", Municipio:"SAN LUIS"})db.UBICACION.insertOne({DANE:73854, Departamento:"TOLIMA", Municipio:"VALLE DE SAN JUAN"})db.UBICACION.insertOne({DANE:73024, Departamento:"TOLIMA", Municipio:"ALPUJARRA"})db.UBICACION.insertOne({DANE:73236, Departamento:"TOLIMA", Municipio:"DOLORES"})db.UBICACION.insertOne({DANE:73319, Departamento:"TOLIMA", Municipio:"GUAMO"})db.UBICACION.insertOne({DANE:73563, Departamento:"TOLIMA", Municipio:"PRADO"})db.UBICACION.insertOne({DANE:73585, Departamento:"TOLIMA", Municipio:"PURIFICACIÓN"})db.UBICACION.insertOne({DANE:73671, Departamento:"TOLIMA", Municipio:"SALDAÑA"})db.UBICACION.insertOne({DANE:73770, Departamento:"TOLIMA", Municipio:"SUÁREZ"})db.UBICACION.insertOne({DANE:73152, Departamento:"TOLIMA", Municipio:"CASABIANCA"})db.UBICACION.insertOne({DANE:73347, Departamento:"TOLIMA", Municipio:"HERVEO"})db.UBICACION.insertOne({DANE:73408, Departamento:"TOLIMA", Municipio:"LeRIDA"})db.UBICACION.insertOne({DANE:73411, Departamento:"TOLIMA", Municipio:"LiBANO"})db.UBICACION.insertOne({DANE:73461, Departamento:"TOLIMA", Municipio:"MURILLO"})db.UBICACION.insertOne({DANE:73686, Departamento:"TOLIMA", Municipio:"SANTA ISABEL"})db.UBICACION.insertOne({DANE:73861, Departamento:"TOLIMA", Municipio:"VENADILLO"})db.UBICACION.insertOne({DANE:73870, Departamento:"TOLIMA", Municipio:"VILLAHERMOSA"})db.UBICACION.insertOne({DANE:76036, Departamento:"VALLE DEL CAUCA", Municipio:"ANDALUCÍA"})db.UBICACION.insertOne({DANE:76111, Departamento:"VALLE DEL CAUCA", Municipio:"BUGA"})db.UBICACION.insertOne({DANE:76113, Departamento:"VALLE DEL CAUCA", Municipio:"BUGALAGRANDE"})db.UBICACION.insertOne({DANE:76126, Departamento:"VALLE DEL CAUCA", Municipio:"CALIMA"})db.UBICACION.insertOne({DANE:76248, Departamento:"VALLE DEL CAUCA", Municipio:"EL CERRITO"})db.UBICACION.insertOne({DANE:76306, Departamento:"VALLE DEL CAUCA", Municipio:"GINEBRA"})db.UBICACION.insertOne({DANE:76318, Departamento:"VALLE DEL CAUCA", Municipio:"GUACARÍ"})db.UBICACION.insertOne({DANE:76606, Departamento:"VALLE DEL CAUCA", Municipio:"RESTREPO"})db.UBICACION.insertOne({DANE:76616, Departamento:"VALLE DEL CAUCA", Municipio:"RIOFRIO"})db.UBICACION.insertOne({DANE:76670, Departamento:"VALLE DEL CAUCA", Municipio:"SAN PEDRO"})db.UBICACION.insertOne({DANE:76828, Departamento:"VALLE DEL CAUCA", Municipio:"TRUJILLO"})db.UBICACION.insertOne({DANE:76834, Departamento:"VALLE DEL CAUCA", Municipio:"TULUÁ"})db.UBICACION.insertOne({DANE:76890, Departamento:"VALLE DEL CAUCA", Municipio:"YOTOCO"})db.UBICACION.insertOne({DANE:76020, Departamento:"VALLE DEL CAUCA", Municipio:"ALCALa"})db.UBICACION.insertOne({DANE:76041, Departamento:"VALLE DEL CAUCA", Municipio:"ANSERMANUEVO"})db.UBICACION.insertOne({DANE:76054, Departamento:"VALLE DEL CAUCA", Municipio:"ARGELIA"})db.UBICACION.insertOne({DANE:76100, Departamento:"VALLE DEL CAUCA", Municipio:"BOLÍVAR"})db.UBICACION.insertOne({DANE:76147, Departamento:"VALLE DEL CAUCA", Municipio:"CARTAGO"})db.UBICACION.insertOne({DANE:76243, Departamento:"VALLE DEL CAUCA", Municipio:"EL ÁGUILA"})db.UBICACION.insertOne({DANE:76246, Departamento:"VALLE DEL CAUCA", Municipio:"EL CAIRO"})db.UBICACION.insertOne({DANE:76250, Departamento:"VALLE DEL CAUCA", Municipio:"EL DOVIO"})db.UBICACION.insertOne({DANE:76400, Departamento:"VALLE DEL CAUCA", Municipio:"LA UNIÓN"})db.UBICACION.insertOne({DANE:76403, Departamento:"VALLE DEL CAUCA", Municipio:"LA VICTORIA"})db.UBICACION.insertOne({DANE:76497, Departamento:"VALLE DEL CAUCA", Municipio:"OBANDO"})db.UBICACION.insertOne({DANE:76622, Departamento:"VALLE DEL CAUCA", Municipio:"ROLDANILLO"})db.UBICACION.insertOne({DANE:76823, Departamento:"VALLE DEL CAUCA", Municipio:"TORO"})db.UBICACION.insertOne({DANE:76845, Departamento:"VALLE DEL CAUCA", Municipio:"ULLOA"})db.UBICACION.insertOne({DANE:76863, Departamento:"VALLE DEL CAUCA", Municipio:"VERSALLES"})db.UBICACION.insertOne({DANE:76895, Departamento:"VALLE DEL CAUCA", Municipio:"ZARZAL"})db.UBICACION.insertOne({DANE:76109, Departamento:"VALLE DEL CAUCA", Municipio:"BUENAVENTURA"})db.UBICACION.insertOne({DANE:76122, Departamento:"VALLE DEL CAUCA", Municipio:"CAICEDONIA"})db.UBICACION.insertOne({DANE:76736, Departamento:"VALLE DEL CAUCA", Municipio:"SEVILLA"})db.UBICACION.insertOne({DANE:76001, Departamento:"VALLE DEL CAUCA", Municipio:"CALI"})db.UBICACION.insertOne({DANE:76130, Departamento:"VALLE DEL CAUCA", Municipio:"CANDELARIA"})db.UBICACION.insertOne({DANE:76233, Departamento:"VALLE DEL CAUCA", Municipio:"DAGUA"})db.UBICACION.insertOne({DANE:76275, Departamento:"VALLE DEL CAUCA", Municipio:"FLORIDA"})db.UBICACION.insertOne({DANE:76364, Departamento:"VALLE DEL CAUCA", Municipio:"JAMUNDÍ"})db.UBICACION.insertOne({DANE:76377, Departamento:"VALLE DEL CAUCA", Municipio:"LA CUMBRE"})db.UBICACION.insertOne({DANE:76520, Departamento:"VALLE DEL CAUCA", Municipio:"PALMIRA"})db.UBICACION.insertOne({DANE:76563, Departamento:"VALLE DEL CAUCA", Municipio:"PRADERA"})db.UBICACION.insertOne({DANE:76869, Departamento:"VALLE DEL CAUCA", Municipio:"VIJES"})db.UBICACION.insertOne({DANE:76892, Departamento:"VALLE DEL CAUCA", Municipio:"YUMBO"})db.UBICACION.insertOne({DANE:97161, Departamento:"VAUPES", Municipio:"CARURU"})db.UBICACION.insertOne({DANE:97001, Departamento:"VAUPES", Municipio:"MITÚ"})db.UBICACION.insertOne({DANE:97511, Departamento:"VAUPES", Municipio:"PACOA"})db.UBICACION.insertOne({DANE:97777, Departamento:"VAUPES", Municipio:"PAPUNAHUA"})db.UBICACION.insertOne({DANE:97666, Departamento:"VAUPES", Municipio:"TARAIRA"})db.UBICACION.insertOne({DANE:97889, Departamento:"VAUPES", Municipio:"YAVARATÉ"})db.UBICACION.insertOne({DANE:99773, Departamento:"VICHADA", Municipio:"CUMARIBO"})db.UBICACION.insertOne({DANE:99524, Departamento:"VICHADA", Municipio:"LA PRIMAVERA"})db.UBICACION.insertOne({DANE:99001, Departamento:"VICHADA", Municipio:"PUERTO CARREÑO"})db.UBICACION.insertOne({DANE:99624, Departamento:"VICHADA", Municipio:"SANTA ROSALÍA"})
+DANE,Departamento,Municipio
+91263,"AMAZONAS","EL ENCANTO"
+91405,"AMAZONAS","LA CHORRERA"
+91407,"AMAZONAS","LA PEDRERA"
+91430,"AMAZONAS","LA VICTORIA"
+91001,"AMAZONAS","LETICIA"
+91460,"AMAZONAS","MIRITI - PARANÁ"
+91530,"AMAZONAS","PUERTO ALEGRIA"
+91536,"AMAZONAS","PUERTO ARICA"
+91540,"AMAZONAS","PUERTO NARIÑO"
+91669,"AMAZONAS","PUERTO SANTANDER"
+91798,"AMAZONAS","TARAPACÁ"
+05120,"ANTIOQUIA","CÁCERES"
+05154,"ANTIOQUIA","CAUCASIA"
+05250,"ANTIOQUIA","EL BAGRE"
+05495,"ANTIOQUIA","NECHÍ"
+05790,"ANTIOQUIA","TARAZÁ"
+05895,"ANTIOQUIA","ZARAGOZA"
+05142,"ANTIOQUIA","CARACOLÍ"
+05425,"ANTIOQUIA","MACEO"
+05579,"ANTIOQUIA","PUERTO BERRiO"
+05585,"ANTIOQUIA","PUERTO NARE"
+05591,"ANTIOQUIA","PUERTO TRIUNFO"
+05893,"ANTIOQUIA","YONDÓ"
+05031,"ANTIOQUIA","AMALFI"
+05040,"ANTIOQUIA","ANORÍ"
+05190,"ANTIOQUIA","CISNEROS"
+05604,"ANTIOQUIA","REMEDIOS"
+05670,"ANTIOQUIA","SAN ROQUE"
+05690,"ANTIOQUIA","SANTO DOMINGO"
+05736,"ANTIOQUIA","SEGOVIA"
+05858,"ANTIOQUIA","VEGACHÍ"
+05885,"ANTIOQUIA","YALÍ"
+05890,"ANTIOQUIA","YOLOMBÓ"
+05038,"ANTIOQUIA","ANGOSTURA"
+05086,"ANTIOQUIA","BELMIRA"
+05107,"ANTIOQUIA","BRICEÑO"
+05134,"ANTIOQUIA","CAMPAMENTO"
+05150,"ANTIOQUIA","CAROLINA"
+05237,"ANTIOQUIA","DON MATiAS"
+05264,"ANTIOQUIA","ENTRERRIOS"
+05310,"ANTIOQUIA","GÓMEZ PLATA"
+05315,"ANTIOQUIA","GUADALUPE"
+05361,"ANTIOQUIA","ITUANGO"
+05647,"ANTIOQUIA","SAN ANDRÉS"
+05658,"ANTIOQUIA","SAN JOSÉ DE LA MONTAÑA"
+05664,"ANTIOQUIA","SAN PEDRO"
+05686,"ANTIOQUIA","SANTA ROSA de osos"
+05819,"ANTIOQUIA","TOLEDO"
+05854,"ANTIOQUIA","VALDIVIA"
+05887,"ANTIOQUIA","YARUMAL"
+05004,"ANTIOQUIA","ABRIAQUÍ"
+05044,"ANTIOQUIA","ANZA"
+05059,"ANTIOQUIA","ARMENIA"
+05113,"ANTIOQUIA","BURITICÁ"
+05138,"ANTIOQUIA","CAÑASGORDAS"
+05234,"ANTIOQUIA","DABEIBA"
+05240,"ANTIOQUIA","EBÉJICO"
+05284,"ANTIOQUIA","FRONTINO"
+05306,"ANTIOQUIA","GIRALDO"
+05347,"ANTIOQUIA","HELICONIA"
+05411,"ANTIOQUIA","LIBORINA"
+05501,"ANTIOQUIA","OLAYA"
+05543,"ANTIOQUIA","PEQUE"
+05628,"ANTIOQUIA","SABANALARGA"
+05656,"ANTIOQUIA","SAN JERÓNIMO"
+05042,"ANTIOQUIA","SANTAFÉ DE ANTIOQUIA"
+05761,"ANTIOQUIA","SOPETRaN"
+05842,"ANTIOQUIA","URAMITA"
+05002,"ANTIOQUIA","ABEJORRAL"
+05021,"ANTIOQUIA","ALEJANDRÍA"
+05055,"ANTIOQUIA","ARGELIA"
+05148,"ANTIOQUIA","CARMEN DE VIBORAL"
+05197,"ANTIOQUIA","COCORNÁ"
+05206,"ANTIOQUIA","CONCEPCIÓN"
+05313,"ANTIOQUIA","GRANADA"
+05318,"ANTIOQUIA","GUARNE"
+05321,"ANTIOQUIA","GUATAPE"
+05376,"ANTIOQUIA","LA CEJA"
+05400,"ANTIOQUIA","LA UNIÓN"
+05440,"ANTIOQUIA","MARINILLA"
+05483,"ANTIOQUIA","NARIÑO"
+05541,"ANTIOQUIA","PEÑOL"
+05607,"ANTIOQUIA","RETIRO"
+05615,"ANTIOQUIA","RIONEGRO"
+05649,"ANTIOQUIA","SAN CARLOS"
+05652,"ANTIOQUIA","SAN FRANCISCO"
+05660,"ANTIOQUIA","SAN LUIS"
+05667,"ANTIOQUIA","SAN RAFAEL"
+05674,"ANTIOQUIA","SAN VICENTE"
+05697,"ANTIOQUIA","SANTUARIO"
+05756,"ANTIOQUIA","SONSON"
+05030,"ANTIOQUIA","AMAGa"
+05034,"ANTIOQUIA","ANDES"
+05036,"ANTIOQUIA","ANGELOPOLIS"
+05091,"ANTIOQUIA","BETANIA"
+05093,"ANTIOQUIA","BETULIA"
+05125,"ANTIOQUIA","CAICEDO"
+05145,"ANTIOQUIA","CARAMANTA"
+05101,"ANTIOQUIA","CIUDAD BOLÍVAR"
+05209,"ANTIOQUIA","CONCORDIA"
+05282,"ANTIOQUIA","FREDONIA"
+05353,"ANTIOQUIA","HISPANIA"
+05364,"ANTIOQUIA","JARDÍN"
+05368,"ANTIOQUIA","JERICÓ"
+05390,"ANTIOQUIA","LA PINTADA"
+05467,"ANTIOQUIA","MONTEBELLO"
+05576,"ANTIOQUIA","PUEBLORRICO"
+05642,"ANTIOQUIA","SALGAR"
+05679,"ANTIOQUIA","SANTA BaRBARA"
+05789,"ANTIOQUIA","TÁMESIS"
+05792,"ANTIOQUIA","TARSO"
+05809,"ANTIOQUIA","TITIRIBÍ"
+05847,"ANTIOQUIA","URRAO"
+05856,"ANTIOQUIA","VALPARAISO"
+05861,"ANTIOQUIA","VENECIA"
+05045,"ANTIOQUIA","APARTADÓ"
+05051,"ANTIOQUIA","ARBOLETES"
+05147,"ANTIOQUIA","CAREPA"
+05172,"ANTIOQUIA","CHIGORODÓ"
+05475,"ANTIOQUIA","MURINDÓ"
+05480,"ANTIOQUIA","MUTATA"
+05490,"ANTIOQUIA","NECOCLÍ"
+05659,"ANTIOQUIA","SAN JUAN DE URABA"
+05665,"ANTIOQUIA","SAN PEDRO DE URABA"
+05837,"ANTIOQUIA","TURBO"
+05873,"ANTIOQUIA","VIGÍA DEL FUERTE"
+05079,"ANTIOQUIA","BARBOSA"
+05088,"ANTIOQUIA","BELLO"
+05129,"ANTIOQUIA","CALDAS"
+05212,"ANTIOQUIA","COPACABANA"
+05266,"ANTIOQUIA","ENVIGADO"
+05308,"ANTIOQUIA","GIRARDOTA"
+05360,"ANTIOQUIA","ITAGUI"
+05380,"ANTIOQUIA","LA ESTRELLA"
+05001,"ANTIOQUIA","MEDELLÍN"
+05631,"ANTIOQUIA","SABANETA"
+81001,"ARAUCA","ARAUCA"
+81065,"ARAUCA","ARAUQUITA"
+81220,"ARAUCA","CRAVO NORTE"
+81300,"ARAUCA","FORTUL"
+81591,"ARAUCA","PUERTO RONDÓN"
+81736,"ARAUCA","SARAVENA"
+81794,"ARAUCA","TAME"
+88564,"ARCHIPIELAGO DE SAN ANDRES","PROVIDENCIA Y SANTA CATALINA"
+88001,"ARCHIPIELAGO DE SAN ANDRES","SAN ANDReS"
+08001,"ATLÁNTICO","BARRANQUILLA"
+08296,"ATLÁNTICO","GALAPA"
+08433,"ATLÁNTICO","MALAMBO"
+08573,"ATLÁNTICO","PUERTO COLOMBIA"
+08758,"ATLÁNTICO","SOLEDAD"
+08137,"ATLÁNTICO","CAMPO DE LA CRUZ"
+08141,"ATLÁNTICO","CANDELARIA"
+08421,"ATLÁNTICO","LURUACO"
+08436,"ATLÁNTICO","MANATi"
+08606,"ATLÁNTICO","REPELON"
+08675,"ATLÁNTICO","SANTA LUCiA"
+08770,"ATLÁNTICO","SUAN"
+08078,"ATLÁNTICO","BARANOA"
+08520,"ATLÁNTICO","PALMAR DE VARELA"
+08558,"ATLÁNTICO","POLONUEVO"
+08560,"ATLÁNTICO","PONEDERA"
+08634,"ATLÁNTICO","Sabanagrande"
+08638,"ATLÁNTICO","SABANALARGA"
+08685,"ATLÁNTICO","Santo Tomas"
+08372,"ATLÁNTICO","JUAN DE ACOSTA"
+08549,"ATLÁNTICO","PIOJÓ"
+08832,"ATLÁNTICO","TUBARA"
+08849,"ATLÁNTICO","USIACURi"
+11001,"BOGOTÁ D.C.","BOGOTA D.C."
+13188,"BOLIVAR","CICUCO"
+13300,"BOLIVAR","HATILLO DE LOBA"
+13440,"BOLIVAR","MARGARITA"
+13468,"BOLIVAR","MOMPÓS"
+13650,"BOLIVAR","SAN FERNANDO"
+13780,"BOLIVAR","TALAIGUA NUEVO"
+13052,"BOLIVAR","ARJONA"
+13062,"BOLIVAR","ARROYOHONDO"
+13140,"BOLIVAR","CALAMAR"
+13001,"BOLIVAR","CARTAGENA"
+13222,"BOLIVAR","CLEMENCIA"
+13433,"BOLIVAR","MAHATES"
+13620,"BOLIVAR","SAN CRISTOBAL"
+13647,"BOLIVAR","SAN ESTANISLAO"
+13673,"BOLIVAR","SANTA CATALINA"
+13683,"BOLIVAR","SANTA ROSA DE LIMA"
+13760,"BOLIVAR","SOPLAVIENTO"
+13836,"BOLIVAR","TURBACO"
+13838,"BOLIVAR","TURBANA"
+13873,"BOLIVAR","VILLANUEVA"
+13030,"BOLIVAR","ALTOS DEL ROSARIO"
+13074,"BOLIVAR","BARRANCO DE LOBA"
+13268,"BOLIVAR","EL PEÑON"
+13580,"BOLIVAR","REGIDOR"
+13600,"BOLIVAR","RÍO VIEJO"
+13667,"BOLIVAR","SAN MARTIN DE LOBA"
+13042,"BOLIVAR","ARENAL"
+13160,"BOLIVAR","CANTAGALLO"
+13473,"BOLIVAR","MORALES"
+13670,"BOLIVAR","SAN PABLO"
+13688,"BOLIVAR","SANTA ROSA DEL SUR"
+13744,"BOLIVAR","SIMITÍ"
+13006,"BOLIVAR","ACHÍ"
+13430,"BOLIVAR","MAGANGUÉ"
+13458,"BOLIVAR","MONTECRISTO"
+13549,"BOLIVAR","PINILLOS"
+13655,"BOLIVAR","SAN JACINTO DEL CAUCA"
+13810,"BOLIVAR","TIQUISIO"
+13244,"BOLIVAR","CARMEN DE BOLÍVAR"
+13212,"BOLIVAR","CÓRDOBA"
+13248,"BOLIVAR","EL GUAMO"
+13442,"BOLIVAR","MARÍA LA BAJA"
+13654,"BOLIVAR","SAN JACINTO"
+13657,"BOLIVAR","SAN JUAN NEPOMUCENO"
+13894,"BOLIVAR","ZAMBRANO"
+15232,"BOYACÁ","CHÍQUIZA"
+15187,"BOYACÁ","CHIVATÁ"
+15204,"BOYACÁ","CÓMBITA"
+15224,"BOYACÁ","CUCAITA"
+15476,"BOYACÁ","MOTAVITA"
+15500,"BOYACÁ","OICATÁ"
+15646,"BOYACÁ","SAMACÁ"
+15740,"BOYACÁ","SIACHOQUE"
+15762,"BOYACÁ","SORA"
+15764,"BOYACÁ","SORACÁ"
+15763,"BOYACÁ","SOTAQUIRÁ"
+15814,"BOYACÁ","TOCA"
+15001,"BOYACÁ","TUNJA"
+15837,"BOYACÁ","TUTA"
+15861,"BOYACÁ","VENTAQUEMADA"
+15180,"BOYACÁ","CHISCAS"
+15223,"BOYACÁ","CUBARÁ"
+15244,"BOYACÁ","EL COCUY"
+15248,"BOYACÁ","EL ESPINO"
+15317,"BOYACÁ","GUACAMAYAS"
+15332,"BOYACÁ","GÜICÁN"
+15522,"BOYACÁ","PANQUEBA"
+15377,"BOYACÁ","LABRANZAGRANDE"
+15518,"BOYACÁ","PAJARITO"
+15533,"BOYACÁ","PAYA"
+15550,"BOYACÁ","PISBA"
+15090,"BOYACÁ","BERBEO"
+15135,"BOYACÁ","CAMPOHERMOSO"
+15455,"BOYACÁ","MIRAFLORES"
+15514,"BOYACÁ","PÁEZ"
+15660,"BOYACÁ","SAN EDUARDO"
+15897,"BOYACÁ","ZETAQUIRA"
+15104,"BOYACÁ","BOYACÁ"
+15189,"BOYACÁ","CIÉNEGA"
+15367,"BOYACÁ","JENESANO"
+15494,"BOYACÁ","NUEVO COLÓN"
+15599,"BOYACÁ","RAMIRIQUÍ"
+15621,"BOYACÁ","RONDÓN"
+15804,"BOYACÁ","TIBANÁ"
+15835,"BOYACÁ","TURMEQUÉ"
+15842,"BOYACÁ","UMBITA"
+15879,"BOYACÁ","VIRACACHÁ"
+15172,"BOYACÁ","CHINAVITA"
+15299,"BOYACÁ","GARAGOA"
+15425,"BOYACÁ","MACANAL"
+15511,"BOYACÁ","PACHAVITA"
+15667,"BOYACÁ","SAN LUIS DE GACENO"
+15690,"BOYACÁ","SANTA MARÍA"
+15097,"BOYACÁ","BOAVITA"
+15218,"BOYACÁ","COVARACHÍA"
+15403,"BOYACÁ","LA UVITA"
+15673,"BOYACÁ","SAN MATEO"
+15720,"BOYACÁ","SATIVANORTE"
+15723,"BOYACÁ","SATIVASUR"
+15753,"BOYACÁ","SOATÁ"
+15774,"BOYACÁ","SUSACÓN"
+15810,"BOYACÁ","TIPACOQUE"
+15106,"BOYACÁ","BRICEÑO"
+15109,"BOYACÁ","BUENAVISTA"
+15131,"BOYACÁ","CALDAS"
+15176,"BOYACÁ","CHIQUINQUIRÁ"
+15212,"BOYACÁ","COPER"
+15401,"BOYACÁ","LA VICTORIA"
+15442,"BOYACÁ","MARIPÍ"
+15480,"BOYACÁ","MUZO"
+15507,"BOYACÁ","OTANCHE"
+15531,"BOYACÁ","PAUNA"
+15572,"BOYACÁ","PUERTO BOYACa"
+15580,"BOYACÁ","QUÍPAMA"
+15632,"BOYACÁ","SABOYÁ"
+15676,"BOYACÁ","SAN MIGUEL DE SEMA"
+15681,"BOYACÁ","SAN PABLO BORBUR"
+15832,"BOYACÁ","TUNUNGUÁ"
+15022,"BOYACÁ","ALMEIDA"
+15236,"BOYACÁ","CHIVOR"
+15322,"BOYACÁ","GUATEQUE"
+15325,"BOYACÁ","GUAYATÁ"
+15380,"BOYACÁ","LA CAPILLA"
+15761,"BOYACÁ","SOMONDOCO"
+15778,"BOYACÁ","SUTATENZA"
+15798,"BOYACÁ","TENZA"
+15051,"BOYACÁ","ARCABUCO"
+15185,"BOYACÁ","CHITARAQUE"
+15293,"BOYACÁ","GACHANTIVÁ"
+15469,"BOYACÁ","MONIQUIRÁ"
+15600,"BOYACÁ","RÁQUIRA"
+15638,"BOYACÁ","SÁCHICA"
+15664,"BOYACÁ","SAN JOSÉ DE PARE"
+15696,"BOYACÁ","SANTA SOFÍA"
+15686,"BOYACÁ","SANTANA"
+15776,"BOYACÁ","SUTAMARCHÁN"
+15808,"BOYACÁ","TINJACÁ"
+15816,"BOYACÁ","TOGÜÍ"
+15407,"BOYACÁ","VILLA DE LEYVA"
+15047,"BOYACÁ","AQUITANIA"
+15226,"BOYACÁ","CUÍTIVA"
+15272,"BOYACÁ","FIRAVITOBA"
+15296,"BOYACÁ","GAMEZA"
+15362,"BOYACÁ","IZA"
+15464,"BOYACÁ","MONGUA"
+15466,"BOYACÁ","MONGUÍ"
+15491,"BOYACÁ","NOBSA"
+15542,"BOYACÁ","PESCA"
+15759,"BOYACÁ","SOGAMOSO"
+15806,"BOYACÁ","TIBASOSA"
+15820,"BOYACÁ","TÓPAGA"
+15822,"BOYACÁ","TOTA"
+15087,"BOYACÁ","BELÉN"
+15114,"BOYACÁ","BUSBANZÁ"
+15162,"BOYACÁ","CERINZA"
+15215,"BOYACÁ","CORRALES"
+15238,"BOYACÁ","DUITAMA"
+15276,"BOYACÁ","FLORESTA"
+15516,"BOYACÁ","PAIPA"
+15693,"BOYACÁ","SAN ROSA VITERBO"
+15839,"BOYACÁ","TUTAZÁ"
+15092,"BOYACÁ","BETÉITIVA"
+15183,"BOYACÁ","CHITA"
+15368,"BOYACÁ","JERICÓ"
+15537,"BOYACÁ","PAZ DE RÍO"
+15757,"BOYACÁ","SOCHA"
+15755,"BOYACÁ","SOCOTÁ"
+15790,"BOYACÁ","TASCO"
+17272,"CALDAS","FILADELFIA"
+17388,"CALDAS","LA MERCED"
+17442,"CALDAS","MARMATO"
+17614,"CALDAS","RIOSUCIO"
+17777,"CALDAS","SUPÍA"
+17433,"CALDAS","MANZANARES"
+17444,"CALDAS","MARQUETALIA"
+17446,"CALDAS","MARULANDA"
+17541,"CALDAS","PENSILVANIA"
+17042,"CALDAS","ANSERMA"
+17088,"CALDAS","BELALCÁZAR"
+17616,"CALDAS","RISARALDA"
+17665,"CALDAS","SAN JOSÉ"
+17877,"CALDAS","VITERBO"
+17174,"CALDAS","CHINCHINa"
+17001,"CALDAS","MANIZALES"
+17486,"CALDAS","NEIRA"
+17524,"CALDAS","PALESTINA"
+17873,"CALDAS","VILLAMARiA"
+17013,"CALDAS","AGUADAS"
+17050,"CALDAS","ARANZAZU"
+17513,"CALDAS","PÁCORA"
+17653,"CALDAS","SALAMINA"
+17380,"CALDAS","LA DORADA"
+17495,"CALDAS","NORCASIA"
+17662,"CALDAS","SAMANÁ"
+17867,"CALDAS","VICTORIA"
+18029,"CAQUETA","ALBANIA"
+18094,"CAQUETA","BELÉN DE LOS ANDAQUIES"
+18150,"CAQUETA","CARTAGENA DEL CHAIRÁ"
+18205,"CAQUETA","CURRILLO"
+18247,"CAQUETA","EL DONCELLO"
+18256,"CAQUETA","EL PAUJIL"
+18001,"CAQUETA","FLORENCIA"
+18410,"CAQUETA","LA MONTAÑITA"
+18460,"CAQUETA","MILaN"
+18479,"CAQUETA","MORELIA"
+18592,"CAQUETA","PUERTO RICO"
+18610,"CAQUETA","SAN JOSE DEL FRAGUA"
+18753,"CAQUETA","SAN VICENTE DEL CAGUÁN"
+18756,"CAQUETA","SOLANO"
+18785,"CAQUETA","SOLITA"
+18860,"CAQUETA","VALPARAISO"
+85010,"CASANARE","AGUAZUL"
+85015,"CASANARE","CHAMEZA"
+85125,"CASANARE","HATO COROZAL"
+85136,"CASANARE","LA SALINA"
+85139,"CASANARE","MANÍ"
+85162,"CASANARE","MONTERREY"
+85225,"CASANARE","NUNCHÍA"
+85230,"CASANARE","OROCUÉ"
+85250,"CASANARE","PAZ DE ARIPORO"
+85263,"CASANARE","PORE"
+85279,"CASANARE","RECETOR"
+85300,"CASANARE","SABANALARGA"
+85315,"CASANARE","SÁCAMA"
+85325,"CASANARE","SAN LUIS DE PALENQUE"
+85400,"CASANARE","TÁMARA"
+85410,"CASANARE","TAURAMENA"
+85430,"CASANARE","TRINIDAD"
+85440,"CASANARE","VILLANUEVA"
+85001,"CASANARE","YOPAL"
+19130,"CAUCA","CAJIBÍO"
+19256,"CAUCA","EL TAMBO"
+19392,"CAUCA","LA SIERRA"
+19473,"CAUCA","MORALES"
+19548,"CAUCA","PIENDAMO"
+19001,"CAUCA","POPAYÁN"
+19622,"CAUCA","ROSAS"
+19760,"CAUCA","SOTARA"
+19807,"CAUCA","TIMBIO"
+19110,"CAUCA","BUENOS AIRES"
+19142,"CAUCA","CALOTO"
+19212,"CAUCA","CORINTO"
+19455,"CAUCA","MIRANDA"
+19513,"CAUCA","PADILLA"
+19573,"CAUCA","PUERTO TEJADA"
+19698,"CAUCA","SANTANDER DE QUILICHAO"
+19780,"CAUCA","SUAREZ"
+19845,"CAUCA","VILLA RICA"
+19318,"CAUCA","GUAPI"
+19418,"CAUCA","LOPEZ"
+19809,"CAUCA","TIMBIQUI"
+19137,"CAUCA","CALDONO"
+19355,"CAUCA","INZÁ"
+19364,"CAUCA","JAMBALO"
+19517,"CAUCA","PAEZ"
+19585,"CAUCA","PURACE"
+19743,"CAUCA","Silvia"
+19821,"CAUCA","TORIBIO"
+19824,"CAUCA","TOTORO"
+19022,"CAUCA","ALMAGUER"
+19050,"CAUCA","ARGELIA"
+19075,"CAUCA","BALBOA"
+19100,"CAUCA","BOLÍVAR"
+19290,"CAUCA","FLORENCIA"
+19397,"CAUCA","LA VEGA"
+19450,"CAUCA","MERCADERES"
+19532,"CAUCA","PATIA"
+19533,"CAUCA","PIAMONTE"
+19693,"CAUCA","SAN SEBASTIAN"
+19701,"CAUCA","SANTA ROSA"
+19785,"CAUCA","SUCRE"
+20045,"CESAR","BECERRIL"
+20175,"CESAR","CHIMICHAGUA"
+20178,"CESAR","CHIRIGUANA"
+20228,"CESAR","CURUMANÍ"
+20400,"CESAR","LA JAGUA DE IBIRICO"
+20517,"CESAR","PAILITAS"
+20787,"CESAR","TAMALAMEQUE"
+20032,"CESAR","ASTREA"
+20060,"CESAR","BOSCONIA"
+20238,"CESAR","EL COPEY"
+20250,"CESAR","EL PASO"
+20013,"CESAR","AGUSTÍN CODAZZI"
+20621,"CESAR","LA PAZ"
+20443,"CESAR","MANAURE"
+20570,"CESAR","PUEBLO BELLO"
+20750,"CESAR","SAN DIEGO"
+20001,"CESAR","VALLEDUPAR"
+20011,"CESAR","AGUACHICA"
+20295,"CESAR","GAMARRA"
+20310,"CESAR","GONZÁLEZ"
+20383,"CESAR","LA GLORIA"
+20550,"CESAR","PELAYA"
+20614,"CESAR","RÍO DE ORO"
+20710,"CESAR","SAN ALBERTO"
+20770,"CESAR","SAN MARTÍN"
+27050,"CHOCO","ATRATO"
+27073,"CHOCO","BAGADÓ"
+27099,"CHOCO","BOJAYA"
+27245,"CHOCO","EL CARMEN DE ATRATO"
+27413,"CHOCO","LLORÓ"
+27425,"CHOCO","MEDIO ATRATO"
+27001,"CHOCO","QUIBDÓ"
+27600,"CHOCO","RIO QUITO"
+27006,"CHOCO","ACANDÍ"
+27086,"CHOCO","BELÉN DE BAJIRA"
+27150,"CHOCO","CARMÉN DEL DARIÉN"
+27615,"CHOCO","RIOSUCIO"
+27800,"CHOCO","UNGUÍA"
+27075,"CHOCO","BAHÍA SOLANO"
+27372,"CHOCO","JURADÓ"
+27495,"CHOCO","NUQUÍ"
+27025,"CHOCO","ALTO BAUDÓ"
+27077,"CHOCO","BAJO BAUDÓ"
+27250,"CHOCO","El Litoral del San Juan"
+27430,"CHOCO","MEDIO BAUDÓ"
+27135,"CHOCO","CANTON DE SAN PABLO"
+27160,"CHOCO","CERTEGUI"
+27205,"CHOCO","CONDOTO"
+27361,"CHOCO","ITSMINA"
+27450,"CHOCO","MEDIO SAN JUAN"
+27491,"CHOCO","NÓVITA"
+27580,"CHOCO","RÍO FRÍO"
+27660,"CHOCO","SAN JOSÉ DEL PALMAR"
+27745,"CHOCO","SIPÍ"
+27787,"CHOCO","TADÓ"
+27810,"CHOCO","UNION PANAMERICANA"
+23807,"CORDOBA","TIERRALTA"
+23855,"CORDOBA","VALENCIA"
+23168,"CORDOBA","CHIMÁ"
+23300,"CORDOBA","COTORRA"
+23417,"CORDOBA","LORICA"
+23464,"CORDOBA","MOMIL"
+23586,"CORDOBA","PURÍSIMA"
+23001,"CORDOBA","MONTERÍA"
+23090,"CORDOBA","CANALETE"
+23419,"CORDOBA","LOS CÓRDOBAS"
+23500,"CORDOBA","MOÑITOS"
+23574,"CORDOBA","PUERTO ESCONDIDO"
+23672,"CORDOBA","SAN ANTERO"
+23675,"CORDOBA","SAN BERNARDO DEL VIENTO"
+23182,"CORDOBA","CHINÚ"
+23660,"CORDOBA","SAHAGÚN"
+23670,"CORDOBA","SAN ANDRÉS SOTAVENTO"
+23068,"CORDOBA","AYAPEL"
+23079,"CORDOBA","BUENAVISTA"
+23350,"CORDOBA","LA APARTADA"
+23466,"CORDOBA","MONTELÍBANO"
+23555,"CORDOBA","PLANETA RICA"
+23570,"CORDOBA","PUEBLO NUEVO"
+23580,"CORDOBA","PUERTO LIBERTADOR"
+23162,"CORDOBA","CERETÉ"
+23189,"CORDOBA","CIÉNAGA DE ORO"
+23678,"CORDOBA","SAN CARLOS"
+23686,"CORDOBA","SAN PELAYO"
+25183,"CUNDINAMARCA","CHOCONTÁ"
+25426,"CUNDINAMARCA","MACHETA"
+25436,"CUNDINAMARCA","MANTA"
+25736,"CUNDINAMARCA","SESQUILÉ"
+25772,"CUNDINAMARCA","SUESCA"
+25807,"CUNDINAMARCA","TIBIRITA"
+25873,"CUNDINAMARCA","VILLAPINZÓN"
+25001,"CUNDINAMARCA","AGUA DE DIOS"
+25307,"CUNDINAMARCA","GIRARDOT"
+25324,"CUNDINAMARCA","GUATAQUÍ"
+25368,"CUNDINAMARCA","JERUSALÉN"
+25483,"CUNDINAMARCA","NARIÑO"
+25488,"CUNDINAMARCA","NILO"
+25612,"CUNDINAMARCA","RICAURTE"
+25815,"CUNDINAMARCA","TOCAIMA"
+25148,"CUNDINAMARCA","CAPARRAPÍ"
+25320,"CUNDINAMARCA","GUADUAS"
+25572,"CUNDINAMARCA","PUERTO SALGAR"
+25019,"CUNDINAMARCA","ALBÁN"
+25398,"CUNDINAMARCA","LA PEÑA"
+25402,"CUNDINAMARCA","LA VEGA"
+25489,"CUNDINAMARCA","NIMAIMA"
+25491,"CUNDINAMARCA","NOCAIMA"
+25592,"CUNDINAMARCA","QUEBRADANE:GRA"
+25658,"CUNDINAMARCA","SAN FRANCISCO"
+25718,"CUNDINAMARCA","SASAIMA"
+25777,"CUNDINAMARCA","SUPATÁ"
+25851,"CUNDINAMARCA","ÚTICA"
+25862,"CUNDINAMARCA","VERGARA"
+25875,"CUNDINAMARCA","VILLETA"
+25293,"CUNDINAMARCA","GACHALA"
+25297,"CUNDINAMARCA","GACHETA"
+25299,"CUNDINAMARCA","GAMA"
+25322,"CUNDINAMARCA","GUASCA"
+25326,"CUNDINAMARCA","GUATAVITA"
+25372,"CUNDINAMARCA","JUNÍN"
+25377,"CUNDINAMARCA","LA CALERA"
+25839,"CUNDINAMARCA","UBALÁ"
+25086,"CUNDINAMARCA","BELTRÁN"
+25095,"CUNDINAMARCA","BITUIMA"
+25168,"CUNDINAMARCA","CHAGUANÍ"
+25328,"CUNDINAMARCA","GUAYABAL DE SIQUIMA"
+25580,"CUNDINAMARCA","PULI"
+25662,"CUNDINAMARCA","SAN JUAN DE RÍO SECO"
+25867,"CUNDINAMARCA","VIANÍ"
+25438,"CUNDINAMARCA","MEDINA"
+25530,"CUNDINAMARCA","PARATEBUENO"
+25151,"CUNDINAMARCA","CAQUEZA"
+25178,"CUNDINAMARCA","CHIPAQUE"
+25181,"CUNDINAMARCA","CHOACHÍ"
+25279,"CUNDINAMARCA","FOMEQUE"
+25281,"CUNDINAMARCA","FOSCA"
+25335,"CUNDINAMARCA","GUAYABETAL"
+25339,"CUNDINAMARCA","GUTIÉRREZ"
+25594,"CUNDINAMARCA","QUETAME"
+25841,"CUNDINAMARCA","UBAQUE"
+25845,"CUNDINAMARCA","UNE"
+25258,"CUNDINAMARCA","EL PEÑÓN"
+25394,"CUNDINAMARCA","LA PALMA"
+25513,"CUNDINAMARCA","PACHO"
+25518,"CUNDINAMARCA","PAIME"
+25653,"CUNDINAMARCA","SAN CAYETANO"
+25823,"CUNDINAMARCA","TOPAIPI"
+25871,"CUNDINAMARCA","VILLAGOMEZ"
+25885,"CUNDINAMARCA","YACOPÍ"
+25126,"CUNDINAMARCA","CAJICÁ"
+25175,"CUNDINAMARCA","CHÍA"
+25200,"CUNDINAMARCA","COGUA"
+25295,"CUNDINAMARCA","GACHANCIPÁ"
+25486,"CUNDINAMARCA","NEMOCoN"
+25758,"CUNDINAMARCA","SOPÓ"
+25785,"CUNDINAMARCA","TABIO"
+25817,"CUNDINAMARCA","TOCANCIPÁ"
+25899,"CUNDINAMARCA","ZIPAQUIRÁ"
+25099,"CUNDINAMARCA","BOJACÁ"
+25214,"CUNDINAMARCA","COTA"
+25260,"CUNDINAMARCA","EL ROSAL"
+25269,"CUNDINAMARCA","FACATATIVÁ"
+25286,"CUNDINAMARCA","FUNZA"
+25430,"CUNDINAMARCA","MADRID"
+25473,"CUNDINAMARCA","MOSQUERA"
+25769,"CUNDINAMARCA","SUBACHOQUE"
+25799,"CUNDINAMARCA","TENJO"
+25898,"CUNDINAMARCA","ZIPACoN"
+25740,"CUNDINAMARCA","SIBATÉ"
+25754,"CUNDINAMARCA","SOACHA"
+25053,"CUNDINAMARCA","ARBELÁEZ"
+25120,"CUNDINAMARCA","CABRERA"
+25290,"CUNDINAMARCA","FUSAGASUGÁ"
+25312,"CUNDINAMARCA","GRANADA"
+25524,"CUNDINAMARCA","PANDI"
+25535,"CUNDINAMARCA","PASCA"
+25649,"CUNDINAMARCA","SAN BERNARDO"
+25743,"CUNDINAMARCA","SILVANIA"
+25805,"CUNDINAMARCA","TIBACUY"
+25506,"CUNDINAMARCA","VENECIA"
+25035,"CUNDINAMARCA","ANAPOIMA"
+25040,"CUNDINAMARCA","ANOLAIMA"
+25599,"CUNDINAMARCA","APULO"
+25123,"CUNDINAMARCA","CACHIPAY"
+25245,"CUNDINAMARCA","EL COLEGIO"
+25386,"CUNDINAMARCA","LA MESA"
+25596,"CUNDINAMARCA","QUIPILE"
+25645,"CUNDINAMARCA","SAN ANTONIO DE TEQUENDAMA"
+25797,"CUNDINAMARCA","TENA"
+25878,"CUNDINAMARCA","VIOTÁ"
+25154,"CUNDINAMARCA","CARMEN DE CARUPA"
+25224,"CUNDINAMARCA","CUCUNUBÁ"
+25288,"CUNDINAMARCA","FÚQUENE"
+25317,"CUNDINAMARCA","GUACHETÁ"
+25407,"CUNDINAMARCA","LENGUAZAQUE"
+25745,"CUNDINAMARCA","SIMIJACA"
+25779,"CUNDINAMARCA","SUSA"
+25781,"CUNDINAMARCA","SUTATAUSA"
+25793,"CUNDINAMARCA","TAUSA"
+25843,"CUNDINAMARCA","UBATE"
+94343,"GUAINIA","BARRANCO MINA"
+94886,"GUAINIA","CACAHUAL"
+94001,"GUAINIA","INÍRIDA"
+94885,"GUAINIA","LA GUADALUPE"
+94663,"GUAINIA","MAPIRIPaN"
+94888,"GUAINIA","MORICHAL"
+94887,"GUAINIA","PANA PANA"
+94884,"GUAINIA","PUERTO COLOMBIA"
+94883,"GUAINIA","SAN FELIPE"
+95015,"GUAVIARE","CALAMAR"
+95025,"GUAVIARE","EL RETORNO"
+95200,"GUAVIARE","MIRAFLORES"
+95001,"GUAVIARE","SAN JOSÉ DEL GUAVIARE"
+41013,"HUILA","AGRADO"
+41026,"HUILA","ALTAMIRA"
+41298,"HUILA","GARZÓN"
+41306,"HUILA","GIGANTE"
+41319,"HUILA","GUADALUPE"
+41548,"HUILA","PITAL"
+41770,"HUILA","SUAZA"
+41791,"HUILA","TARQUI"
+41016,"HUILA","AIPE"
+41020,"HUILA","ALGECIRAS"
+41078,"HUILA","BARAYA"
+41132,"HUILA","CAMPOALEGRE"
+41206,"HUILA","COLOMBIA"
+41349,"HUILA","HOBO"
+41357,"HUILA","IQUIRA"
+41001,"HUILA","NEIVA"
+41524,"HUILA","PALERMO"
+41615,"HUILA","RIVERA"
+41676,"HUILA","SANTA MARÍA"
+41799,"HUILA","TELLO"
+41801,"HUILA","TERUEL"
+41872,"HUILA","VILLAVIEJA"
+41885,"HUILA","YAGUARÁ"
+41378,"HUILA","LA ARGENTINA"
+41396,"HUILA","LA PLATA"
+41483,"HUILA","NÁTAGA"
+41518,"HUILA","PAICOL"
+41797,"HUILA","TESALIA"
+41006,"HUILA","ACEVEDO"
+41244,"HUILA","ELÍAS"
+41359,"HUILA","ISNOS"
+41503,"HUILA","OPORAPA"
+41530,"HUILA","PALESTINA"
+41551,"HUILA","PITALITO"
+41660,"HUILA","SALADOBLANCO"
+41668,"HUILA","SAN AGUSTÍN"
+41807,"HUILA","TIMANÁ"
+44035,"LA GUAJIRA","ALBANIA"
+44090,"LA GUAJIRA","DIBULLA"
+44430,"LA GUAJIRA","MAICAO"
+44560,"LA GUAJIRA","MANAURE"
+44001,"LA GUAJIRA","RIOHACHA"
+44847,"LA GUAJIRA","URIBIA"
+44078,"LA GUAJIRA","BARRANCAS"
+44098,"LA GUAJIRA","DISTRACCION"
+44110,"LA GUAJIRA","EL MOLINO"
+44279,"LA GUAJIRA","FONSECA"
+44378,"LA GUAJIRA","HATONUEVO"
+44420,"LA GUAJIRA","LA JAGUA DEL PILAR"
+44650,"LA GUAJIRA","SAN JUAN DEL CESAR"
+44855,"LA GUAJIRA","URUMITA"
+44874,"LA GUAJIRA","VILLANUEVA"
+47058,"MAGDALENA","ARIGUANÍ"
+47170,"MAGDALENA","CHIBOLO"
+47460,"MAGDALENA","NUEVA GRANADA"
+47555,"MAGDALENA","PLATO"
+47660,"MAGDALENA","SABANAS DE SAN ANGEL"
+47798,"MAGDALENA","TENERIFE"
+47030,"MAGDALENA","ALGARROBO"
+47053,"MAGDALENA","ARACATACA"
+47189,"MAGDALENA","CIÉNAGA"
+47268,"MAGDALENA","EL RETEN"
+47288,"MAGDALENA","FUNDACION"
+47570,"MAGDALENA","PUEBLO VIEJO"
+47980,"MAGDALENA","ZONA BANANERA"
+47161,"MAGDALENA","CERRO SAN ANTONIO"
+47205,"MAGDALENA","CONCORDIA"
+47258,"MAGDALENA","EL PIÑON"
+47541,"MAGDALENA","PEDRAZA"
+47551,"MAGDALENA","PIVIJAY"
+47605,"MAGDALENA","REMOLINO"
+47675,"MAGDALENA","SALAMINA"
+47745,"MAGDALENA","SITIONUEVO"
+47960,"MAGDALENA","ZAPAYAN"
+47001,"MAGDALENA","SANTA MARTA"
+47245,"MAGDALENA","EL BANCO"
+47318,"MAGDALENA","GUAMAL"
+47545,"MAGDALENA","PIJIÑO DEL CARMEN"
+47692,"MAGDALENA","SAN SEBASTIAN DE BUENAVISTA"
+47703,"MAGDALENA","SAN ZENON"
+47707,"MAGDALENA","SANTA ANA"
+47720,"MAGDALENA","SANTA BARBARA DE PINTO"
+50251,"META","EL CASTILLO"
+50270,"META","EL DORADO"
+50287,"META","FUENTE DE ORO"
+50313,"META","GRANADA"
+50350,"META","LA MACARENA"
+50370,"META","LA URIBE"
+50400,"META","LEJANÍAS"
+50325,"META","MAPIRIPaN"
+50330,"META","MESETAS"
+50450,"META","PUERTO CONCORDIA"
+50577,"META","PUERTO LLERAS"
+50590,"META","PUERTO RICO"
+50683,"META","SAN JUAN DE ARAMA"
+50711,"META","VISTA HERMOSA"
+50001,"META","VILLAVICENCIO"
+50006,"META","ACACiAS"
+50110,"META","BARRANCA DE UPIA"
+50150,"META","CASTILLA LA NUEVA"
+50226,"META","CUMARAL"
+50245,"META","EL CALVARIO"
+50318,"META","GUAMAL"
+50606,"META","RESTREPO"
+50680,"META","SAN CARLOS GUAROA"
+50686,"META","SAN JUANITO"
+50223,"META","SAN LUIS DE CUBARRAL"
+50689,"META","SAN MARTÍN"
+50124,"META","CABUYARO"
+50568,"META","PUERTO GAITÁN"
+50573,"META","PUERTO LoPEZ"
+52240,"NARIÑO","CHACHAGUI"
+52207,"NARIÑO","CONSACA"
+52254,"NARIÑO","EL PEÑOL"
+52260,"NARIÑO","EL TAMBO"
+52381,"NARIÑO","LA FLORIDA"
+52480,"NARIÑO","NARIÑO"
+52001,"NARIÑO","PASTO"
+52683,"NARIÑO","SANDONÁ"
+52788,"NARIÑO","TANGUA"
+52885,"NARIÑO","YACUANQUER"
+52036,"NARIÑO","ANCUYA"
+52320,"NARIÑO","GUAITARILLA"
+52385,"NARIÑO","LA LLANADA"
+52411,"NARIÑO","LINARES"
+52418,"NARIÑO","LOS ANDES"
+52435,"NARIÑO","MALLAMA"
+52506,"NARIÑO","OSPINA"
+52565,"NARIÑO","PROVIDENCIA"
+52612,"NARIÑO","RICAURTE"
+52678,"NARIÑO","SAMANIEGO"
+52699,"NARIÑO","SANTA CRUZ"
+52720,"NARIÑO","SAPUYES"
+52838,"NARIÑO","TUQUERRES"
+52079,"NARIÑO","BARBACOAS"
+52250,"NARIÑO","EL CHARCO"
+52520,"NARIÑO","FRANCISCO PIZARRO"
+52390,"NARIÑO","LA TOLA"
+52427,"NARIÑO","Magui"
+52473,"NARIÑO","MOSQUERA"
+52490,"NARIÑO","OLAYA HERRERA"
+52621,"NARIÑO","ROBERTO PAYAN"
+52696,"NARIÑO","SANTA BaRBARA"
+52835,"NARIÑO","TUMACO"
+52019,"NARIÑO","ALBAN"
+52051,"NARIÑO","ARBOLEDA"
+52083,"NARIÑO","BELEN"
+52110,"NARIÑO","BUESACO"
+52203,"NARIÑO","COLON"
+52233,"NARIÑO","CUMBITARA"
+52256,"NARIÑO","EL ROSARIO"
+52258,"NARIÑO","El Tablon de Gomez"
+52378,"NARIÑO","LA CRUZ"
+52399,"NARIÑO","LA UNION"
+52405,"NARIÑO","LEIVA"
+52540,"NARIÑO","POLICARPA"
+52685,"NARIÑO","SAN BERNARDO"
+52687,"NARIÑO","SAN LORENZO"
+52693,"NARIÑO","SAN PABLO"
+52694,"NARIÑO","SAN PEDRO DE CARTAGO"
+52786,"NARIÑO","TAMINANGO"
+52022,"NARIÑO","ALDANA"
+52210,"NARIÑO","CONTADERO"
+52215,"NARIÑO","CÓRDOBA"
+52224,"NARIÑO","CUASPUD"
+52227,"NARIÑO","CUMBAL"
+52287,"NARIÑO","FUNES"
+52317,"NARIÑO","GUACHUCAL"
+52323,"NARIÑO","GUALMATAN"
+52352,"NARIÑO","ILES"
+52354,"NARIÑO","IMUES"
+52356,"NARIÑO","IPIALES"
+52560,"NARIÑO","POTOSÍ"
+52573,"NARIÑO","PUERRES"
+52585,"NARIÑO","PUPIALES"
+54051,"NORTE DE SANTANDER","ARBOLEDAS"
+54223,"NORTE DE SANTANDER","CUCUTILLA"
+54313,"NORTE DE SANTANDER","GRAMALOTE"
+54418,"NORTE DE SANTANDER","LOURDES"
+54660,"NORTE DE SANTANDER","SALAZAR"
+54680,"NORTE DE SANTANDER","SANTIAGO"
+54871,"NORTE DE SANTANDER","VILLA CARO"
+54109,"NORTE DE SANTANDER","BUCARASICA"
+54250,"NORTE DE SANTANDER","EL TARRA"
+54720,"NORTE DE SANTANDER","SARDINATA"
+54810,"NORTE DE SANTANDER","TIBÚ"
+54003,"NORTE DE SANTANDER","ABREGO"
+54128,"NORTE DE SANTANDER","CACHIRÁ"
+54206,"NORTE DE SANTANDER","CONVENCIÓN"
+54245,"NORTE DE SANTANDER","EL CARMEN"
+54344,"NORTE DE SANTANDER","HACARÍ"
+54385,"NORTE DE SANTANDER","LA ESPERANZA"
+54398,"NORTE DE SANTANDER","LA PLAYA"
+54498,"NORTE DE SANTANDER","OCAÑA"
+54670,"NORTE DE SANTANDER","SAN CALIXTO"
+54800,"NORTE DE SANTANDER","TEORAMA"
+54001,"NORTE DE SANTANDER","CÚCUTA"
+54261,"NORTE DE SANTANDER","EL ZULIA"
+54405,"NORTE DE SANTANDER","LOS PATIOS"
+54553,"NORTE DE SANTANDER","PUERTO SANTANDER"
+54673,"NORTE DE SANTANDER","SAN CAYETANO"
+54874,"NORTE DE SANTANDER","VILLA DEL ROSARIO"
+54125,"NORTE DE SANTANDER","CÁCOTA"
+54174,"NORTE DE SANTANDER","CHITAGÁ"
+54480,"NORTE DE SANTANDER","MUTISCUA"
+54518,"NORTE DE SANTANDER","PAMPLONA"
+54520,"NORTE DE SANTANDER","PAMPLONITA"
+54743,"NORTE DE SANTANDER","SILOS"
+54099,"NORTE DE SANTANDER","BOCHALEMA"
+54172,"NORTE DE SANTANDER","CHINÁCOTA"
+54239,"NORTE DE SANTANDER","DURANIA"
+54347,"NORTE DE SANTANDER","HERRÁN"
+54377,"NORTE DE SANTANDER","LABATECA"
+54599,"NORTE DE SANTANDER","RAGONVALIA"
+54820,"NORTE DE SANTANDER","TOLEDO"
+86219,"PUTUMAYO","COLÓN"
+86001,"PUTUMAYO","MOCOA"
+86320,"PUTUMAYO","ORITO"
+86568,"PUTUMAYO","PUERTO ASIS"
+86569,"PUTUMAYO","PUERTO CAICEDO"
+86571,"PUTUMAYO","PUERTO GUZMAN"
+86573,"PUTUMAYO","PUERTO LEGUIZAMO"
+86755,"PUTUMAYO","SAN FRANCISCO"
+86757,"PUTUMAYO","SAN MIGUEL"
+86760,"PUTUMAYO","SANTIAGO"
+86749,"PUTUMAYO","SIBUNDOY"
+86865,"PUTUMAYO","VALLE DEL GUAMUEZ"
+86885,"PUTUMAYO","VILLA GARZON"
+63001,"QUINDIO","ARMENIA"
+63111,"QUINDIO","BUENAVISTA"
+63130,"QUINDIO","CALARCA"
+63212,"QUINDIO","CoRDOBA"
+63302,"QUINDIO","GeNOVA"
+63548,"QUINDIO","PIJAO"
+63272,"QUINDIO","FILANDIA"
+63690,"QUINDIO","SALENTO"
+63190,"QUINDIO","CIRCASIA"
+63401,"QUINDIO","LA TEBAIDA"
+63470,"QUINDIO","Montengro"
+63594,"QUINDIO","QUIMBAYA"
+66170,"RISARALDA","DOSQUEBRADAS"
+66400,"RISARALDA","LA VIRGINIA"
+66440,"RISARALDA","MARSELLA"
+66001,"RISARALDA","PEREIRA"
+66682,"RISARALDA","SANTA ROSA DE CABAL"
+66045,"RISARALDA","APÍA"
+66075,"RISARALDA","BALBOA"
+66088,"RISARALDA","BELÉN DE UMBRÍA"
+66318,"RISARALDA","GUÁTICA"
+66383,"RISARALDA","LA CELIA"
+66594,"RISARALDA","QUINCHiA"
+66687,"RISARALDA","SANTUARIO"
+66456,"RISARALDA","MISTRATÓ"
+66572,"RISARALDA","PUEBLO RICO"
+68176,"SANTANDER","CHIMA"
+68209,"SANTANDER","CONFINES"
+68211,"SANTANDER","CONTRATACIÓN"
+68245,"SANTANDER","EL GUACAMAYO"
+68296,"SANTANDER","GALÁN"
+68298,"SANTANDER","GAMBITA"
+68320,"SANTANDER","GUADALUPE"
+68322,"SANTANDER","GUAPOTÁ"
+68344,"SANTANDER","HATO"
+68500,"SANTANDER","OIBA"
+68522,"SANTANDER","PALMAR"
+68524,"SANTANDER","PALMAS DEL SOCORRO"
+68720,"SANTANDER","SANTA HELENA DEL OPÓN"
+68745,"SANTANDER","SIMACOTA"
+68755,"SANTANDER","SOCORRO"
+68770,"SANTANDER","SUAITA"
+68147,"SANTANDER","CAPITANEJO"
+68152,"SANTANDER","CARCASÍ"
+68160,"SANTANDER","CEPITÁ"
+68162,"SANTANDER","CERRITO"
+68207,"SANTANDER","CONCEPCIÓN"
+68266,"SANTANDER","ENCISO"
+68318,"SANTANDER","GUACA"
+68425,"SANTANDER","MACARAVITA"
+68432,"SANTANDER","MÁLAGA"
+68468,"SANTANDER","MOLAGAVITA"
+68669,"SANTANDER","SAN ANDRÉS"
+68684,"SANTANDER","SAN JOSÉ DE MIRANDA"
+68686,"SANTANDER","SAN MIGUEL"
+68051,"SANTANDER","ARATOCA"
+68079,"SANTANDER","BARICHARA"
+68121,"SANTANDER","CABRERA"
+68167,"SANTANDER","CHARALÁ"
+68217,"SANTANDER","COROMORO"
+68229,"SANTANDER","CURITÍ"
+68264,"SANTANDER","ENCINO"
+68370,"SANTANDER","JORDÁN"
+68464,"SANTANDER","MOGOTES"
+68498,"SANTANDER","OCAMONTE"
+68502,"SANTANDER","ONZAGA"
+68533,"SANTANDER","PÁRAMO"
+68549,"SANTANDER","PINCHOTE"
+68679,"SANTANDER","SAN GIL"
+68682,"SANTANDER","SAN JOAQUÍN"
+68855,"SANTANDER","VALLE DE SAN JOSÉ"
+68872,"SANTANDER","VILLANUEVA"
+68081,"SANTANDER","BARRANCABERMEJA"
+68092,"SANTANDER","BETULIA"
+68235,"SANTANDER","EL CARMEN DE CHUCURÍ"
+68575,"SANTANDER","PUERTO WILCHES"
+68655,"SANTANDER","SABANA DE TORRES"
+68689,"SANTANDER","SAN VICENTE DE CHUCURÍ"
+68895,"SANTANDER","ZAPATOCA"
+68001,"SANTANDER","BUCARAMANGA"
+68132,"SANTANDER","CALIFORNIA"
+68169,"SANTANDER","CHARTA"
+68255,"SANTANDER","EL PLAYÓN"
+68276,"SANTANDER","FLORIDABLANCA"
+68307,"SANTANDER","GIRÓN"
+68406,"SANTANDER","LEBRÍJA"
+68418,"SANTANDER","LOS SANTOS"
+68444,"SANTANDER","MATANZA"
+68547,"SANTANDER","PIEDECUESTA"
+68615,"SANTANDER","RIONEGRO"
+68705,"SANTANDER","SANTA BÁRBARA"
+68780,"SANTANDER","SURATA"
+68820,"SANTANDER","TONA"
+68867,"SANTANDER","VETAS"
+68013,"SANTANDER","AGUADA"
+68020,"SANTANDER","ALBANIA"
+68077,"SANTANDER","BARBOSA"
+68101,"SANTANDER","BOLÍVAR"
+68179,"SANTANDER","CHIPATÁ"
+68190,"SANTANDER","CIMITARRA"
+68250,"SANTANDER","EL PEÑÓN"
+68271,"SANTANDER","FLORIÁN"
+68324,"SANTANDER","GUAVATÁ"
+68327,"SANTANDER","GuEPSA"
+68368,"SANTANDER","JESÚS MARÍA"
+68377,"SANTANDER","LA BELLEZA"
+68397,"SANTANDER","LA PAZ"
+68385,"SANTANDER","LANDÁZURI"
+68572,"SANTANDER","PUENTE NACIONAL"
+68573,"SANTANDER","PUERTO PARRA"
+68673,"SANTANDER","SAN BENITO"
+68773,"SANTANDER","SUCRE"
+68861,"SANTANDER","VÉLEZ"
+70265,"SUCRE","GUARANDA"
+70429,"SUCRE","MAJAGUAL"
+70771,"SUCRE","SUCRE"
+70230,"SUCRE","CHALÁN"
+70204,"SUCRE","COLOSO"
+70473,"SUCRE","MORROA"
+70508,"SUCRE","OVEJAS"
+70001,"SUCRE","SINCELEJO"
+70221,"SUCRE","COVEÑAS"
+70523,"SUCRE","PALMITO"
+70713,"SUCRE","SAN ONOFRE"
+70820,"SUCRE","SANTIAGO DE TOLÚ"
+70823,"SUCRE","TOLÚ VIEJO"
+70110,"SUCRE","BUENAVISTA"
+70215,"SUCRE","COROZAL"
+70233,"SUCRE","EL ROBLE"
+70235,"SUCRE","GALERAS"
+70418,"SUCRE","LOS PALMITOS"
+70670,"SUCRE","SAMPUÉS"
+70702,"SUCRE","SAN JUAN BETULIA"
+70717,"SUCRE","SAN PEDRO"
+70742,"SUCRE","SINCÉ"
+70124,"SUCRE","CAIMITO"
+70400,"SUCRE","LA UNIÓN"
+70678,"SUCRE","SAN BENITO ABAD"
+70708,"SUCRE","SAN MARCOS"
+73030,"TOLIMA","AMBALEMA"
+73055,"TOLIMA","ARMERO"
+73270,"TOLIMA","FALAN"
+73283,"TOLIMA","FRESNO"
+73349,"TOLIMA","HONDA"
+73443,"TOLIMA","MARIQUITA"
+73520,"TOLIMA","PALOCABILDO"
+73148,"TOLIMA","CARMEN DE APICALÁ"
+73226,"TOLIMA","CUNDAY"
+73352,"TOLIMA","ICONONZO"
+73449,"TOLIMA","MELGAR"
+73873,"TOLIMA","VILLARRICA"
+73067,"TOLIMA","ATACO"
+73168,"TOLIMA","CHAPARRAL"
+73217,"TOLIMA","COYAIMA"
+73483,"TOLIMA","NATAGAIMA"
+73504,"TOLIMA","ORTEGA"
+73555,"TOLIMA","PLANADAS"
+73616,"TOLIMA","RIOBLANCO"
+73622,"TOLIMA","RONCESVALLES"
+73675,"TOLIMA","SAN ANTONIO"
+73026,"TOLIMA","ALVARADO"
+73043,"TOLIMA","ANZOÁTEGUI"
+73124,"TOLIMA","CAJAMARCA"
+73200,"TOLIMA","COELLO"
+73268,"TOLIMA","ESPINAL"
+73275,"TOLIMA","FLANDES"
+73001,"TOLIMA","IBAGUe"
+73547,"TOLIMA","PIEDRAS"
+73624,"TOLIMA","ROVIRA"
+73678,"TOLIMA","SAN LUIS"
+73854,"TOLIMA","VALLE DE SAN JUAN"
+73024,"TOLIMA","ALPUJARRA"
+73236,"TOLIMA","DOLORES"
+73319,"TOLIMA","GUAMO"
+73563,"TOLIMA","PRADO"
+73585,"TOLIMA","PURIFICACIÓN"
+73671,"TOLIMA","SALDAÑA"
+73770,"TOLIMA","SUÁREZ"
+73152,"TOLIMA","CASABIANCA"
+73347,"TOLIMA","HERVEO"
+73408,"TOLIMA","LeRIDA"
+73411,"TOLIMA","LiBANO"
+73461,"TOLIMA","MURILLO"
+73686,"TOLIMA","SANTA ISABEL"
+73861,"TOLIMA","VENADILLO"
+73870,"TOLIMA","VILLAHERMOSA"
+76036,"VALLE DEL CAUCA","ANDALUCÍA"
+76111,"VALLE DEL CAUCA","BUGA"
+76113,"VALLE DEL CAUCA","BUGALAGRANDE"
+76126,"VALLE DEL CAUCA","CALIMA"
+76248,"VALLE DEL CAUCA","EL CERRITO"
+76306,"VALLE DEL CAUCA","GINEBRA"
+76318,"VALLE DEL CAUCA","GUACARÍ"
+76606,"VALLE DEL CAUCA","RESTREPO"
+76616,"VALLE DEL CAUCA","RIOFRIO"
+76670,"VALLE DEL CAUCA","SAN PEDRO"
+76828,"VALLE DEL CAUCA","TRUJILLO"
+76834,"VALLE DEL CAUCA","TULUÁ"
+76890,"VALLE DEL CAUCA","YOTOCO"
+76020,"VALLE DEL CAUCA","ALCALa"
+76041,"VALLE DEL CAUCA","ANSERMANUEVO"
+76054,"VALLE DEL CAUCA","ARGELIA"
+76100,"VALLE DEL CAUCA","BOLÍVAR"
+76147,"VALLE DEL CAUCA","CARTAGO"
+76243,"VALLE DEL CAUCA","EL ÁGUILA"
+76246,"VALLE DEL CAUCA","EL CAIRO"
+76250,"VALLE DEL CAUCA","EL DOVIO"
+76400,"VALLE DEL CAUCA","LA UNIÓN"
+76403,"VALLE DEL CAUCA","LA VICTORIA"
+76497,"VALLE DEL CAUCA","OBANDO"
+76622,"VALLE DEL CAUCA","ROLDANILLO"
+76823,"VALLE DEL CAUCA","TORO"
+76845,"VALLE DEL CAUCA","ULLOA"
+76863,"VALLE DEL CAUCA","VERSALLES"
+76895,"VALLE DEL CAUCA","ZARZAL"
+76109,"VALLE DEL CAUCA","BUENAVENTURA"
+76122,"VALLE DEL CAUCA","CAICEDONIA"
+76736,"VALLE DEL CAUCA","SEVILLA"
+76001,"VALLE DEL CAUCA","CALI"
+76130,"VALLE DEL CAUCA","CANDELARIA"
+76233,"VALLE DEL CAUCA","DAGUA"
+76275,"VALLE DEL CAUCA","FLORIDA"
+76364,"VALLE DEL CAUCA","JAMUNDÍ"
+76377,"VALLE DEL CAUCA","LA CUMBRE"
+76520,"VALLE DEL CAUCA","PALMIRA"
+76563,"VALLE DEL CAUCA","PRADERA"
+76869,"VALLE DEL CAUCA","VIJES"
+76892,"VALLE DEL CAUCA","YUMBO"
+97161,"VAUPES","CARURU"
+97001,"VAUPES","MITÚ"
+97511,"VAUPES","PACOA"
+97777,"VAUPES","PAPUNAHUA"
+97666,"VAUPES","TARAIRA"
+97889,"VAUPES","YAVARATÉ"
+99773,"VICHADA","CUMARIBO"
+99524,"VICHADA","LA PRIMAVERA"
+99001,"VICHADA","PUERTO CARREÑO"
+99624,"VICHADA","SANTA ROSALÍA"

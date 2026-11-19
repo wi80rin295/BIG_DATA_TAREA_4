@@ -1,3 +1,4 @@
-db.TIPO.insertOne({ID:1, TIPO:"Publica"})
-db.TIPO.insertOne({ID:2, TIPO:"Privada",})
-db.TIPO.insertOne({ID:3, TIPO:"Mixta"})
+ID,TIPO
+1,"Publica"
+2,"Privada"
+3,"Mixta"

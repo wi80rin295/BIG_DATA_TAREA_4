@@ -1,0 +1,71 @@
+//Creación de Colecciones
+db.createCollection("IPS")
+db.createCollection("CALIFICACION")
+db.createCollection("UBICACION")
+db.createCollection("TIPO")
+
+
+//Insertar datos
+
+db.CALIFICACION.insertOne({ID:1, CALIFICACION:"Mala"})
+db.IPS.insertOne({NIT:838000096, Razon_Social:"E.S.E. HOSPITAL SAN RAFAEL DE LETICIA", Direccion:"Carrera 10 NO. 13-78 Leticia (Amazonas)", Telefono:"3203048903", email:"gerencia@esehospitalsanrafael-leticia-amazonas.gov.co", Activa:0, DANE:91001 ,TIPO:4})
+db.UBICACION.insertOne({DANE:91263, Departamento:"AMAZONAS", Municipio:"EL ENCANTO"})
+db.TIPO.insertOne({ID:1, TIPO:"Publica"})
+
+//DATO DE PRUEBA CREACION
+
+db.UBICACION.insertOne({DANE:21000, Departamento:"PRUEBA", Municipio:"PRUEBA"})
+
+//Lectura de datos
+
+db["CALIFICACION"].find()
+db["UBICACION"].find({DANE:91430})
+db["IPS"].find({NIT:901179619})
+db["TIPO"].find({ID:3})
+
+//DATO DE PRUEBA LECTURA
+db["UBICACION"].find({DANE:21000})
+db["UBICACION"].find({Departamento:"PRUEBA"})
+
+
+//Actualizacion de datos
+
+//Agregar un nuevo campo a todos los documentos
+db.IPS.updateMany({},{$set: {CALIFICACION:4}}) 
+
+//Actualizar una fila con un dato especifico
+db.IPS.updateOne(
+{NIT:901179619}, //filtro
+{$set: {CALIFICACION:5}}); //campo a actualizar
+
+
+//DATO DE PRUEBA Actualizacion
+
+//Actualizar una fila con un dato especifico
+db.UBICACION.updateOne(
+{Departamento:("PRUEBA")}, //filtro
+{$set: {DANE:21001}}); //campo a actualizar
+
+Borrar o eliminar
+
+//Borrar todos los documentos  que cumplan una condicion
+db.TIPO.deleteMany({ TIPO:"Mixta"});
+
+//Borrar solo un campo específico de un documento
+
+db.IPS.updateOne(
+  {NIT:901179619}, //filtro
+  { $unset: { CALIFICACION: "" } } // Elimina el campo 'CALIFICACION'
+);
+
+
+
+//DATO DE PRUEBA BORRADO
+
+db.UBICACION.updateOne(
+  {DANE:21000}, //filtro
+  { $unset: { Municipio: "" } } // Elimina el campo 'Municipio'
+);
+
+db.UBICACION.deleteMany({ Departamento:("PRUEBA")});
+
